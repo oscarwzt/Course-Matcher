@@ -1,0 +1,3398 @@
+,id,name,quality,numOfRatings,department,wouldTakeAgainPercent,difficulty
+0,2171,Julia Keefer,4.5,6,Film,N/A,2.8
+1,18708,Alan Corns,2.8,6,Economics,N/A,4.5
+2,18711,Hasia Diner,3.8,9,Social Science,0,3.2
+3,37951,Steve Hutkins,4.5,7,Interdisciplinary Studies,100,2
+4,41264,Tyler Volk,3.5,43,Science,50,3
+5,66753,Pádraig Cearúil,4.5,3,Ethnic Studies,100,2.7
+6,70976,Barbara Heyns,2.9,7,Social Science,N/A,2.6
+7,84859,Joel Spencer,3.7,18,Computer Science,84,3.2
+8,85026,Richard Borowsky,2.6,12,Biology,100,3.5
+9,85153,Meretzky Mark,3.5,3,Computer Science,N/A,2.7
+10,88367,Susanna Horng,3.3,56,Writing,60,3.5
+11,98707,Steve Blader,4.7,3,Business,N/A,3
+12,105411,William Serrin,3.8,15,Journalism,N/A,3.5
+13,107876,Ward Regan,3.8,90,Philosophy,89,2.7
+14,109027,Riaz Khan,2.5,8,History,N/A,3.1
+15,110014,Harvey Molotch,3.7,40,Social Science,84,2.7
+16,111255,Robert Chazan,4.4,27,Hebrew,60,2.5
+17,111269,Stephen Cohen,3.6,35,History,100,3.1
+18,111274,Connie Hayman,0.0,0,Journalism,N/A,0
+19,129601,Manos Pantelidis,4.2,15,Communication,100,1.9
+20,134376,Henry Em,3.4,14,Asian Studies,N/A,3.1
+21,136143,Bruce Bueno De Mesquita,3.6,30,Political Science,84,3.4
+22,139906,Joan Welkowitz,5.0,2,Psychology,N/A,2
+23,143149,Anna Musatti,2.3,18,Economics,100,2.6
+24,143155,Stephen Brown,4.8,4,Business,N/A,2.5
+25,146536,Rebecca Packer,4.3,23,English,N/A,2.2
+26,153827,Gordon Farrell,4.7,11,Theater,N/A,2.6
+27,155314,Elizabeth Phelps,4.2,38,Psychology,100,2.8
+28,157346,Arnie Baskin,3.9,37,Film,0,1.9
+29,159296,Nikhil Singh,4.0,30,History,60,2.9
+30,159368,Peter Chelkowski,3.0,14,Theology,N/A,1.9
+31,160809,Rolf Wolfswinkel,3.0,44,Humanities,100,3.6
+32,164719,David Greenberg,2.2,10,Sociology,0,3.2
+33,165885,Paul Fleming,4.7,11,Languages,N/A,2.6
+34,177733,Antonio Rutigliano,4.4,27,History,100,2.1
+35,184255,Martin Harries,3.8,12,Theater,N/A,3.1
+36,187881,Grant Wenaus,4.1,6,Music,N/A,3.8
+37,190132,Anya Saffir,4.6,13,Theater,N/A,3.3
+38,195465,Rodolfo Aiello,2.3,15,Languages,N/A,3.7
+39,197711,Bill Phillips,4.0,12,Communication,N/A,2.1
+40,197988,Keith Vincent,4.2,10,Literature,100,2.6
+41,198918,Charles Wilson,3.3,15,Economics,100,4.1
+42,214243,Gordon Pradl,4.5,5,English,N/A,2.6
+43,218972,Mahnaz Yousefzadeh,2.3,27,Humanities,50,3.1
+44,221926,Walter Alvarez,3.6,23,Social Science,67,1.8
+45,226126,Bill Wesbrooks,4.4,9,Music,N/A,3
+46,229005,John Leahy,3.9,15,Economics,N/A,3.7
+47,229010,Neville Kallenbach,3.7,29,Chemistry,50,3.3
+48,197997,Moss Roberts,3.4,28,Literature,100,2.3
+49,246012,Scott Hightower,4.2,11,English,100,2.1
+50,246750,Mary Carpenter,4.5,13,Communication,N/A,2.2
+51,246762,Heidi Fuld,4.3,4,Education,N/A,3
+52,247988,Bertell Ollman,2.3,54,Political Science,67,2
+53,250328,Rachelle Sussman,4.1,8,Communication,N/A,2.9
+54,250333,Terry Moran,3.1,33,Communication,100,3
+55,252129,Lara Narcisi,4.5,6,English,N/A,3.8
+56,254008,Anne Marie Tamis-Nasello,3.6,6,Italian,N/A,2.8
+57,262333,Elliot Wolfson,3.4,4,Theology,N/A,3.8
+58,264134,Fred Greenleaf,3.2,20,Mathematics,N/A,3.6
+59,266382,Qiuxia Shao,4.7,13,East Asian Studies,100,3.3
+60,266476,Robert Wallace,2.6,47,Science,N/A,3.3
+61,268538,Martin Roberts,1.0,2,Communication,0,3.5
+62,272742,John Richardson,4.4,12,Philosophy,25,3
+63,272743,Ned Block,4.3,13,Philosophy,58,3.2
+64,274934,Paul Glimcher,4.7,22,Science,N/A,3.6
+65,278801,Simeon Berman,3.6,8,Mathematics,N/A,1.6
+66,278914,Chery Sterling,2.8,16,Not Specified,N/A,3.6
+67,280342,Miriam Frank,2.7,71,History,N/A,3.3
+68,284949,Tommy Lee,3.8,42,Biology,100,3.3
+69,285583,Jose Vazquez,4.7,23,Not Specified,N/A,1.5
+70,287869,Frederic Lerner,2.7,12,Accounting,100,3.2
+71,289064,Craig Calhoun,3.4,10,Sociology,N/A,3
+72,289108,Wendy Bednarz,3.9,14,Film,N/A,2.7
+73,292521,Jindrich Zezula,4.3,21,French,100,1.5
+74,293388,Aaron Hipscher,3.9,27,Accounting,N/A,4
+75,295364,Greg D'Amico,3.5,7,Communication,N/A,2
+76,296871,Maurice Miller,2.4,6,Communication,N/A,1.7
+77,305464,William Klein,3.0,70,Medicine,56,2.1
+78,305504,Jane Laforge,3.7,19,English,N/A,3
+79,305639,Gabriel Moran,3.6,6,Education,N/A,1.7
+80,312893,Evan Mueller,5.0,7,Music Performance,100,2.7
+81,313916,John Crawford,5.0,11,Film,N/A,2.9
+82,317947,Eunha Choi,4.5,6,Languages,N/A,3
+83,321024,Sheldon Woodbury,5.0,6,Film,100,2
+84,323028,John Sexton,4.6,19,Law,100,3.6
+85,327118,Robert Richardson,2.3,9,Physics,N/A,4.6
+86,327139,B.C. Roberts,1.5,21,Writing,N/A,4.5
+87,327142,Jeffrey Jenkins,3.1,21,Theater,N/A,2.7
+88,307513,Andrew Gebhardt,2.4,15,English,N/A,3.5
+89,307516,Mariela Dreyfus,3.8,10,Spanish,100,2.7
+90,308249,Robert Boland,3.5,11,Management,N/A,2
+91,308573,Ned Wilson,3.4,11,Liberal Studies,N/A,2.1
+92,309233,Chet Advani,4.6,27,Mathematics,100,2.3
+93,315264,Mehmet Tabak,4.5,31,Political Science,72,2.6
+94,352763,Nuar Alsadir,4.2,40,Writing,89,2.7
+95,353656,Linda Almeida,3.7,7,English,100,3.4
+96,356831,Jenna Hirsh,5.0,5,Mathematics,100,2.6
+97,357163,John Singler,4.5,6,Linguistics,N/A,2.5
+98,358036,Pamela Newkirk,1.8,16,Journalism,40,3.1
+99,359182,Tom Igoe,3.2,5,Fine Arts,N/A,3.4
+100,361101,Tom Meyvis,4.3,7,Marketing,N/A,2.6
+101,361505,Amitav Chakravarti,4.3,8,Marketing,N/A,2.6
+102,369780,Catherine Fitterman-Radbill,1.8,18,Music,N/A,2.8
+103,372712,Nick Tanis,4.4,34,Film,100,2.5
+104,377949,John Gurrin,4.4,14,Film,100,1.7
+105,381063,Bridget O'Connor,2.8,7,Education,N/A,2.7
+106,381355,Albert Novikoff,2.3,15,Mathematics,N/A,2.9
+107,388325,Morten Parker,4.9,7,Film,N/A,2
+108,389948,Celia Stewart,1.3,6,Communication,0,3.7
+109,390531,James Colaiaco,4.0,45,Philosophy,0,2.9
+110,400876,Ray Dougherty,2.4,19,Linguistics,N/A,2.8
+111,405301,Harry Kitsikopoulos,3.4,115,Economics,N/A,3.1
+112,405908,David Sider,4.8,6,Classics,100,3.8
+113,405913,Sibel Erol,4.6,16,Languages,100,2.5
+114,410515,Mitchell Langbert,2.3,3,Business,0,1.7
+115,414680,Gary Holden,3.3,11,Social Work,43,4.1
+116,416040,Marion Kaplan,3.4,13,History,100,4.1
+117,416131,Nader Masmoudi,3.0,15,Mathematics,N/A,3.5
+118,382751,S R S Varadhan,2.2,6,Mathematics,34,2.5
+119,387527,Genna Estraikh,3.6,7,Religion,N/A,2
+120,433977,Boyan Jovanovic,3.3,8,Economics,100,3.1
+121,433978,Jean-Pierre Benoit,4.5,4,Economics,N/A,3.3
+122,435841,John Frecerro,3.5,7,Ethnic Studies,N/A,3.3
+123,436421,Karen Finley,2.7,8,Social Work,67,1.5
+124,442544,Paul Thaler,4.1,11,Journalism,75,2.1
+125,442872,Christine Choy,3.5,6,Film,100,2
+126,444690,Anabel Lopez-Garcia,4.0,10,Spanish,67,3.4
+127,444994,Perry Halkitis,4.9,8,Psychology,N/A,3.5
+128,446750,Janet Neipris,3.2,3,Adult Basic Education,N/A,2.7
+129,447724,Michael Krass,3.8,15,Design,N/A,3.6
+130,448699,David Berry,4.0,6,Liberal Arts & Sciences,N/A,2.8
+131,448709,Gary Marcus,2.6,21,Psychology,100,3.5
+132,451238,Patrick Deer,4.1,21,English,100,2.4
+133,451275,Georgiana Perlea,2.5,4,Languages,N/A,2.3
+134,453787,Despoina Lalaki,4.6,4,Languages,N/A,1.8
+135,454651,Sharmila Mukherjee,3.1,23,Writing,N/A,3.4
+136,454687,Scott Sanders,3.2,3,Languages,N/A,2.7
+137,456317,Dalton Conley,2.5,36,Sociology,N/A,3
+138,456327,Evelyn Vitz,4.4,8,Religious Studies,0,2.2
+139,457158,Charlton McIlwain,3.3,8,Not Specified,N/A,3.6
+140,457348,Chad Rice,4.1,10,Spanish,N/A,3.3
+141,457409,John Daprato,3.9,8,Communication,N/A,2.3
+142,457444,Sara Murphy,4.2,13,Literature,100,3
+143,459695,Will McCormack,2.5,22,Writing,N/A,4.2
+144,459696,Jessica Goethals,4.5,5,Languages,N/A,1.8
+145,462108,Jay Rosen,2.6,7,Journalism,N/A,2.1
+146,462111,Stacey Lutz,2.5,12,Psychology,N/A,3.4
+147,462675,Thomas Nagel,4.3,6,Philosophy,N/A,3
+148,464234,Hannah Messerli,4.2,9,Hospitality,0,3.6
+149,465400,Douglas Lasdon,2.8,8,Law,0,3
+150,478916,Randy Mowry,4.2,16,Psychology,N/A,3.1
+151,480319,Edward Sullivan,4.5,2,Art History,100,3.5
+152,480992,Tom Bishop,1.4,7,French,N/A,3.7
+153,481440,Haruko Momma,3.4,17,English,100,1.9
+154,483877,Joy Connolly,4.4,33,Classics,N/A,2.5
+155,484661,Walter Reinhold,4.3,20,Music,N/A,2.4
+156,484857,Ann Morning,4.4,15,Sociology,100,3.6
+157,495345,Lawrence Watkins,4.4,32,Sociology,N/A,1.4
+158,499999,Rodney Benson,2.8,5,Communication,N/A,3.8
+159,500006,Erich Dietrich,4.5,7,Communication,N/A,3.6
+160,503420,David Damstra,3.9,20,Writing,0,3
+161,504128,Joan Horvath,3.6,12,Film,34,3.1
+162,504868,Fritz Ertl,4.2,9,Theater,100,3.2
+163,505386,David Irving,4.5,12,Film,100,2.4
+164,505403,Bernard Manin,4.2,8,Political Science,100,2.1
+165,505683,El Schucking,3.4,24,Science,N/A,2.2
+166,506431,Jenny Leidner,2.9,17,Writing,N/A,3.7
+167,506526,Paul Thompson,4.9,15,Film & Television,100,2.6
+168,507023,Karen Hornick,4.2,11,English,100,2.7
+169,507024,Judith Greenberg,4.1,20,Writing,80,3.1
+170,507796,Mary Helen Kolisnyk,2.5,32,English,88,3.2
+171,508076,Alberto Gabriele,1.6,14,Cultural Studies,0,3.5
+172,508417,Mario Rizzo,3.2,13,Economics,80,2.9
+173,508506,Samuel Marateck,3.2,57,Computer Science,N/A,2.6
+174,509438,Kathleen Hulley,4.4,7,Literature,N/A,3.9
+175,509483,Paul Monsour,4.5,10,Mathematics,N/A,3
+176,509677,Mary Roma,4.1,40,Writing,94,1.4
+177,509947,Bob Vorlicky,4.4,17,Theater,100,3.8
+178,510147,Lynne Kiorpes,4.1,14,Arts & Sciences,N/A,3.6
+179,511914,Mark Smith,3.0,24,History,100,3.3
+180,513158,Ingrid Ellen,4.5,2,Social Science,100,3.5
+181,518432,Gabrielle Starr,3.6,16,Literature,N/A,3.5
+182,518433,Lamar Sanders,4.1,19,Film,100,2
+183,518746,Todd Disotell,4.2,18,Anthropology,34,3.4
+184,520355,Dan Rudofossi,4.8,6,Psychology,N/A,2.2
+185,521083,Pedro Noguera,4.8,6,Education,N/A,3.2
+186,521341,Joe Salvatore,4.9,9,Theater,100,2.8
+187,522831,Dermot Gately,2.6,25,Economics,N/A,3.5
+188,531406,Ronald Moglia,3.6,13,Psychology,N/A,2.3
+189,532399,Payman Norestah,3.3,9,Mathematics,50,2.7
+190,538919,Charles Affron,3.2,5,Film,N/A,3.4
+191,538961,Marion Casey,3.1,18,Ethnic Studies,100,3.4
+192,544180,Tycho Sleator,3.1,14,Physics,0,3.3
+193,544919,Stephen Small,4.1,46,Science,90,3.7
+194,548714,Peter Nemethy,3.4,5,Physics,N/A,4
+195,549444,Jocelyn Gonzales,4.6,25,Film,100,2.4
+196,549700,William Velhagen,3.7,43,Biology,N/A,3.3
+197,552774,Andrea McKenzie,4.8,13,Writing,N/A,3.3
+198,552919,Cathy Benedict,3.5,8,Music,N/A,3.5
+199,555050,Jacqueline Jaffe,3.6,35,Liberal Arts & Sciences,N/A,3.8
+200,556745,Angela Frattarola,4.1,21,Writing,72,3.2
+201,556808,Antoinette Nwandu,4.2,3,Writing,N/A,4
+202,556972,Matthew Evans,3.0,10,Philosophy,N/A,3.3
+203,558909,Elizabeth Diggs,2.5,16,Writing,N/A,2
+204,558974,Tracy Daraviras,4.2,5,Education,0,2.4
+205,539459,Olivia Birdsall,3.5,36,Expository Writing,78,3.3
+206,542430,Leonard Wantchekon,1.5,12,Political Science,N/A,2.9
+207,569391,Kimberley Monteyne,4.3,2,Film,N/A,2
+208,575609,Nathaniel Bennett,4.6,27,English,100,3.6
+209,579256,Faye Ginsburg,5.0,3,Anthropology,N/A,3.3
+210,585958,Jo Ellen Fisherkeller,2.3,19,Communication,0,3.3
+211,586599,Fran Stern,4.2,10,Journalism,34,3.9
+212,588004,Daniel Banks,2.5,12,Theater,100,3.6
+213,590483,Gregory Gabadadze,3.5,9,Physics,100,1.7
+214,590485,Markus Cruse,4.8,4,French,100,3
+215,552831,Christopher Trogan,4.3,31,English,100,3.2
+216,598199,James Bryan Wolcott,4.9,9,Languages,N/A,2.9
+217,599406,Elihu Rose,4.3,21,History,N/A,2.9
+218,604172,Ezra Sacks,4.6,7,Film,N/A,1.6
+219,608946,Scott Eggebeen,2.3,12,Psychology,N/A,4.3
+220,608973,Henrie Goldwyn,3.9,15,French,N/A,2.1
+221,610811,Susan Anton,4.4,21,Anthropology,100,3.8
+222,610871,Irina Belededova,4.8,8,Languages,N/A,2.1
+223,612517,Marco Aponte,4.8,4,Languages,N/A,3.3
+224,614188,Kim Phillips-Fein,4.0,12,History,100,2.8
+225,614672,Nancy Jackson,3.0,15,Nursing,N/A,4.3
+226,615601,Janusz Ordover,2.5,2,Economics,N/A,2
+227,615603,Alessandro Lizzeri,2.4,8,Economics,25,3.4
+228,615604,Susan Gale,2.1,29,Economics,N/A,2.5
+229,580544,David Hogg,3.2,60,Physics,79,3
+230,592599,Denice Martone,4.5,13,Writing,84,2.6
+231,593826,Martin Schain,2.8,10,Political Science,N/A,3.6
+232,593827,Denis Kosygin,3.0,23,Mathematics,100,3
+233,594562,Sudhir Mahadevan,2.5,2,Film,0,3
+234,595197,Kyra Gaunt,2.3,6,Music,N/A,1.3
+235,596141,Denis Pelli,2.9,15,Psychology,100,2.5
+236,596591,Greg Murphy,3.6,16,Psychology,100,3.4
+237,596929,Shelly Rice,4.1,11,Fine Arts,100,2.5
+238,597143,James Uleman,2.9,36,Psychology,38,2.7
+239,597290,Catherine King,3.9,22,Science,N/A,2.6
+240,638083,Thomas Abercrombie,1.8,32,Latin American Studies,0,3.3
+241,638650,Jessica Shimmin,3.2,10,Communication,N/A,3.3
+242,640412,Rita Pasqui,4.0,5,Italian,N/A,2.4
+243,641613,Ann Pellegrini,4.7,12,Performing Arts,100,3.5
+244,644442,Susan Russell,3.2,3,Humanities,N/A,3.7
+245,647013,Aisha Khan,3.1,32,Anthropology,100,2.8
+246,648682,John Bildersee,2.2,7,Accounting,0,4.4
+247,653435,Amos Poe,4.2,9,Film & Television,N/A,2.4
+248,670972,Hector Feliciano,5.0,5,Art History,N/A,2.4
+249,673732,Matthew Gilgoff,5.0,6,Writing,N/A,4.7
+250,675753,Richard Heffner,3.8,4,Communication,N/A,3.5
+251,676667,Kenneth Peacock,1.6,14,Music,N/A,3.4
+252,679665,Richard Hull,4.0,12,History,N/A,2.5
+253,682353,Chris Straayer,4.7,6,Film,100,3.2
+254,682726,Alex Dontoh,4.1,6,Accounting,100,2.7
+255,683706,Khaled Fahmy,4.4,12,Near Eastern Studies,N/A,2.8
+256,683809,Philip Taylor,4.3,3,Music Performance,N/A,3
+257,685458,Carolyn Wagner,3.3,4,Education,34,2.2
+258,686655,Vivien Orbach-Smith,4.3,7,Journalism,0,2.6
+259,687668,Erika Devries,4.3,3,Photography,N/A,1.7
+260,691972,Charles Peskin,4.6,10,Mathematics,72,2.7
+261,694716,Rebecca Mercer-White,4.3,6,Education,100,2
+262,695615,Olof Widlund,1.9,10,Mathematics,N/A,3.2
+263,696388,Bonnie Selterman,2.9,19,Communication,N/A,2.6
+264,623577,Helen Nissenbaum,1.2,5,Communication,0,2.2
+265,627922,Ruth Horowitz,3.6,9,Sociology,0,2.4
+266,629046,Xudong Zhang,3.2,12,Literature,0,2.7
+267,631944,Deborah Willis,3.3,6,Film,N/A,2.2
+268,632172,Panos Ipeirotis,4.6,7,Business,N/A,2.3
+269,632561,Carlos Seidler,3.8,3,Languages,N/A,3
+270,633725,Mark Read,3.4,5,Journalism,0,2.8
+271,651720,Terrie Epstein,4.5,2,Education,N/A,2.5
+272,738063,Frederico Bertagnoli,3.8,10,Communication,N/A,2.5
+273,739043,Ken Liotti,3.1,11,Film & Television,100,2.4
+274,745389,Beth Epstein,3.7,3,French,0,3.3
+275,747903,Maeve Adams,3.7,13,English,N/A,3.8
+276,752184,Luke Fiske,3.6,25,Writing,67,4
+277,752923,Stacy Pies,3.9,12,Writing,100,3.7
+278,753274,Xiao Xiao Jiao,4.2,10,East Asian Studies,N/A,3.7
+279,754423,Rita Wright,2.9,17,Anthropology,100,3.1
+280,696286,Sang-jin Bae,4.6,9,Animation,100,2.9
+281,699006,Danny Carragher,4.9,7,Psychology,N/A,1.6
+282,761762,Heather Lukes,4.8,2,English,N/A,3
+283,761978,Anne Rademacher,4.2,19,Sociology,75,3.8
+284,761981,Francesco Ianni,3.3,7,Statistics,N/A,2.1
+285,762162,Zvi Ben-Dor,3.4,28,Cultural Studies,N/A,2.6
+286,762577,Edgar E Coons,3.1,62,Psychology,50,3.3
+287,763556,Patricia Lennox,4.1,13,English,N/A,3
+288,765235,Tzu Wen/ Vincent Cheng,3.9,9,Communication,N/A,2.6
+289,766538,Deborah Stein,3.6,13,Writing,N/A,2.9
+290,766875,Bob Richter,5.0,23,Communication,100,1.7
+291,768282,Elaine Freedgood,2.8,17,English,100,3.9
+292,769312,Robert Whitelaw,4.7,3,Finance,100,4.3
+293,771404,William Rauscher,4.7,3,Foreign Languages,N/A,1.3
+294,773926,Etem Erol,3.3,14,Near Eastern Studies,N/A,2
+295,774032,Amaya Amell,4.9,7,Spanish,N/A,2.1
+296,775990,Georgina Dopico Black,4.9,6,Spanish,N/A,3
+297,779179,Jeff Strabone,4.2,21,Writing,N/A,3.2
+298,735966,Barney Bramham,4.8,6,Mathematics,N/A,2.8
+299,737023,Paul Urcioli,5.0,4,Theater,N/A,3.5
+300,737171,Robert Boynton,3.5,5,Journalism,N/A,4.2
+301,738070,Sam Howard-Spink,4.6,11,Communication,100,2.8
+302,794163,Marion Katz,3.9,17,Near Eastern Studies,34,3
+303,797419,Antonio Lauria,3.6,4,Writing,0,1.5
+304,797420,Robert Hinton,3.3,4,African Studies,N/A,2
+305,797978,Efrain Azmitia,2.7,28,Biology,60,3.1
+306,799462,Mark Arywitz,4.5,14,Film & Television,100,1.9
+307,799560,Scott Kellogg,4.3,26,Psychology,75,1.5
+308,800241,Jeffrey Korn,3.4,5,Computer Science,N/A,4
+309,800919,Tom Jacobs,4.3,10,Writing,100,2.5
+310,801254,Tracy Miller,5.0,3,English,N/A,3.3
+311,802875,Robert Shrum,4.7,8,Political Science,100,2.5
+312,803032,Tom De Zengotita,5.0,1,Philosophy,N/A,4
+313,803706,Lindsey Eufusia,4.0,3,Italian,N/A,2
+314,803753,Joseph Oved,3.9,11,Chemistry,N/A,2.8
+315,804782,Zhanwei Yue,2.6,8,Economics,N/A,3.4
+316,806264,John Jost,2.7,9,Psychology,N/A,3.3
+317,806892,Erin Slattery-Black,4.9,4,Theater,100,3.3
+318,811408,Asli Peker,3.0,15,Political Science,0,2.6
+319,813031,Herrick Chapman,4.5,3,French Studies,100,2.7
+320,813035,Rachel Dewoskin,5.0,2,Writing,N/A,2.5
+321,813071,Peter Barton,2.5,4,Film & Television,N/A,3.5
+322,815740,Luis Hall,1.8,13,Economics,N/A,3
+323,816465,Sheldon Watts,4.6,10,Nutrition & Foods,N/A,2.6
+324,817884,Mitchell Moss,4.4,4,Not Specified,N/A,2
+325,817890,Roger Kropf,1.2,3,Health Administration,N/A,3
+326,826937,Mikhail Iampolski,3.4,6,Russian Studies,67,3.2
+327,828449,Stephanie Ponsavady,5.0,4,French,N/A,3.3
+328,830997,Marc Barnhill,4.1,11,Writing,100,2.7
+329,831379,Bambi Schieffelin,3.8,18,Anthropology,60,3.8
+330,832388,Amy Topel,4.6,5,Nutrition & Foods,N/A,2.2
+331,832850,Jason Stanyek,3.9,8,Music,N/A,3.1
+332,833518,Saverio Spagnolie,5.0,2,Mathematics,N/A,3.5
+333,834098,Michael Gilsenan,2.1,13,Near Eastern Studies,100,3.9
+334,783511,Stan Mintchev,2.4,12,Mathematics,N/A,4.7
+335,786311,Sydney Scott,4.7,22,Communication,N/A,1.9
+336,786681,Seth Lobdell,4.9,11,French,N/A,2.3
+337,790303,Zach Holbrook,5.0,4,English,100,2.5
+338,790786,Benedick Turner,2.8,10,English,N/A,4.2
+339,793025,Atilla Yilmaz,4.5,4,Mathematics,100,3.2
+340,793131,Adrienne Ghaly,3.6,6,English,0,4.2
+341,793909,Ben Stewart,4.3,19,Writing,50,3.4
+342,835947,Jeffrey Sammons,2.3,13,History,100,4.6
+343,836351,Daisy Bow,4.8,6,French,100,2.5
+344,838629,Tahira Naqvi,4.5,5,Near Eastern Studies,N/A,1.2
+345,838644,Maia Kayal,3.3,2,Biomedical,N/A,2
+346,838876,Michael Laver,3.6,21,Political Science,0,1.9
+347,839261,Stephanie Dubois,4.4,16,French,60,3.2
+348,840392,Robert Rehder,3.4,13,Psychology,0,3.8
+349,840685,Jonathan Zimmerman,4.6,26,History,100,2.8
+350,842539,Lant Antonia,2.4,6,Cinema,100,3.2
+351,843311,Denis Donoghue,2.6,6,English,N/A,3.8
+352,844090,Mark Baltin,2.4,8,Linguistics,0,2.9
+353,845694,Stella Lee,3.6,10,East Asian Studies,N/A,2.5
+354,849255,Kirby Gookin,4.2,3,Art,100,3
+355,849257,Davi Rimanelli,2.0,3,Art History,N/A,3.7
+356,849259,Brooke Kroeger,2.7,15,Journalism,N/A,4.5
+357,849446,Leigh Claire La Berge,3.6,8,Cultural Studies,34,4.1
+358,854644,Michael Hawken,3.3,8,Arts & Sciences,N/A,3.1
+359,856885,Joe Magee,2.0,10,Psychology,0,3
+360,861729,Najma Harissiadis,1.8,5,Dance,0,1.6
+361,864320,Christiane Manzella,2.2,5,Psychology,N/A,4.2
+362,821475,Judith Helfand,1.1,5,Film & Television,N/A,4.2
+363,822331,Ajay Maindiratta,2.9,8,Accounting,N/A,3
+364,822333,Lasse Pedersen,3.3,3,Finance,N/A,3.7
+365,825703,Jonathan Kahana,2.8,9,Cinema,N/A,2.9
+366,829977,Ronald Zweig,4.3,38,History,65,3.1
+367,867720,George Stoney,3.9,4,Film & Television,N/A,2.3
+368,871840,Ann Marcus,4.5,1,Education,N/A,2
+369,885363,Elizabeth Durden,3.3,7,Writing,N/A,3.9
+370,885483,Louis Pagonis,4.7,12,Psychology,N/A,4
+371,886207,Joanna Waley-Cohen,4.4,4,History,N/A,1.8
+372,886317,Laura Henchy,0.0,0,Chemistry,N/A,0
+373,886502,Suzanne Cusick,4.9,5,Music,100,3.6
+374,888470,Donatella Delfino,3.5,2,Mathematics,100,3
+375,835446,Penny Vlagopoulos,4.5,4,Writing,N/A,2.5
+376,835447,Lauren Davis,4.5,5,Business,100,1.6
+377,835596,Elizabeth Monti,4.5,10,Art History,100,2.7
+378,835607,Tamera Sears,3.0,9,Art History,N/A,3.6
+379,835795,Ross Tulloch,3.8,2,Mathematics,N/A,3
+380,835802,Shoba Bandi-Rao,4.1,16,Writing,75,2.8
+381,918068,Carmelo Larose,4.9,5,English,N/A,3.2
+382,918111,Julie Browne,4.8,6,Political Science,N/A,2.3
+383,918630,Henry Brenner,3.2,11,Chemistry,N/A,2.1
+384,918944,Daniel Walkowitz,3.0,11,History,N/A,3.6
+385,919235,Natalie Meir,4.6,8,Writing,100,3
+386,919257,Ning Jiang,3.2,9,Mathematics,N/A,3.4
+387,919844,Cristina Vatulescu,4.8,2,Cinema,N/A,2.5
+388,920015,Marylouise Oates,3.8,7,Not Specified,N/A,2
+389,859394,Shafer Smith,3.1,30,Mathematics,74,3.2
+390,865077,Ricki Goldman,2.6,4,Education,N/A,2.3
+391,865558,Marco Deseriis,3.8,12,Communication,N/A,2.5
+392,866540,Hanya Wozniak Brayman,3.9,8,Spanish,N/A,1.9
+393,866618,Anton Vishio,4.0,6,Music,100,2.8
+394,942385,Robert J. Boylan,3.5,21,Microbiology,100,3.7
+395,948267,Joseph Thometz,4.7,30,Cultural Studies,N/A,2.4
+396,948784,Halley Moore,2.0,9,Writing,N/A,4.3
+397,949145,Tom Gerety,4.5,38,Philosophy,100,3
+398,950435,Liz Heard,2.7,13,Writing,N/A,3
+399,952066,Bill Rayner,4.6,13,Music Performance,100,1.4
+400,954179,Steven Soter,3.0,5,Classics,N/A,2.8
+401,954582,Lisa Sokolov,3.0,6,Performing Arts,100,3
+402,903690,Willemyn Don,3.8,4,French,N/A,3.3
+403,903692,Juan Corradi,3.5,18,Sociology,N/A,2.4
+404,904035,Pierre Germain,3.5,8,Mathematics,100,3
+405,904639,Christopher Wall,3.2,30,Writing,65,3.9
+406,905051,Andrew Goldman,4.7,5,Film & Television,100,2
+407,909868,Daniel Tranchina,4.4,9,Mathematics,100,2.3
+408,910465,Gabriela Ilieva,4.3,14,Near Eastern Studies,100,2
+409,915187,Shirley Washington,2.2,10,Business,N/A,2.9
+410,916126,Jose Munoz,4.2,5,Performing Arts,N/A,4.2
+411,916237,William Felz,4.1,6,Communication,N/A,2
+412,916723,Jocelyn Dueck,4.5,2,Music Performance,N/A,2
+413,917209,Chris Mills,2.6,13,Theater,0,4.1
+414,917292,Eren Tufekci,3.7,17,Economics,N/A,2.9
+415,918032,Shawn Threadgill,3.4,14,Communication,N/A,2.9
+416,920719,Richard Parra,4.3,6,Spanish,N/A,1.8
+417,920721,Jeff Manza,4.2,28,Sociology,85,2.1
+418,978547,Simon Jackson,4.2,9,History,N/A,4
+419,979201,Mary Haslam,3.8,16,French,67,2.8
+420,979697,Victoria Hart,4.6,6,Theater,N/A,4.3
+421,980186,Jill Grossman,4.3,3,Journalism,N/A,3
+422,980611,Rosalie Kamelhar,4.6,12,Hebrew,100,1.8
+423,981666,Anne Marie Skvarla,4.5,3,Speech & Hearing Sciences,N/A,2.3
+424,982230,Ben Sammons,3.3,7,Classics,N/A,3
+425,982645,Talia Jimenez-Ramirez,4.5,1,Music,N/A,2
+426,982727,Cobina Gillitt,2.8,13,Theater,0,3.8
+427,984097,Thomas Bender,3.2,11,History,N/A,3.6
+428,984432,James Peck,4.6,7,East Asian Studies,80,3.3
+429,985682,Richard Horwich,1.7,3,English,N/A,3.3
+430,990099,Salvador Martinez,3.0,2,Spanish,N/A,3.5
+431,991847,Hasani Carter,4.5,2,Interdisciplinary Studies,N/A,4.5
+432,993855,Suzan Russell,4.0,12,Liberal Studies,100,2.6
+433,996159,Ambar MacHfoedy,4.7,22,Marketing,N/A,2.3
+434,1002641,Sha Yang,4.0,3,Marketing,N/A,2.7
+435,1003794,Jennifer Heerwig,4.5,1,Sociology,N/A,3
+436,1004178,Tilottama Karlekar,3.3,10,Communication,34,1.6
+437,1009248,David Barnett,2.5,8,Philosophy,N/A,3.6
+438,1009296,Richard Arum,4.2,36,Sociology,N/A,2.6
+439,1010376,Kostis Smyrlis,1.9,9,History,0,3.2
+440,1021106,David Ludden,2.7,22,History,20,2.4
+441,1024834,Carolyn Goldberg,4.7,3,Mathematics,N/A,3
+442,954835,Amy Leclair,5.0,7,Sociology,N/A,1.9
+443,954838,Ilana Derman,3.6,11,Nutrition & Foods,N/A,2.6
+444,955940,John Greer,4.0,2,Mathematics,N/A,3
+445,956779,Janelle Blankenship,3.0,3,Not Specified,N/A,3.7
+446,960217,Caitlin Zaloom,4.0,24,Liberal Arts & Sciences,100,3
+447,960583,Tony Judt,5.0,1,History,N/A,5
+448,964123,Marco Williams,4.2,8,Film & Television,100,3.8
+449,966283,Yvette Biro,1.0,1,Film,N/A,5
+450,967290,Vida Schreibman,5.0,2,Art History,100,1.5
+451,970668,Joseph Liddicoat,1.7,5,Information Science,N/A,2.6
+452,973272,Jo Labanyi,4.2,13,Spanish,50,3.5
+453,973422,Stacy Rosenberg,3.7,3,Business,N/A,3.3
+454,973674,Ben Kafka,4.2,22,Communication,84,3
+455,1037494,Carolyn Kane,0.0,0,Communication,N/A,0
+456,1037978,Zachary Snider,4.2,19,Writing,N/A,3.4
+457,1038579,Ping Wang,4.0,5,East Asian Studies,N/A,4.2
+458,1039259,Fidelindo Lim,4.9,4,Nursing,N/A,3.5
+459,1040925,Adam Penenberg,3.7,6,Journalism,100,2.5
+460,1043587,Ronald Glassman,4.3,27,Sociology,100,1.3
+461,1044369,Michael Purugganan,4.3,7,Biology,N/A,2.9
+462,1045084,Scott Korb,4.9,17,Writing,100,2.7
+463,1063517,Daryl Embry,4.8,6,Educational Theater,100,2.5
+464,1063799,Marilyn Young,4.6,7,History,N/A,2.3
+465,1065734,Jelena Karanovic,1.6,5,Anthropology,N/A,3
+466,1067900,Adam Buchwald,4.5,20,Speech & Hearing Sciences,93,2.4
+467,1070560,Lynn Sally,4.8,3,History,N/A,2.7
+468,1072669,Frank Rolapp,4.5,4,Writing,N/A,3.5
+469,1075425,Karen Newman,3.5,4,English,N/A,4
+470,1076114,Hatim El-Hibri,2.6,9,Communication,N/A,3.1
+471,1076869,Rhoda Berenson,3.4,34,Physics,54,2.8
+472,1079338,Frank Flaherty,4.7,9,Journalism,100,3.1
+473,1081039,Andrew Needham,4.6,10,History,100,3.1
+474,1081449,Justin Blau,4.0,5,Biology,67,3.2
+475,1081870,Ian Stewart,4.6,9,Accounting,N/A,3.7
+476,1082275,Keith Davis,4.5,2,Film & Television,N/A,1.5
+477,1082278,Linda Yearwood,2.9,8,Film & Television,N/A,1.4
+478,1085124,Michael Shelley,3.1,8,Mathematics,0,3.6
+479,1085590,Jasna Bruic,2.8,20,Physics,60,3
+480,1086043,Ilya Kliger,4.8,8,Russian Studies,100,3.1
+481,1086396,Ahu Gemici,3.6,32,Economics,N/A,2.8
+482,1088568,Peter Gollwitzer,3.3,4,Psychology,100,2.8
+483,1089743,Jerome Wakefield,4.5,2,Social Work,100,2.5
+484,1093317,Markus Asper,4.5,2,Classics,N/A,4
+485,1093945,Robert Hawkins,3.8,2,Social Work,N/A,4
+486,1097122,Erica Lee Lewis,4.5,10,Teaching & Learning,N/A,1.5
+487,1026146,Jefferson Flanders,3.5,3,Journalism,N/A,1.3
+488,1026863,Steven Crumb,4.3,6,French,N/A,3.2
+489,1027136,Henry McKean,1.9,5,Mathematics,0,4.2
+490,1027295,Rachel Rosen,3.5,4,English,N/A,3.3
+491,1029502,Rebecca Sparks,2.0,6,Nutrition & Foods,N/A,3.3
+492,1033406,Jack Marr,4.0,2,Economics,N/A,2
+493,1034289,Shaghayegh Harbi,3.8,44,Biology,50,2
+494,1035853,Valeria Castelli,4.5,5,Italian,100,2.2
+495,1110023,Lyndon Haynes,4.8,11,Mathematics,100,2.3
+496,1111486,Sean Justice,3.0,2,Art Studio,0,1.5
+497,1112101,Joe Calderone,4.0,3,Journalism,N/A,3.7
+498,1114482,Michael Neuman,1.7,8,Marketing,N/A,3.4
+499,1117479,Alejandro Velasco,4.5,9,Latin American Studies,100,3.9
+500,1117603,Andrew Sartori,4.4,11,History,100,2.5
+501,1120232,D.L. Wolitzky,3.5,14,Psychology,N/A,1.8
+502,1124975,Travis Hall,4.4,7,Communication,N/A,1.9
+503,1125964,Kimberly Feltner,3.9,4,Psychology,N/A,2
+504,1052657,Zhen Zhang,2.8,5,Cinema,34,4
+505,1052696,Irene Kling,2.8,5,Speech & Hearing Sciences,N/A,4.4
+506,1054053,Jacob Jacoby,3.2,6,Marketing,50,2.3
+507,1056720,Suzanne Menghraj,2.9,32,Liberal Studies,36,3.5
+508,1056769,Yasser Hariry,5.0,4,French,N/A,2.3
+509,1056967,Anna McDonald,4.4,9,Writing,N/A,3.3
+510,1057905,Michael Landy,2.4,14,Psychology,34,4.1
+511,1063220,Yann Lecun,1.6,5,Computer Science,34,4
+512,1063301,Chitra Neogy,3.6,9,Film & Television,100,1.6
+513,1160333,Ryan Mills,1.0,2,Education,N/A,4
+514,1160670,Linda Scheetz,3.0,2,Nursing,N/A,2.5
+515,1168433,Nikki Cesare,4.8,2,Theater,N/A,3.5
+516,1168822,Jon Holden,5.0,3,Not Specified,100,2.3
+517,1168825,Hersch Garfein,4.8,2,Music,N/A,2.5
+518,1168826,Harry Kitsikopolus,3.2,3,Economics,N/A,3.7
+519,1169317,Xavier Gabaix,4.5,2,Business,N/A,3
+520,1172418,Matthew Amos,4.1,10,French,100,3
+521,1156827,Jung-Bong Choi,3.3,15,Cinema,75,3.6
+522,1159923,Joanne Guo,4.2,3,Economics,N/A,2
+523,1183065,George Solt,3.6,19,East Asian Studies,N/A,2.9
+524,1185378,Tamer El-Leithy,3.2,11,Near Eastern Studies,100,3.1
+525,1186342,George Corbin,4.7,3,Art History,N/A,2
+526,1187382,Greg Bognar,3.8,2,Philosophy,N/A,3
+527,1189790,Medhat Credi,3.7,15,Middle Eastern Studies,N/A,3.5
+528,1190259,Nidia Cortes,4.8,27,Spanish,N/A,3
+529,1190909,Gabriele Oettingen,4.1,6,Psychology,100,3.7
+530,1192122,Fakiha Khan,3.6,10,Political Science,N/A,3.6
+531,1181013,Amy Bentley,3.7,3,Nutrition & Foods,N/A,3.3
+532,1182837,Ben Tausig,4.1,10,Music,100,2.7
+533,1128321,J. Martin Daughtry,3.9,12,Music,100,2.9
+534,1130145,Michael Ralph,3.5,20,African Studies,56,2.2
+535,1130434,Cynthia Conti,4.5,3,Communication,N/A,3
+536,1210503,Paul Chaikin,3.3,11,Physics,40,4.7
+537,1210732,Celia Wells,5.0,2,Nursing,N/A,2.5
+538,1210979,Roberto Perino,4.5,4,Italian,100,1.3
+539,1211490,Michael Rectenwald,4.4,107,Writing,93,2.7
+540,1211526,Stella Vincenot,2.1,7,French,N/A,3.7
+541,1212155,Frederick Choi,4.3,2,Accounting,N/A,4.5
+542,1212980,Rebecca Saathoff,5.0,1,Music Performance,N/A,4
+543,1213724,Nathan Brennan,4.7,3,Film & Television,100,2
+544,1207245,Allan Collard-Wexler,3.5,11,Economics,N/A,2.8
+545,1207693,Robert Spencer,5.0,2,Chemistry,N/A,1
+546,1209739,John Young-Taft,1.6,13,Economics,N/A,4
+547,1209928,Richard Sieburth,5.0,6,English,N/A,3.3
+548,1143442,Jaclyn Fusaro,5.0,3,Education,100,3
+549,1146299,Megan Hillman,1.0,1,Not Specified,N/A,5
+550,1146441,Aya Matsushima,4.6,7,East Asian Studies,N/A,2.7
+551,1147372,Yemane Demissie,4.6,11,Film & Television,100,2.6
+552,1149665,Dani Zwanziger,2.2,3,Physics,N/A,3
+553,1152108,Richard Atkins,4.6,26,Philosophy,N/A,3.6
+554,1156216,Beth Kramer,3.6,6,Sociology,N/A,2.8
+555,1158703,Juliana Freire,2.8,4,Mathematics,50,3.8
+556,1226094,Noor Al Qasimi,4.1,12,Communication,N/A,4
+557,1226817,Lee Igel,2.9,12,Sports Management,20,3.9
+558,1227078,Gary Simon,4.6,6,Statistics,N/A,3.8
+559,1228549,Samuel Scheffler,4.4,11,Philosophy,100,3.1
+560,1229024,Barbara Shapiro-Comte,1.9,6,Art History,0,3.7
+561,1229455,Ronak Kapadia,4.8,4,Gender Studies,N/A,3.5
+562,1230412,Haytham Bahoora,4.5,4,Cultural Studies,0,2.7
+563,1231328,Mike Raven,3.4,4,Philosophy,N/A,4.3
+564,1231653,Laura Fisher,5.0,2,English,N/A,3
+565,1234745,Lionel Chan,5.0,1,Teaching & Learning,N/A,3
+566,1235224,Saviana Stanescu,4.1,5,Theater,N/A,1.8
+567,1235582,Shirley Wong,4.8,3,English,N/A,2.7
+568,1236604,Amy Marcenwicz,1.8,4,Nutrition & Foods,0,3
+569,1237506,Juhi Jang,2.5,4,Mathematics,N/A,3
+570,1238265,Jason Thompson,4.5,2,Sociology,N/A,2.5
+571,1240693,David Denoon,3.9,8,Political Science,100,3.5
+572,1191179,Carolina De Luca,4.4,8,Italian,N/A,2.8
+573,1194480,Benjamin Straumann,2.0,1,History,N/A,3
+574,1195397,Christine McWayne,3.0,2,Psychology,N/A,4
+575,1197371,Jordan Brooks,3.4,19,Economics,N/A,3.5
+576,1197377,Crystal Parikh,3.3,7,English,25,2.7
+577,1199170,Tricia MacKenzie,2.5,2,Biology,N/A,4
+578,1199179,Raluca Manea,3.9,5,French,N/A,2.8
+579,1203089,Lindsey Schneider,5.0,2,Art History,N/A,3
+580,1204132,Althea Wasow,4.7,3,Writing,100,3
+581,1205189,Hope Wabuke,3.4,6,Writing,N/A,3.8
+582,1205401,Sheila Weiss,2.3,3,Education,N/A,4.3
+583,1205409,Nikolai Kirov,4.8,4,Biology,100,3
+584,1206481,James Felder,5.0,7,Writing,N/A,2.9
+585,1206836,Sam Radin,1.5,5,Not Specified,N/A,2.8
+586,1274358,Alan Ravitz,4.9,5,Psychology,N/A,2
+587,1275077,Beatrice Mejias,2.0,3,Writing,50,3.3
+588,1277718,Anna Akbari,4.8,4,Communication,N/A,3.8
+589,1280989,Frank Curtis,4.3,2,Mathematics,N/A,3.5
+590,1282873,Lisa Mignone,4.0,1,Classics,N/A,3
+591,1283958,Tomasz Sadzik,2.8,10,Economics,N/A,3.7
+592,1284923,Dmitry Troyanovsky,4.8,15,Theater,N/A,4.1
+593,1285842,Thomas Clark Durant,5.0,1,Economics,N/A,2
+594,1286352,Christoph Bregler,3.8,2,Computer Science,N/A,3.5
+595,1287164,Kevin Thom,3.1,11,Economics,34,3.4
+596,1287814,Joan Aronson,3.6,9,Nutrition & Foods,67,3.4
+597,1287971,Roger Oliver,4.2,6,Theater,N/A,2
+598,1289887,Adrianne Gans,3.0,2,Psychology,N/A,4.5
+599,1290217,Kelly See,4.2,3,Management,N/A,2
+600,1292131,Chloe Tergiman,5.0,2,Economics,N/A,3
+601,1292839,Patricia Beaman,4.8,5,Dance,100,3.2
+602,1312596,Louise Stanton,3.0,1,Law,N/A,3
+603,1321057,David Harvey,2.6,12,Mathematics,100,3.1
+604,1321058,Jill Lane,2.5,22,History,43,3
+605,1325730,Kevin McDonald,2.8,6,History,N/A,3
+606,1326666,Cyrus Patell,2.7,3,English,100,4.7
+607,1326906,Kenneth Birnbaum,3.3,5,Biology,100,3.4
+608,1331092,Harold Weitzner,1.1,7,Mathematics,N/A,4.1
+609,1332551,Andre Carrington,2.3,12,Cultural Studies,N/A,2.7
+610,1301990,Giulio Trigila,3.7,5,Not Specified,0,3.6
+611,1302065,Kyle Cranmer,1.8,22,Physics,60,4.1
+612,1302167,Maria Mavroudi,4.9,6,Chemistry,100,3
+613,1305598,Mary Poovey,4.3,8,English,100,4
+614,1309116,Kechen Chen,1.0,1,Economics,N/A,4
+615,1309670,Paul Bucklin,4.5,1,Italian,N/A,3
+616,1310853,Offiong Aqua,2.8,8,Biology,0,4.6
+617,1311031,Joost Van Dreunen,2.9,5,Not Specified,50,3
+618,1242986,Michael Maurer,2.8,10,Psychology,N/A,2.1
+619,1243575,Alejandro Moreno,3.4,7,Spanish,100,3.5
+620,1244411,William Simon,3.5,7,Film & Television,100,1.9
+621,1244418,Claudia Difonzo,3.0,2,Italian,N/A,3
+622,1248212,Barbara Borst,3.4,4,Journalism,0,3
+623,1248610,Christian Tryon,4.2,3,Anthropology,N/A,2.3
+624,1332661,Julianne Lutz Warren,2.8,30,Environmental Science,N/A,3.4
+625,1335471,Edo Kussel,3.3,4,Biology,N/A,4.5
+626,1336352,Phil Rosenbaum,4.7,10,Journalism,89,1.7
+627,1336460,David Perkal,2.6,7,Accounting,100,3.7
+628,1337096,Ronald Rainey,2.8,35,Liberal Arts & Sciences,N/A,3.1
+629,1339021,Ashwath Damodaran,4.5,5,Finance,100,3.8
+630,1339714,Cleo Kearns,2.5,3,Philosophy,N/A,2
+631,1340230,Bogdan Rabanca,4.3,2,Philosophy,N/A,2
+632,1343136,Julie Sage,4.8,2,French,N/A,3
+633,1344859,Heidi Stalla,4.8,5,Writing,N/A,4
+634,1345611,Alexander Hanhart,3.5,55,Mathematics,N/A,3.4
+635,1347221,Jennifer Chapis,4.7,9,Writing,N/A,3.3
+636,1347411,Benjamin Hedin,4.7,17,Writing,N/A,4.1
+637,1352169,Rose Miller-Sims,4.8,2,Italian,N/A,2
+638,1352393,James Ramsey,1.7,3,Economics,N/A,5
+639,1360104,Antho Di Fiore,4.4,5,Anthropology,N/A,4.4
+640,1360250,Yukiko Shigeto,3.8,2,East Asian Studies,N/A,3
+641,1360365,Gabriel Giorgi,4.1,6,Latin American Studies,100,2.8
+642,1362967,Sarah Anne Stonbely,1.8,2,Communication,N/A,2
+643,1364714,Robert Moeller,4.3,2,Psychology,N/A,2.5
+644,1365064,Shira Klein,4.1,4,History,N/A,3.3
+645,1365179,Morakinyo Ogunmodimu,4.7,5,African Studies,N/A,2.2
+646,1365213,KI Tsishchanka,3.0,26,Mathematics,N/A,3.3
+647,1365247,Henry Stroke,1.1,13,Physics,N/A,4.6
+648,1287908,Danny Chan,4.5,5,Statistics,100,2.6
+649,1294783,Phoebe Maltz,2.5,1,French,N/A,3
+650,1295056,Giampiero Gallo,4.4,3,Economics,100,2
+651,1299144,Vishal Singh,5.0,1,Marketing,N/A,1
+652,1299147,William Guth,4.3,2,Management,N/A,1
+653,1300202,Jay Ranade,5.0,2,Information Systems,N/A,1.5
+654,1300601,Lorelei Omrod,3.3,3,Writing,N/A,4.3
+655,1300990,Carlos Padron,4.5,2,Spanish,N/A,2
+656,1301214,Aimee Shih,5.0,1,Accounting,N/A,2
+657,1322303,Pamela Morris,4.3,3,Psychology,50,2.7
+658,1430820,Josh Sternfeld,4.8,2,Film & Television,N/A,1.5
+659,1431128,Gabriel Abend,4.7,11,Sociology,100,3.3
+660,1431616,Elizabeth Mansfield,4.5,6,Art History,N/A,4
+661,1431620,Clayton Lamar,4.5,1,English,N/A,3
+662,1433025,Jeremy Brandman,5.0,5,Mathematics,N/A,2.2
+663,1433813,Jessica Almasy,3.5,1,Theater,N/A,4
+664,1436488,Frederic Curry,5.0,1,Dance,N/A,2
+665,1436537,Sharon Antonucci,4.0,1,Speech & Hearing Sciences,N/A,3
+666,1415851,Melanie Knowles,1.5,1,French,N/A,5
+667,1418299,Michael Collins,5.0,4,Writing,N/A,1.5
+668,1420776,Bami Adedoyin,4.2,5,Film & Television,N/A,2
+669,1421147,Ross Martin,5.0,4,Film & Television,N/A,3
+670,1421206,Chris Stucchio,1.0,2,Mathematics,N/A,5
+671,1421514,Max Shrem,4.6,4,French,N/A,2
+672,1425484,Magdalena Sabat,3.5,4,Communication,N/A,3
+673,1425665,Irma Cedeno,4.0,1,Spanish,N/A,3
+674,1365445,Brooke Lewis,3.9,16,Writing,25,4.4
+675,1365451,Richard Allen,3.9,5,Cinema,N/A,3
+676,1366189,Elizabeth Patton,5.0,2,Communication,N/A,3
+677,1366566,Oana Ciucivara,1.0,1,Psychology,N/A,3
+678,1366568,Katherine Berg,3.1,12,Writing,N/A,3.5
+679,1366745,Ramon Urzua,4.3,3,Spanish,N/A,2.3
+680,1366859,Iris Brey,4.9,5,French,N/A,2.6
+681,1367022,Daniel Martin,5.0,1,Economics,N/A,1
+682,1367356,Lenny Tevlin,2.0,32,Liberal Studies,29,3.9
+683,1367389,Eugene McBride,4.0,35,Liberal Arts & Sciences,72,2.6
+684,1367447,Daniela Leder,5.0,2,Foreign Languages,N/A,3.5
+685,1367588,Molly Martin,3.5,32,Cultural Studies,67,2.9
+686,1368099,Lynne Beckenstein,4.4,16,Writing,N/A,2.4
+687,1376019,Chris Lucas,3.8,6,Psychology,0,3.2
+688,1378012,Fabio Piano,2.3,2,Biology,N/A,4.5
+689,1378488,Hilary Mhic Shuibhne,4.2,4,Foreign Languages,100,4
+690,1379434,Joseph Helman,4.9,6,Political Science,100,3.5
+691,1380829,Jason Koo,4.0,3,Writing,N/A,2.7
+692,1381306,Christie Block,2.5,1,Speech & Hearing Sciences,N/A,5
+693,1381597,Solon Barocas,4.5,1,Communication,N/A,2
+694,1459993,Robert Lyon,4.1,12,Writing,50,3.1
+695,1461849,Joseph Citta,4.8,3,Film & Television,N/A,2.7
+696,1468159,Brian Kilgo-Kelly,4.3,4,French,N/A,2
+697,1469005,Hopemary Egbuonu,1.0,2,Nursing,0,4
+698,1473780,Allen Lee Hughes,3.5,1,Theater,N/A,3
+699,1477555,Joseph Shahadi,3.2,3,Theatre & Dance,N/A,3.3
+700,1477688,Vasilis Gkatzelis,5.0,1,Computer Science,N/A,3
+701,1479358,Christopher Phillips,1.0,1,Philosophy,N/A,1
+702,1392695,Jeremy Walton,5.0,3,Religious Studies,N/A,3
+703,1393520,Gloria Corruzi,3.2,4,Biology,100,3.5
+704,1393756,Piia Mustamakis,3.3,9,Writing,100,3
+705,1395235,Mary Hickey,4.6,6,Nursing,N/A,3.2
+706,1395238,Crystal Fornes,4.0,1,Nursing,N/A,3
+707,1395240,May Dobal,1.8,2,Nursing,N/A,3
+708,1396742,Matthew Rohrer,4.9,5,Writing,100,1.8
+709,1397927,Alex Dimitri,1.5,3,Biology,N/A,4.3
+710,1488136,Elizabeth Hess,5.0,1,Theater,N/A,4
+711,1488140,Salty Brine,3.5,2,Theater,N/A,1.5
+712,1490174,Svetlana Mintcheva,3.0,1,Communication,N/A,1
+713,1492849,Simon Bird,4.2,3,Environmental Science,N/A,1.3
+714,1495864,Sorin Cucu,3.3,5,Communication,N/A,2.8
+715,1496499,Adina Yoffie,3.1,4,History,N/A,2.5
+716,1496540,Virginie Lauret,4.8,2,French,N/A,2
+717,1497591,Jason Guder,0.0,0,Writing,N/A,0
+718,1410615,Mika Rechtsman,3.8,2,Mathematics,N/A,2.5
+719,1411995,Gillian Greenbaum,5.0,1,Music Performance,N/A,2
+720,1412761,Bryan Brazeau,4.6,4,Italian,N/A,1.8
+721,1413489,Jeannie IM,3.1,27,Writing,60,3.9
+722,1414063,Ellen Morris,3.4,7,Near Eastern Studies,N/A,2.3
+723,1415831,Lauren Elkin,2.8,3,Cultural Studies,N/A,4.3
+724,1416613,Miles Grier,4.3,2,English,100,2.5
+725,1429075,James Bryne,4.3,2,Writing,N/A,4
+726,1440152,Emily Balcetis,3.3,3,Psychology,100,3.3
+727,1440209,Joshua Margulies,4.6,12,Communication,N/A,2.6
+728,1442892,Ann Marie Mauro,2.2,21,Nursing,N/A,4.3
+729,1442894,Barbara Gallo,4.8,5,Nursing,N/A,1.6
+730,1442896,Sophronia Larig,3.8,2,Nursing,N/A,2.5
+731,1443812,Judy Del Giudice,4.0,7,Performing Arts,100,2.4
+732,1446984,Darrel Hucks,5.0,1,Teaching & Learning,N/A,1
+733,1447694,Juan Flores,3.8,2,Latin American Studies,N/A,2.5
+734,1531941,Michael Peixoto,3.8,5,History,N/A,3.6
+735,1533346,Michele Shedlin,5.0,1,Nursing,N/A,4
+736,1533552,Orlando Pabotoy,3.8,3,Theater,N/A,3.7
+737,1534311,Maurice Pomerantz,4.5,4,Near Eastern Studies,N/A,2.5
+738,1534340,Zeng Lian,3.5,1,Mathematics,N/A,2
+739,1534779,Sam Beebe,4.3,30,Writing,90,3.4
+740,1536879,James Fernandez,4.0,3,Spanish,100,2
+741,1536880,Louis Scheeder,3.0,5,Writing,100,4.2
+742,1536881,Christiane Lemke-Daemplifin,4.3,2,European Studies,N/A,2.5
+743,1537481,Bernd Beber,2.8,49,Political Science,100,2.8
+744,1539465,Tuuli Adams,2.8,2,Linguistics,100,3.5
+745,1542481,Matthew Graziano,5.0,5,Psychology,N/A,1.6
+746,1543443,Matthew Silverstein,4.8,3,Philosophy,N/A,3.7
+747,1544577,Mick Stern,2.2,5,Film & Television,N/A,4
+748,1545059,Tom Lagatta,3.5,5,Mathematics,0,2.6
+749,1545149,Junji Yoshida,2.3,2,East Asian Studies,N/A,3
+750,1546358,Veronica Goosey,3.2,7,English,100,3.4
+751,1547819,Robin Wurl,1.0,1,Statistics,N/A,4
+752,1548516,Joseph Imhauser,4.0,1,Art,N/A,2
+753,1551561,Pierre Hohenberg,2.3,2,Physics,N/A,2
+754,1552420,Xianpeng HU,3.0,14,Mathematics,N/A,2.9
+755,1553348,Catherine Robson,4.9,5,English,N/A,3.4
+756,1556945,Matteo Sansone,5.0,2,Music,N/A,1
+757,1557171,Eric Roll,5.0,1,Mathematics,N/A,2
+758,1487659,Danielle Callegari,5.0,1,Italian,N/A,2
+759,1495493,Ehab Abo Ali,4.5,10,Not Specified,84,2
+760,1565213,Adam Martin,5.0,1,Economics,N/A,2
+761,1565934,Alexander Thomas,4.5,1,Music Performance,N/A,2
+762,1567724,Deborah Borisoff,4.5,8,Communication,100,3.1
+763,1568766,Max Liboiron,2.5,3,Communication,N/A,5
+764,1569482,Deborah Williams,4.7,3,Liberal Arts & Sciences,N/A,3
+765,1570455,Moya Luckett,5.0,3,Cinema,100,2.7
+766,1570762,Marsha Marecki,1.2,5,Nursing,N/A,1.8
+767,1571074,Manoah Finston,5.0,11,French,N/A,2.9
+768,1571175,Mei Huang,4.5,1,East Asian Studies,N/A,3
+769,1571328,Noelle Stout,5.0,8,Anthropology,N/A,3.3
+770,1571329,Nicole Cohen,4.8,2,East Asian Studies,N/A,4
+771,1571631,Alex Scacco,1.6,9,Political Science,N/A,3.4
+772,1573197,Joscelyn Jurich,4.0,4,Liberal Arts & Sciences,N/A,3
+773,1573208,Svjetlana Bukvich-Nichols,1.2,5,Music,N/A,3.4
+774,1573221,Mark Cocheo,4.8,3,Music Performance,N/A,2
+775,1573375,Aly Rose,4.5,11,Dance,100,3.6
+776,1574697,Steven Silberblatt,2.0,1,Sociology,N/A,1
+777,1574930,Aviva Slesin,4.1,20,Cinema,100,3.2
+778,1578834,David Johnson,5.0,2,Economics,N/A,2
+779,1579405,Brian Bolante,5.0,1,Medicine,N/A,1
+780,1579946,Liel Leibovitz,4.2,5,Communication,N/A,2
+781,1580471,Yigal Nizri,4.0,2,Hebrew,N/A,1.5
+782,1582364,AB Brody,3.7,7,Nursing,N/A,1.9
+783,1582383,Tara Cortes,2.7,3,Nursing,N/A,3.3
+784,1585118,Luis Castaneda,4.3,4,Art History,N/A,3.3
+785,1585760,Darragh Martin,3.0,1,Theater,N/A,3
+786,1586769,Daniel Stiepleman,4.8,4,Film & Television,N/A,2.8
+787,1587188,Darin Strauss,4.9,7,Writing,100,2.2
+788,1588346,E. Craig Stacey,3.5,2,Marketing,N/A,3
+789,1590313,Ercan Karadas,3.2,8,Economics,N/A,3.3
+790,1594571,Mara Mills,4.6,4,Communication,N/A,3.3
+791,1595965,Andres Munoz,4.5,2,Mathematics,N/A,4.5
+792,1528594,Dave King,1.2,5,Writing,0,3.8
+793,1528619,James Canary,2.6,12,Chemistry,23,4.1
+794,1529304,Don Garrett,3.3,8,Philosophy,100,2.6
+795,1529700,Gur Alroey,5.0,1,Cultural Studies,N/A,3
+796,1530241,Julia Kraut,1.5,1,History,N/A,5
+797,1609588,Adrian Juarez,2.4,7,Nursing,N/A,3.9
+798,1609595,Yumary Ruiz,2.5,1,Health Science,N/A,3
+799,1610853,Joseph Traylor,0.0,0,Digital Arts,N/A,0
+800,1613911,Elys Vasquez-Iscan,0.0,0,Not Specified,N/A,0
+801,1614200,Scott Kaufman,0.0,0,Psychology,N/A,0
+802,1615879,Susanne Fuchs,4.0,1,Law,N/A,3
+803,1616010,Alberto Lerner,4.0,1,Computer Science,N/A,4
+804,1616392,Dan Bacalzo,4.5,2,Theater,N/A,2
+805,1548593,Deborah Padgett,2.8,6,Social Work,34,3.3
+806,1555399,Fengbo Hang,4.0,10,Mathematics,67,3.6
+807,1558646,Jennifer Nelson,5.0,1,Writing,N/A,4
+808,1558976,Sonia Das,3.3,9,Anthropology,100,3
+809,1559092,Sophia Wilson,4.9,4,French,N/A,2.5
+810,1559104,Andy Hakim,4.3,4,Writing,N/A,3.5
+811,1559108,Nazgul Jenish,1.7,15,Statistics,N/A,3.7
+812,1560125,Sean Corcoran,4.8,2,Education,N/A,2.5
+813,1560127,Robert Riccobono,2.0,1,Education,N/A,1
+814,1560260,Julia Wolfe,5.0,1,Music,N/A,2
+815,1636258,Jean-Marie Bruzzese,2.9,7,Psychology,N/A,3.1
+816,1636842,Andrew Lear,4.4,6,Classics,N/A,2
+817,1637140,Gemma Huguet,2.8,6,Mathematics,N/A,3.3
+818,1637340,Sybil Cooksey,5.0,7,African Studies,100,2.4
+819,1638338,Theresa Senft,4.5,27,Writing,100,1.7
+820,1638527,Ashish Miles,5.0,1,Mathematics,N/A,3
+821,1639711,Kristen Pego-Jans,0.0,0,Nursing,N/A,0
+822,1641354,Anabela Pak,3.9,10,Spanish,N/A,3.3
+823,1665027,Christine Vogel,3.0,2,Biology,N/A,3
+824,1665844,Joel Cunningham,2.0,1,Mathematics,N/A,2
+825,1666534,Chris Caldemeyer,0.0,0,English,N/A,0
+826,1668326,Muhsin Alidina,5.0,1,African Studies,N/A,1
+827,1669458,Wesley Pegden,5.0,1,Mathematics,N/A,1
+828,1670341,Justin Trificana,5.0,1,French,N/A,2
+829,1671043,Todd M. Solomon,4.5,2,Psychology,N/A,2
+830,1672504,Oeindrila Dube,2.0,1,Political Science,N/A,5
+831,1642474,Tuija Parikka,2.1,21,Communication,20,3.3
+832,1642475,Sueyoung Park-Primiano,3.3,4,Communication,50,4.5
+833,1642477,Laura L Portwood-Stacer,4.6,5,Communication,N/A,2.8
+834,1642478,Matthew Powers,3.5,5,Communication,N/A,2.6
+835,1642479,Martin Scherzinger,0.0,0,Cultural Studies,N/A,0
+836,1642480,Scott Selberg,0.0,0,Communication,N/A,0
+837,1643425,Melcion Mateu-Adrover,4.7,7,Spanish,N/A,2
+838,1643490,Jon Eguia,3.4,6,Political Science,N/A,3.7
+839,1680247,Patricia Degennaro,1.5,1,Political Science,N/A,3
+840,1680480,Sally Guttmacher,1.5,1,Not Specified,N/A,4
+841,1681037,Jordan Fisher,0.0,0,Mathematics,N/A,0
+842,1682524,Edward Vessel,0.0,0,Psychology,N/A,0
+843,1683067,Ashish Myles,4.8,2,Mathematics,N/A,3
+844,1683996,Christina Bergey,5.0,1,Anthropology,N/A,3
+845,1684003,David Paterson,4.8,2,Political Science,N/A,2.5
+846,1685457,Alexander Kirshner,4.0,1,Social Science,N/A,3
+847,1672570,Yan Yan,4.8,2,Foreign Languages,N/A,3
+848,1672740,Bruno De Oliveira,2.7,5,Mathematics,N/A,3.2
+849,1673239,Kate Nesin,0.0,0,Art History,N/A,0
+850,1673806,Matthieu Wyart,2.0,2,Physics,N/A,4.5
+851,1674161,Douglas Cook,4.0,1,Engineering,N/A,1
+852,1674934,Lise Friedman,5.0,1,Publishing & Printing,N/A,4
+853,1675389,Elizabeth Koch,5.0,1,Education,N/A,2
+854,1620366,Ryan Hynd,3.0,2,Mathematics,N/A,3
+855,1620740,Michael Breaux,2.5,6,Music,34,2.3
+856,1621636,Ping HE,1.5,1,East Asian Studies,N/A,2
+857,1622681,Joseph Smors,0.0,0,Collaborative Nursing,N/A,0
+858,1623044,Allison Squires,2.0,2,Nursing,N/A,2
+859,1623099,Atsushi Hasegawa,5.0,6,East Asian Studies,N/A,2.5
+860,1624160,Hana Kogan,1.3,16,Mathematics,N/A,4.4
+861,1624507,Benedikt Wirth,3.2,15,Mathematics,N/A,3.4
+862,1702504,Katherine Brewer Ball,0.0,0,Communication,N/A,0
+863,1702506,Jacob Gaboury,3.5,3,Communication,100,3.7
+864,1702514,Mary Panzer,0.0,0,Communication,N/A,0
+865,1702515,Teresa Park,0.0,0,Communication,N/A,0
+866,1702518,Dasgupta Satarupa,5.0,1,Communication,100,3
+867,1702520,Nicole Stahlmann,0.0,0,Communication,N/A,0
+868,1702521,James Stanley,4.1,4,Communication,N/A,3
+869,1703695,E. Frances White,4.5,1,History,N/A,1
+870,1703924,Christophe Litwin,3.8,2,French,N/A,2
+871,1703953,Kathy Gunkel,2.7,3,Nursing,0,3.3
+872,1704401,Nader Uthman,4.4,14,Near Eastern Studies,88,4.3
+873,1704749,Haidy Geismar,4.0,1,Anthropology,N/A,2
+874,1704750,Patricia Lopez,5.0,1,Spanish,N/A,2
+875,1704752,Lea Juric,3.0,8,English,34,3.7
+876,1705221,Maria-Luisa Achino-Loeb,3.5,11,Anthropology,N/A,3.2
+877,1706367,Corey D''Augustine,0.0,0,Art History,N/A,0
+878,1688912,Eran Fishler,0.0,0,Computer Science,N/A,0
+879,1689635,Shirshendu Chatterjee,3.4,6,Mathematics,N/A,3.2
+880,1689700,A. Dawn Lesh,0.0,0,Marketing,N/A,0
+881,1689785,Diana Taylor,0.0,0,Performing Arts,N/A,0
+882,1690557,Matthew Vernon,1.5,1,Interdisciplinary Studies,N/A,5
+883,1690753,Karen Brenner,2.0,1,Business,N/A,4
+884,1691409,Adam Braunschweig,5.0,1,Chemistry,N/A,3
+885,1692136,Derek Tesser,3.7,4,Biology,100,3
+886,1711498,Dana Klein,4.3,2,Nutrition & Foods,N/A,2.5
+887,1712642,Giuseppe Arbia,2.3,6,Economics,N/A,3.3
+888,1713153,Wafaa Bilal,4.7,3,Photography,100,3.3
+889,1713838,Michael Ritchie,4.0,1,French,N/A,2
+890,1714268,Mina Bekhit,4.5,1,Business Economics,N/A,3
+891,1716825,Peter Nicholls,4.6,9,English,100,3.7
+892,1716865,Charif Shanahan,0.0,0,Writing,N/A,0
+893,1718461,Angela Pietropinto,4.9,4,Performing Arts,100,1.5
+894,1643513,Susan Lombardo,5.0,1,Nursing,N/A,4
+895,1646023,Colin Jerolmack,4.4,17,Environmental Science,85,2.9
+896,1647516,Leanne Dodge,2.4,32,Music,37,4.4
+897,1647907,Elizabeth Ouyang,4.1,9,Law,100,2.7
+898,1648647,Allison Brehm,2.3,2,Nursing,N/A,3
+899,1648659,Susan Burger,3.3,2,Nursing,N/A,2.5
+900,1648663,Kellie Bryant,3.5,3,Nursing,N/A,3.3
+901,1648685,Beth Latimer,3.5,1,Nursing,N/A,2
+902,1648692,Manita Shrestha,2.0,1,Nursing,N/A,2
+903,1648791,Kael Ashbaugh,4.2,3,Humanities,N/A,1.7
+904,1648806,Amy Marcinkiewicz,3.5,10,Biology,63,3.8
+905,1648904,Paul Berman,3.0,1,Journalism,N/A,2
+906,1649123,Ravindra Mantena,3.9,9,Statistics,100,3.6
+907,1653334,Natalie Kirton,5.0,1,Nursing,N/A,5
+908,1653341,Natalya Pasklinsky,5.0,2,Nursing,N/A,3
+909,1653347,Bernadette Sosnowski,4.3,2,Nursing,100,3
+910,1655152,Laurie Woodard,4.9,4,Writing,100,2.8
+911,1655547,Omar Kutty,4.5,2,Not Specified,N/A,3
+912,1676813,Paula England,3.9,4,Sociology,67,3.8
+913,1676920,Xiaohong Hou,4.8,6,Foreign Languages,100,2.3
+914,1677077,Sarah Kozinn,5.0,3,Theater,N/A,1.3
+915,1677143,George Downs,4.0,3,Political Science,N/A,2.7
+916,1677514,Louis Bury,4.0,4,Writing,N/A,3
+917,1677882,Tristan Jean,5.0,1,French,N/A,3
+918,1678155,Mark Bresnan,4.2,3,Writing,N/A,3.7
+919,1678872,Laura Ciolkowski,2.3,2,Not Specified,0,3.5
+920,1678988,Mario Chacon,5.0,1,Economics,N/A,2
+921,1679597,Matthew McAlister,5.0,1,Writing,N/A,3
+922,1686847,Eddie Winstead,5.0,2,Writing,N/A,1
+923,1688062,Joel Kemp,5.0,2,Computer Science,N/A,1.5
+924,1688389,Kizzy Charles-Guzman,3.3,2,Environmental Science,100,4
+925,1688635,Kevin Venneman,5.0,2,Foreign Languages,N/A,2.5
+926,1688665,Anthony Frontino,4.8,4,Not Specified,N/A,4.5
+927,1688803,Roz Lichter,2.5,2,Film & Television,N/A,1.5
+928,1688835,Zaida Godoy,3.8,2,Spanish,N/A,4
+929,1741495,Robert Donald Weide,0.0,0,Sociology,N/A,0
+930,1741931,Toni Barton,4.3,4,Theater,N/A,5
+931,1745182,Adrian Versteegh,3.8,18,English,67,3.4
+932,1746217,Marina Sonia Carrasco-Perezagua,5.0,2,Spanish,N/A,1.5
+933,1746530,Mosarrap Khan,0.0,0,English,N/A,0
+934,1747147,Amy Bonnaffons,4.7,12,Writing,N/A,2.4
+935,1747473,Alex Moskvin,0.0,0,Art & Design,N/A,0
+936,1749035,Ahna Skop,5.0,1,Genetics,N/A,1
+937,1781366,Aria Finger,4.7,3,Management,N/A,2.3
+938,1781846,Alexa Forosty,5.0,4,Art,N/A,1.8
+939,1781850,Jack Lechner,4.9,4,Film & Television,100,1.7
+940,1781927,Myron McShane,4.5,1,French,N/A,3
+941,1782817,Bonnie Brennan,4.0,1,Political Science,N/A,5
+942,1782954,Jonathan Scott,4.4,9,Writing,N/A,1.8
+943,1783005,Lawrence Dryer,5.0,1,Accounting,N/A,2
+944,1783279,Richard Alderslade,2.0,3,Health Science,N/A,3
+945,1770905,Mohammed Ali,4.5,1,Writing,N/A,2
+946,1771511,Saul Anton,2.7,7,Liberal Studies,100,2.7
+947,1772073,Llana Carroll,1.1,4,Not Specified,N/A,4.8
+948,1772626,Lydia Butt,4.2,3,Foreign Languages,N/A,3.3
+949,1773135,Meghan Hammond,3.8,2,Writing,N/A,3
+950,1773345,Joey McDonald,4.8,3,Mathematics,N/A,3
+951,1773368,Gail Korn,3.0,1,Liberal Studies,N/A,3
+952,1773385,Hong Zhao,4.8,6,Chemistry,100,2.2
+953,1707484,Jennifer Newman,4.8,3,Italian,N/A,2
+954,1708886,Pierre Lacour,0.0,0,Economics,N/A,0
+955,1709593,Richard Bonneau,2.8,3,Biology,N/A,2.7
+956,1710533,Lina Meruane,3.7,17,Latin American Studies,50,3
+957,1711199,Daniel Smokler,5.0,6,Leadership,N/A,1.7
+958,1779810,Jennifer Jennings,5.0,9,Sociology,100,3.1
+959,1780188,Sarah Sarzynski,0.0,0,Latin American Studies,N/A,0
+960,1799155,Erica Faller,0.0,0,French,N/A,0
+961,1799445,Maria Damon,1.5,1,Environmental Science,N/A,3
+962,1801070,Cristina Checka,0.0,0,Medicine,N/A,0
+963,1801161,Shahab Kohani,1.5,1,Arts & Sciences,100,2
+964,1801387,Yoav Zibin,2.8,36,Computer Science,50,4
+965,1801437,Yoon Ji Lee,4.0,2,Music,N/A,2.5
+966,1802585,Matt Sullivan,0.0,0,Music,N/A,0
+967,1804361,Mary Brennan,2.6,9,Nursing,34,3.2
+968,1784312,Andrew Greenblatt,5.0,1,Public Administration,N/A,4
+969,1784348,Larry Slater,3.4,20,Nursing,N/A,3.2
+970,1785087,Robert Haslhofer,3.5,3,Mathematics,N/A,3
+971,1785637,Nicholas Truesdale,5.0,1,French,N/A,2
+972,1785948,Louise McEvoy,0.0,0,Nursing,N/A,0
+973,1787839,Andrea Wheelock,0.0,0,Foreign Languages,N/A,0
+974,1787840,Miranda Emre,4.5,1,Foreign Languages,N/A,4
+975,1788286,Barry Hashimoto,4.3,4,Political Science,75,4
+976,1727896,Linda Kirschke,3.5,1,Political Science,N/A,2
+977,1727898,Prosper Bernard,4.5,5,Political Science,N/A,3.2
+978,1728419,Raphael Sigal,5.0,2,French,N/A,2.5
+979,1729978,Nina Rutledge,5.0,1,Not Specified,N/A,2
+980,1732753,Randi Davis-Levin,0.0,0,Film & Television,N/A,0
+981,1732866,Barbara Krainovich-Miller,0.0,0,Nursing,N/A,0
+982,1732889,Eileen Gilmartin,3.7,8,Management,75,3.9
+983,1732985,Dale Correa,5.0,6,Near Eastern Studies,N/A,2.8
+984,1732986,Justin Leroy,3.8,2,Gender Studies,N/A,1.5
+985,1732987,Gail Segal,4.2,4,Film & Television,100,2.5
+986,1733232,Dan Jenkins,3.6,4,Mathematics,N/A,4
+987,1735636,Glenn Long,0.0,0,Mathematics,N/A,0
+988,1735857,Luis Roca,4.5,14,English,100,3.5
+989,1738571,Ben Sachs,0.0,0,Philosophy,N/A,0
+990,1798626,Mitra Rastegar,3.2,19,Sociology,20,3.3
+991,1798707,Abbas Varij Kazemi,4.8,2,Social Science,N/A,1.5
+992,1805570,Mariam Habib,3.9,5,Social Work,50,2.4
+993,1805898,Chris Schlottmann,3.5,4,Environmental Science,100,4
+994,1807285,Arne Hoecker,2.5,1,Not Specified,N/A,3
+995,1807286,Drew Youngren,3.7,33,Mathematics,56,3.2
+996,1809401,Lily Alexander,0.0,0,Russian Studies,N/A,0
+997,1811452,Joshua Goldwyn,4.8,4,Mathematics,N/A,1
+998,1758018,Christopher Jankowski,4.0,20,Mathematics,N/A,3.5
+999,1758126,James Pace,4.0,2,Nursing,N/A,2
+1000,1764434,Christopher Dee,5.0,15,Business,100,2.3
+1001,1764801,Beth Emelson,4.6,5,Theater,100,2.4
+1002,1767245,Maura Roosevelt,4.3,9,Writing,100,3.8
+1003,1770481,Grace Monger,0.0,0,Nursing,N/A,0
+1004,1815354,Flynn Cheryl,4.3,2,Statistics,N/A,2
+1005,1816149,Hadi Gharabaghi,5.0,3,Cinema,100,3
+1006,1816604,Nicola Lucchi,5.0,2,Italian,N/A,2.5
+1007,1817660,Sophia Johnson-Tran,1.0,1,International Affairs,N/A,5
+1008,1818722,Paulette Forte,2.5,1,Psychology,100,3
+1009,1820311,Joshua Gillon,0.0,0,Philosophy,N/A,0
+1010,1821763,Elizabeth McHenry,0.0,0,English,N/A,0
+1011,1822175,Stephen Gross,4.8,6,History,100,3
+1012,1851643,Tom Shone,4.5,1,Film & Television,N/A,2
+1013,1851645,Thomas Shone,4.5,2,Film & Television,100,2.5
+1014,1851648,Janet Grillo,4.3,18,Film & Television,50,3.3
+1015,1852594,Christina Fang,0.0,0,Management,N/A,0
+1016,1852661,Ursula Diamond,4.8,3,Psychology,N/A,2.3
+1017,1852850,Yao LI,2.6,5,Mathematics,N/A,4
+1018,1852915,Robin Harvey,2.3,2,Education,0,4.5
+1019,1853205,Bennett Foddy,5.0,2,Game Center,100,4
+1020,1782981,Rob Fergus,3.3,4,Computer Science,80,3.5
+1021,1783347,Erika Hendrix,0.0,0,French,N/A,0
+1022,1783476,Andrew Auerbach,0.0,0,Chemistry,N/A,0
+1023,1783502,John Maynard,4.8,4,English,N/A,1.5
+1024,1783961,Michael Coppola,3.0,1,Marketing,N/A,2
+1025,1783984,Joshua Tolopilo,3.8,5,Chemistry,N/A,3.8
+1026,1784004,Parker Gary,2.0,1,Social Work,N/A,1
+1027,1861711,Anastasia Saverino,2.8,4,Cinema,0,4
+1028,1862446,Leanne Tyler,4.2,3,Political Science,N/A,3.3
+1029,1863094,Charles Murphy,4.4,5,Business,100,3.8
+1030,1863632,Jenny Xie,4.4,22,Writing,93,4.1
+1031,1864621,Jonathan Franklin,4.3,6,English,100,3.5
+1032,1866062,Josh Walsh,0.0,0,Marketing,N/A,0
+1033,1867451,YU Guo,4.5,1,Philosophy,N/A,3
+1034,1867832,Nicholas Riggle,0.0,0,Philosophy,N/A,0
+1035,1851419,Astrid Cerny,2.6,15,Environmental Science,34,3
+1036,1851590,Domenico Menicucci,5.0,1,Mathematics,N/A,3
+1037,1854308,Loren-Paul Caplin,2.5,1,Writing,N/A,3
+1038,1854442,Marco Del Rocca,5.0,3,Italian,100,1.7
+1039,1854871,Karly Ford,0.0,0,Education,N/A,0
+1040,1855054,Stephen Solomon,4.2,16,Journalism,75,2.7
+1041,1856395,Michael Schidlowsky,3.0,3,Computer Science,50,2
+1042,1856455,Katselas Lisa,3.5,1,Film & Television,N/A,2
+1043,1879211,Mitch Bushuk,5.0,2,Mathematics,N/A,2
+1044,1880010,Tyler Colman,0.0,0,Hospitality,N/A,0
+1045,1880669,Elizabeth Elsass,4.5,1,Film & Television,N/A,1
+1046,1881586,Ellen McGrath,4.5,1,Psychology,N/A,1
+1047,1881958,Ande Fenton,1.3,2,Neurological Sciences,N/A,5
+1048,1882388,Megan Russell,3.5,1,French,N/A,2
+1049,1883136,Steve Winchell,0.0,0,Digital Arts,N/A,0
+1050,1883247,Matthew Moore,0.0,0,Mathematics,N/A,0
+1051,1867986,Amy Field,4.8,2,Anthropology,N/A,2.5
+1052,1868129,Arthur Vierkant,0.0,0,Cultural Studies,N/A,0
+1053,1868132,Diana Van Lancker Sidtis,2.3,2,Arts & Sciences,N/A,2
+1054,1869242,William Clark,0.0,0,Psychology,N/A,0
+1055,1869826,Stacey Barrenger,3.8,2,Social Work,N/A,3.5
+1056,1869845,David Moster,5.0,16,Hebrew,N/A,2.3
+1057,1870004,Timothy Mangin,0.0,0,African Studies,N/A,0
+1058,1871899,Alexander Vologodskii,1.8,3,Chemistry,N/A,4.7
+1059,1873734,Leonard Jenkin,0.0,0,Writing,N/A,0
+1060,1873735,Peter Parnell,4.0,1,Writing,N/A,3
+1061,1873819,William Heise,4.8,4,Writing,N/A,2.8
+1062,1874121,Gabriela Dragnea-Horvath,4.6,18,Liberal Studies,84,2.8
+1063,1875131,Yousef Casewit,4.6,8,Religious Studies,N/A,2.8
+1064,1876633,Suzanna Halsey,0.0,0,Foreign Languages,N/A,0
+1065,1876695,Ariane Zayzteff,3.0,1,Performing Arts,N/A,3
+1066,1876709,Olga Fedorenko,3.8,2,East Asian Studies,N/A,4
+1067,1876712,Phil Kaffen,2.3,6,East Asian Studies,0,3.8
+1068,1877347,Rebecca Johannsen,4.8,3,Theater,N/A,2
+1069,1877970,Ray Hubley,5.0,2,Film & Television,N/A,1
+1070,1878063,Frankie Edozien,4.5,2,Journalism,N/A,1
+1071,1878393,Maureen Collins,4.3,2,Speech & Hearing Sciences,N/A,2
+1072,1878482,Shay Hazkani,3.0,3,Middle Eastern Studies,0,3.7
+1073,1900465,Shreya Nagula,0.0,0,Psychology,N/A,0
+1074,1900492,Ariel Stess,5.0,1,Writing,N/A,3
+1075,1900504,Tahsina Mahmood,5.0,1,Engineering,N/A,1
+1076,1900711,Jennifer Percy,5.0,2,English,N/A,2
+1077,1901028,Emma Aarnes,0.0,0,Film & Television,N/A,0
+1078,1902400,Julia Jarcho,3.8,7,English,67,3.7
+1079,1903073,Kathy Butterly,5.0,2,Art,100,1
+1080,1903207,Kristie Lancaster,2.5,4,Nutrition & Foods,0,3
+1081,1836206,Frank Hsu,5.0,3,Mathematics,N/A,1.7
+1082,1836776,Yekaterina Kosova,4.5,1,Classics,N/A,2
+1083,1837249,Mariana Mogilevich,3.8,3,Social Science,N/A,3.3
+1084,1837516,James Belfer,4.8,2,Film & Television,100,2
+1085,1837763,Jesse Njus,4.5,5,Theater,100,1.2
+1086,1840782,Leigh-Anne Walker,4.0,2,Business,N/A,4.5
+1087,1841105,Jake Messing,0.0,0,Theater,N/A,0
+1088,1841296,Kryssa Schemmerling,0.0,0,Film & Television,N/A,0
+1089,1912585,Brian Degrazia,4.7,5,Italian,100,1.8
+1090,1913247,Judith Schwartz,3.5,1,Art,N/A,5
+1091,1913998,Donald McVinney,0.0,0,Social Work,N/A,0
+1092,1915127,Jose Montiel Olea,4.6,8,Economics,N/A,3
+1093,1915308,Ruobing Wei,4.0,10,East Asian Studies,86,3.2
+1094,1917212,Constance Zotos,4.0,1,Management,N/A,3
+1095,1918787,Mihailis Diamantis,0.0,0,Philosophy,N/A,0
+1096,1919658,Elissa Ludeman,5.0,2,Anthropology,100,2.5
+1097,1919693,Alexej Jerschow,3.7,5,Chemistry,34,2.8
+1098,1920929,Lionel Christiaen,3.4,11,Biology,45,3.7
+1099,1921056,Scott Burton,1.0,2,Computer Science,N/A,4.5
+1100,1921104,Steven Meltzer,0.0,0,Writing,N/A,0
+1101,1921718,Elisa Diaz,0.0,0,English,N/A,0
+1102,1922173,Paul Dower,0.0,0,Economics,N/A,0
+1103,1923069,Knut Skarsaune,0.0,0,Philosophy,N/A,0
+1104,1923077,Miles Wheeler,5.0,11,Mathematics,N/A,2.9
+1105,1898956,Unurjargal Nyambuu,3.7,16,Economics,100,3.1
+1106,1899445,Lucas Siga,1.5,3,Economics,N/A,4.7
+1107,1929720,Mark Wilkinson,4.2,14,Mathematics,N/A,3.6
+1108,1931469,Beatrice Longuenesse,0.0,0,Philosophy,N/A,0
+1109,1931690,David Perry,0.0,0,English,N/A,0
+1110,1931822,Tristan Buckmaster,1.3,3,Mathematics,N/A,4
+1111,1931824,Guy David,3.2,19,Mathematics,80,3.7
+1112,1933587,Suse Broyde,5.0,3,Biology,100,3.3
+1113,1933593,Lisa Dailey,4.7,3,Medicine,100,2.7
+1114,1933596,Alan Frey,0.0,0,Medicine,N/A,0
+1115,1909675,Richard Halpern,3.4,18,English,42,3.2
+1116,1912016,Steven Zultanski,4.4,14,Writing,88,2.1
+1117,1924188,Arnold Mungioli,3.5,1,Theater,N/A,4
+1118,1925222,RAJESH MADAN,0.0,0,Computer Science,N/A,0
+1119,1927230,Carmen Sierra,1.6,6,Art History,0,4.5
+1120,1927467,Eric Sanderson,0.0,0,Environmental Science,N/A,0
+1121,1927873,Kathy Willens,0.0,0,Photography,N/A,0
+1122,1927976,Phyllis Ehrlich,4.8,15,Marketing,100,3.3
+1123,1944108,Richard Schneider,5.0,1,Marketing,N/A,3
+1124,1944808,Patty Chang,4.4,14,Political Science,86,3.5
+1125,1944857,Michael Jacobs,4.8,5,Liberal Arts Sciences,100,3
+1126,1944959,Andrew Friedman,3.0,1,Theater,100,2
+1127,1944990,Ellen Friedman,3.5,1,Social Work,N/A,2
+1128,1945049,Alma Carten,0.0,0,Social Work,N/A,0
+1129,1945291,Erica Ponteen,3.3,12,Social Work,67,3.9
+1130,1945924,Anna Lellio,0.0,0,Political Science,N/A,0
+1131,1878659,Patton Burchett,4.1,7,Religious Studies,100,3.4
+1132,1879185,George Hagstrom,2.7,5,Mathematics,N/A,1.6
+1133,1883342,Nicole Starosielski,3.0,19,Communication,32,3.5
+1134,1883770,Aron Janssen,4.3,2,Psychology,N/A,2.5
+1135,1884142,Edward Magarian,4.8,2,Film & Television,N/A,1.5
+1136,1885608,Arie Israel,4.7,3,Mathematics,N/A,2.3
+1137,1954316,Daniel Wiley,0.0,0,Communication,N/A,0
+1138,1955280,Minchao Jin,4.0,1,Social Work,N/A,4
+1139,1955467,Rebecca Schaumberg,5.0,1,Management,N/A,4
+1140,1955585,Jonah Birch,5.0,1,Sociology,100,1
+1141,1956105,George Lentzas,3.6,7,Economics,50,4
+1142,1956698,Finn Brunton,4.6,41,Communication,100,2.4
+1143,1956704,Mark Edelman,4.5,1,Communication,N/A,2
+1144,1956762,Xiaochang Li,4.8,2,English,100,3
+1145,1943937,Richard Porterfield,2.5,1,Music,N/A,3
+1146,1944034,Allison Kaufman,4.8,2,Film Television,100,3.5
+1147,1898376,Geraldine Mapel,5.0,4,Psychology,100,1.8
+1148,1898699,Bradley Liz,3.8,7,Theatre & Dance,100,3.8
+1149,1898952,Richard Gant,3.8,6,Marketing,34,1.8
+1150,1903463,Maya Mikdashi,3.3,4,Near Eastern Studies,67,3.5
+1151,1904373,Jane Friedman,4.3,4,Philosophy,0,2.5
+1152,1904391,Davi Geiger,1.9,8,Computer Science,29,2
+1153,1905613,Seema Sandhu,5.0,1,Chemistry,100,4
+1154,1905709,Chip Ernest Brown,1.0,2,Economics,N/A,4.5
+1155,1908125,Subhash Khot,4.8,3,Computer Science,100,2
+1156,1973560,John Tchen,3.0,1,History,N/A,2
+1157,1976067,Sheida Dayani,5.0,1,Foreign Languages,N/A,1
+1158,1976354,Sheida Dayani,4.5,1,Middle Eastern Studies,N/A,4
+1159,1976464,Siva Ambikasaran,4.3,2,Mathematics,N/A,4
+1160,1977140,Arnold Baskin,0.0,0,Film Television,N/A,0
+1161,1977615,Artie Vierkant,0.0,0,Art,N/A,0
+1162,1977973,Florian Mewes,0.0,0,Art,N/A,0
+1163,1979917,Yael Feldman,3.5,2,Hebrew,0,3
+1164,1979918,Jennifer Larson,4.2,14,Political Science,90,2.1
+1165,1980189,Brenda Lozano,2.0,1,Spanish,N/A,3
+1166,1980829,Ralph Grishman,2.8,8,Computer Science,60,2.8
+1167,1981212,Lucy Graham,4.0,1,English,N/A,3
+1168,1981214,Alaina Ferris,4.5,2,English,N/A,2
+1169,1981352,Jasmine Ma,5.0,1,Education,N/A,3
+1170,1981469,Lawrence Tatum,1.5,12,Statistics,0,4.2
+1171,1981721,Christian Parenti,3.6,13,Liberal Studies,50,3.1
+1172,1928216,Phillip Avello,0.0,0,Real Estate,N/A,0
+1173,1928666,Jun Lai,3.2,20,Mathematics,N/A,3.1
+1174,1969567,Norma Carrizo Molina,2.0,1,Economics,N/A,5
+1175,1969839,Eliana Hernandez,4.0,2,Spanish,N/A,2
+1176,1969842,Jerry Waxman,2.8,6,Computer Science,25,2.8
+1177,1970164,Cami Delavigne,0.0,0,Film Television,N/A,0
+1178,1970300,Janay Saxon,0.0,0,Career Development,N/A,0
+1179,1970455,Brian Dalessandro,0.0,0,Arts Sciences,N/A,0
+1180,1970610,Suzanna Riordan,4.8,12,Liberal Studies,100,1.5
+1181,1971771,Tom Jennings,0.0,0,Film Television,N/A,0
+1182,1972603,Alexander Kobrin,5.0,2,Music,100,4
+1183,1973294,Debbie De Villa,0.0,0,Film Television,N/A,0
+1184,1973552,Jonathan Friedman,4.2,3,Education,N/A,3
+1185,1999905,Gregory Vargo,4.7,3,English,100,2
+1186,1999923,John Halpern,3.8,2,Philosophy,N/A,4
+1187,2001292,Michelle Wilson,3.7,4,English,100,3.5
+1188,2001368,Rena Chen,4.5,5,Mathematics,N/A,1.2
+1189,2001743,Dohoon Lee,3.5,3,Sociology,100,2.7
+1190,2001821,Lee Ricketson,4.2,5,Mathematics,100,3.2
+1191,2003233,James Levitt,0.0,0,Communication,N/A,0
+1192,2003636,David Cesarini,0.0,0,Economics,N/A,0
+1193,2003706,Marat Berenstein,5.0,2,Music,100,1.5
+1194,2004003,Sopie Von Strumm,3.5,2,Psychology,N/A,3.5
+1195,2004707,Alex Jassen,3.3,4,Classics,0,3.3
+1196,2004953,Gillian Gallagher,0.0,0,Linguistics,N/A,0
+1197,2004981,Allen Weiss,0.0,0,Performing Arts,N/A,0
+1198,2005145,Moshe Kim,5.0,2,Economics,N/A,3
+1199,2005677,Kerry Whigham,5.0,1,Theater,100,3
+1200,2007128,Paul Trowbridge,1.0,1,Statistics,N/A,3
+1201,1989352,Joan Greenberg,5.0,1,Social Work,100,4
+1202,1989753,Hatem Abdallah,4.3,5,Nutrition Foods,N/A,1.4
+1203,1990197,Mahn Monis,1.0,1,International Relations,N/A,5
+1204,1990260,David St-Jules,4.2,3,Nutrition Foods,N/A,2.3
+1205,1991470,Walter McCollum,4.0,1,Information Systems,N/A,2
+1206,1992667,Wei Chen,0.0,0,Music Performance,N/A,0
+1207,1992888,Elizabeth Renella,0.0,0,Film Television,N/A,0
+1208,1994241,Melanie Reid,4.5,2,Liberal Studies,N/A,3.5
+1209,1994424,Tim Mitchell,1.8,3,Computer Science,N/A,4.7
+1210,1994448,Andrew Lee,0.0,0,Philosophy,N/A,0
+1211,1995686,Justin Deng,0.0,0,Business,N/A,0
+1212,1995809,Moshe Maor,2.5,1,Hebrew,N/A,2
+1213,1995819,Alexander Kocar,5.0,1,Hebrew,N/A,3
+1214,1996824,Mark Gertler,3.2,4,Economics,100,3
+1215,1997118,Freddy Friedfeld,0.0,0,Television,N/A,0
+1216,1997180,Joseph Jeffries,0.0,0,Theater,N/A,0
+1217,1997485,Meredith Martin,3.5,2,Art History,50,3
+1218,1997495,Dena Al-Adeeb,1.0,1,Middle Eastern Studies,N/A,4
+1219,1998079,Emily Goldmann,5.0,6,Health Science,100,2.8
+1220,2023491,Tara Byun,3.8,4,Speech Hearing Sciences,34,3.8
+1221,2024964,Terry Knickerbocker,4.8,2,Taxation,N/A,3
+1222,2025386,John Halushka,5.0,1,Sociology,N/A,2
+1223,2026548,Percy Deift,1.6,9,Mathematics,29,4.2
+1224,2026801,Martha Coe,0.0,0,Sociology,N/A,0
+1225,2026922,David Kirkland,0.0,0,Education,N/A,0
+1226,2027521,Viktor Lushin,5.0,1,Social Work,N/A,1
+1227,2027969,Jo Payne,0.0,0,Economics,N/A,0
+1228,2028643,Zachary Clarke,0.0,0,Music,N/A,0
+1229,2029403,Gowun Park,5.0,5,Economics,N/A,1
+1230,2029651,Thomas Mertens,5.0,1,Finance,N/A,3
+1231,2029658,Scott Murphree,0.0,0,Music Performance,N/A,0
+1232,2029948,Ramy Abied,0.0,0,Psychology,N/A,0
+1233,2031057,Rogan Kersh,3.0,1,Political Science,N/A,3
+1234,2033511,Elizabeth Kihara,4.5,2,Art History,100,3.5
+1235,2038378,ruchira gupta,1.0,1,International Affairs,N/A,3
+1236,2038928,Miguel Faria e Castro,0.0,0,Economics,N/A,0
+1237,2038976,Marina Hassapopoulou,5.0,4,Cinema,100,4
+1238,2039088,George Kovalenko,4.4,5,Writing,100,2.6
+1239,2039279,Sergei Dubovsky,3.7,3,Arts Sciences,N/A,3
+1240,2039300,Ron Rainey,0.0,0,Humanities,N/A,0
+1241,2039493,Adam Sirois,0.0,0,Nursing,N/A,0
+1242,2039900,Rosanne Limoncelli,5.0,3,Film Television,100,1.3
+1243,2043017,Hassan Abdullhaqq,3.0,2,Humanities,0,2
+1244,2017461,Jennifer Spry,0.0,0,Business,N/A,0
+1245,2017471,Kevin Balsam,5.0,1,Economics,N/A,1
+1246,2017632,Jeff Stark,5.0,5,Digital Arts,100,2.4
+1247,2018725,Thomas Prang,5.0,1,Anthropology,100,2
+1248,2019615,Scott Fritzen,5.0,2,Public Policy,100,3.5
+1249,2019895,Jennifer Krasinski,4.5,2,Art Visual Culture,100,3
+1250,2020879,Stephanie Pearson,4.7,3,Art History,0,3.3
+1251,2021637,Joshua Stager,5.0,1,Business,N/A,3
+1252,2021979,Charley Layton,0.0,0,Theater,N/A,0
+1253,2022169,Ryan Justesen,4.4,3,Theater,100,4
+1254,2023383,Francisco Espinosa,3.0,1,Economics,100,3
+1255,2050316,John Rogove,4.3,10,Philosophy,86,3.1
+1256,2050584,Linda Lausell Bryant,5.0,4,Social Work,100,1.2
+1257,2051192,Shani Mott,4.5,3,Liberal Studies,N/A,2.3
+1258,2053342,Stefanie Goyette,4.7,13,Cultural Studies,100,2.8
+1259,2053496,Carlos Borges,4.2,5,Mathematics,N/A,2.8
+1260,2055078,Dennis Kriventsov,2.2,7,Mathematics,34,3.7
+1261,2056483,Larry Wein,0.0,0,Television,N/A,0
+1262,2056517,Wayne Eric,0.0,0,Neurological Sciences,N/A,0
+1263,1982013,Eric Koskinen,1.5,1,Computer Science,N/A,5
+1264,1982771,Priscilla Soucek,0.0,0,Art History,N/A,0
+1265,1983060,Matthew Morrison,5.0,1,Music,100,4
+1266,1983528,Chris Normandin,0.0,0,Writing,N/A,0
+1267,1983779,Ahmed Fadiel,0.0,0,Liberal Studies,N/A,0
+1268,2043241,Archie Tait,4.5,2,Film Television,100,2.5
+1269,2043338,Chiranjib Mukherjee,1.5,7,Mathematics,N/A,4.1
+1270,2044109,Yael Hacohen,4.6,7,Writing,N/A,2.3
+1271,2044120,Mark Hannah,2.8,4,Communication,50,2.8
+1272,2044246,Megan Davies Wykes,1.0,4,Mathematics,N/A,4.8
+1273,2044645,Yu Deng,1.9,6,Mathematics,50,4
+1274,2045329,Rohit Deo,0.0,0,Statistics,N/A,0
+1275,2045903,Joshua Rockoff,3.0,4,Professional Programs,50,3.3
+1276,2045922,Edyta Kuzian,5.0,1,Liberal Studies,N/A,2
+1277,2046201,Ellen Prokop,4.4,4,Art History,100,2.8
+1278,2048245,Shinho Lee,3.0,2,Cinema,0,1.5
+1279,2048246,Selma Thompson,5.0,1,Film Television,100,4
+1280,2048424,Barbara Kowalzig,2.0,2,Classics,N/A,4
+1281,2049613,Nikolaos Freris,4.2,11,Engineering,0,3.3
+1282,2050032,Karen Bernstein,0.0,0,Social Work,N/A,0
+1283,2050198,Curtis Kent,3.2,5,Mathematics,N/A,4.2
+1284,2070361,Kirin Wachter-Grene,4.1,8,English,100,4.1
+1285,2070645,Oleksandr Misiats,0.0,0,Mathematics,N/A,0
+1286,2072118,Christopher Wood,3.9,3,German,100,2
+1287,2072120,Rosemarie Brucher,0.0,0,German,N/A,0
+1288,2072127,Christiane Frey,5.0,4,German,100,3.5
+1289,2074265,Alys George,4.3,4,German,67,2.7
+1290,2074335,Bindeshwari Aggarwal,4.4,4,Middle Eastern Studies,100,1.8
+1291,2074448,Marisa Carrasco,3.8,3,Neurological Sciences,100,4
+1292,2075908,Kathleen Gerson,0.0,0,Sociology,N/A,0
+1293,2076601,Nicolas Delon,4.5,2,Philosophy,100,3
+1294,2081444,Emily West,0.0,0,Political Science,N/A,0
+1295,2084177,Anthony Galluzzo,4.1,7,Liberal Studies,75,2.4
+1296,2085784,Craig Mills,0.0,0,Writing,N/A,0
+1297,2088224,Erin Carson,4.8,2,Mathematics,N/A,2
+1298,2088329,Jonathan Weinstein,4.3,3,Film Television,67,3.7
+1299,2089505,Rosemarie Brucher,0.0,0,Foreign Languages,N/A,0
+1300,2062131,Lori Landman,1.0,1,Social Work,N/A,5
+1301,2062843,Daniel Paliwoda,3.7,8,Liberal Studies,89,2.1
+1302,2063208,Thomas Trogdon,3.0,2,Mathematics,N/A,5
+1303,2063338,Katherine Marx,5.0,1,Nursing,N/A,1
+1304,2063933,Robert Ginsburg,3.3,3,Real Estate,34,4.3
+1305,2064522,Zhehui Cheng,0.0,0,Economics,N/A,0
+1306,2065092,Konstantinos Smyrlis,3.0,1,History,N/A,3
+1307,2066150,Antoine Cefron,0.0,0,Mathematics,N/A,0
+1308,2066417,Anand Oza,4.6,9,Mathematics,88,3.8
+1309,2067042,Drew Thomases,4.8,6,Religious Studies,100,2.5
+1310,2067099,Julie Price,0.0,0,Communication,N/A,0
+1311,2067561,Igor Shinkar,4.3,6,Computer Science,N/A,2.8
+1312,2068090,Nathan Myer,4.5,2,Nutrition Foods,N/A,2
+1313,2068658,Jack Lau,0.0,0,Liberal Studies,N/A,0
+1314,2069384,Nick Knight,2.8,6,Mathematics,50,3.5
+1315,2069385,Shelley Fischel,4.3,2,Gender Studies,100,1.5
+1316,2099089,Jennifer Kabat,2.0,2,Art,0,3
+1317,2099138,Srijita Ghosh,5.0,1,Economics,100,3
+1318,2101278,Frederick Mandler,5.0,1,Business,100,4
+1319,2101794,Kelsey Louie,5.0,8,Social Work,100,2.2
+1320,2102633,Youna Kwak,4.0,1,Classics,N/A,4
+1321,2102657,Thomas Eskin,0.0,0,Mathematics,N/A,0
+1322,2102688,Jason Loud,3.0,1,Economics,N/A,3
+1323,2102819,Christopher Matthay,2.5,1,Music,N/A,4
+1324,2103072,Mikiya Koyagi,2.9,3,Middle Eastern Studies,50,4
+1325,2103403,Blaise Delmotte,4.6,9,Mathematics,100,2.6
+1326,2103473,Robert Black,0.0,0,Humanities,N/A,0
+1327,2103580,Lawrence Aber,2.0,2,Public Policy,0,4
+1328,2103629,Jeanne Verdoux,3.9,4,Art Design,67,2.8
+1329,2103674,Zsolt Pajor-Gyulai,4.5,3,Mathematics,100,3.7
+1330,2104425,Catherine Hodes,2.2,3,Social Work,0,2.3
+1331,2105050,Cora DeLeon,2.5,1,Social Work,N/A,4
+1332,2091975,Robin Crookall,4.0,1,Art Studio,100,2
+1333,2092367,Amalle Dublon,5.0,2,Communication,100,3
+1334,2093111,Richard Shen,0.0,0,Mathematics,N/A,0
+1335,2093596,Devin McFadden,0.0,0,Russian Studies,N/A,0
+1336,2093633,Yana Kuchirko,4.5,4,Psychology,100,2
+1337,2093680,Eric Hielscher,4.1,4,Computer Science,N/A,3
+1338,2093877,R. Ricketts,0.0,0,Writing,N/A,0
+1339,2093889,Erik John Herbert Van Deventer,0.0,0,Sociology,N/A,0
+1340,2094185,Howard Geltzer,2.4,5,Business,25,3.6
+1341,2094324,Ayse Gokpinar,2.5,1,Art History,N/A,3
+1342,2094361,Beryl Chang,4.0,5,Economics,100,2.8
+1343,2095344,Recep Karaburun,5.0,7,Tourism Management,100,3
+1344,2095593,Gregory Newman,0.0,0,Cinema,N/A,0
+1345,2095936,Lewis Erskine,4.5,2,Film Television,100,1
+1346,2097143,greg Watson,1.5,1,Computer Science,N/A,3
+1347,2097287,Evelina Mendelevich,4.0,1,Russian Studies,100,1
+1348,2097614,Michael Cheah,5.0,13,Finance,100,3.5
+1349,2111066,Roozbeh Kiani,4.2,7,Neurological Sciences,100,4.4
+1350,2111532,Jack Wu,0.0,0,Computer Science,N/A,0
+1351,2112730,Justin Warner,4.6,25,Writing,89,3.7
+1352,2112842,Dongnim Kim,0.0,0,Asian Studies,N/A,0
+1353,2113492,Dinesh Singh,5.0,1,Engineering,N/A,1
+1354,2114417,Zeynep Sertbulut,5.0,1,Anthropology,N/A,2
+1355,2114842,Ilaria Sborgi,0.0,0,Liberal Studies,N/A,0
+1356,2116229,Chiara Gamboz,0.0,0,English,N/A,0
+1357,2059744,Shivam Sohan,4.6,84,Health Care Administration,100,3.5
+1358,2059892,Yongwoo Lee,4.0,21,East Asian Studies,100,2.9
+1359,2060204,Jeffrey Loechner,3.0,1,Marketing,N/A,3
+1360,2060406,Raul Sanchez,5.0,1,English,N/A,2
+1361,2060575,Mary Bitel,4.0,2,Fine Arts,100,2.5
+1362,2066398,Sukhdev Sandhu,5.0,5,English,84,2.8
+1363,2138473,Jo Dixon,3.0,3,Sociology,34,3.3
+1364,2138825,Belinda Cooper,1.5,1,Law,N/A,2
+1365,2139352,Michael Schmidt,4.2,3,Social Work,100,3.3
+1366,2142514,Mikhail Panov,2.2,9,Economics,34,4.1
+1367,2142818,Mohammed Eid,5.0,3,Engineering,100,4
+1368,2142979,Heather Butsch,4.0,1,Music,N/A,4
+1369,2143503,Geoffrey Pollick,0.0,0,Religious Studies,N/A,0
+1370,2143856,Robert Shiau,5.0,3,Public Administration,100,4.3
+1371,2143875,Johnathon Cayer,3.5,2,French,50,3.5
+1372,2144659,Laura Hughes,3.5,1,French,N/A,2
+1373,2144710,Julian Barkhausen,3.8,4,Philosophy,100,2.8
+1374,2146024,Robert Lapiner,1.0,1,Humanities,0,5
+1375,2147210,Andrew Patton,4.5,1,Statistics,N/A,4
+1376,2147373,Loredana Anderson-Tirro,2.5,2,Italian,0,2.5
+1377,2147408,Carol Zoref,0.0,0,English,N/A,0
+1378,2147512,Harvey Lederman,4.8,2,Philosophy,100,3.5
+1379,2133764,Rick García,5.0,1,Nursing,N/A,3
+1380,2134053,Jonathan Hamrick,0.0,0,English,N/A,0
+1381,2134140,Maria Cuevas,3.0,1,Spanish,100,4
+1382,2134143,Catalina Arango Correa,0.0,0,Spanish,N/A,0
+1383,2134149,Maria Pichon Riviere,0.0,0,Spanish,N/A,0
+1384,2134152,Kimberly Ziegler,0.0,0,Italian,N/A,0
+1385,2134158,Karen Graves,4.0,1,Italian,100,3
+1386,2134208,Marcos Del Cogliano,4.8,7,Spanish,100,2.4
+1387,2152601,Nadrian Seeman,0.0,0,Chemistry,N/A,0
+1388,2153089,Jennifer Blakeman,5.0,2,Music,100,2
+1389,2153468,Yi Jenny Xiao,0.0,0,Psychology,N/A,0
+1390,2155998,Lin Qiu,0.0,0,Accounting,N/A,0
+1391,2156386,Frank Inzana,5.0,2,Biology,100,4
+1392,2157022,Andreas Christopoulos,1.0,2,Management,0,4.5
+1393,2159381,Nathalie Pierre,3.0,3,Liberal Studies,67,4
+1394,2160883,Hazem Jamjoum,0.0,0,Cultural Studies,N/A,0
+1395,2166873,Steven Di Joseph,5.0,8,Communication,100,4
+1396,2168318,Lawrence Berg,4.0,1,Social Work,100,4
+1397,2168320,Jessina Laviera,4.0,1,Social Work,100,3
+1398,2168323,Dorothy Hottensen,3.0,1,Social Work,100,2
+1399,2168331,William Cabin,4.8,4,Social Work,100,3
+1400,2168716,Anindya Kundu,5.0,2,Education,100,2.5
+1401,2168989,Garth Greenwell,0.0,0,Writing,N/A,0
+1402,2169369,Albert Alla,1.0,1,Writing,0,3
+1403,2105059,Dina Rosenfield,5.0,3,Social Work,100,3.3
+1404,2105101,Eric Brettschneider,4.3,4,Social Science,67,2
+1405,2105243,Mo Pareles,2.3,3,English,50,3.3
+1406,2105498,Sook Yee Tsang,0.0,0,Social Work,N/A,0
+1407,2105761,Kelli Moore,4.7,3,Communication,100,3.3
+1408,2105979,Ella Klik,4.2,3,Communication,100,3.3
+1409,2105987,Sanya Shekaran,0.0,0,Computer Science,N/A,0
+1410,2106061,Lauren Walsh,4.9,3,Art Visual Culture,100,3.3
+1411,2107306,Alex Sommer,0.0,0,Engineering,N/A,0
+1412,2107390,Pablo La Parra Perez,0.0,0,Spanish,N/A,0
+1413,2107852,Donna Cavalluzzi,0.0,0,Social Work,N/A,0
+1414,2162970,Brett Bernstein,5.0,1,Computer Science,100,4
+1415,2163174,Katherine Williams,5.0,1,English,100,4
+1416,2163835,Ronald Rainey,0.0,0,Social Science,N/A,0
+1417,2163987,Benjamin Holguin,5.0,1,Philosophy,100,3
+1418,2165219,Massimo Reale,3.0,1,Liberal Studies,100,1
+1419,2166105,Judy Zhong,5.0,1,Environmental Public Health,100,3
+1420,2166232,Emily Sachar,5.0,7,Art,100,4.3
+1421,2169542,Peter Morales,0.0,0,Computer Science,100,0
+1422,2124183,Margaret Galvan,4.0,1,English,N/A,2
+1423,2124189,Laura Davis,4.0,2,Education,N/A,3.5
+1424,2124201,Susanna Stephens,4.5,3,Psychology,100,2
+1425,2124216,Claudia Brandenburg,4.0,1,Graphic Arts,N/A,2
+1426,2125379,Adam Myers,5.0,2,Computer Science,100,2.5
+1427,2125583,Alexander Swan,4.4,5,Microbiology,80,4.2
+1428,2126803,Margaret Giorgio,5.0,2,Health Science,100,2
+1429,2126861,Juan Menchero,1.0,1,Spanish,0,4
+1430,2126970,Jean Anastas,0.0,0,Social Work,N/A,0
+1431,2127566,Juan Marguch,5.0,1,Spanish,N/A,1
+1432,2127590,Catherine Tamis-LeMonda,0.0,0,Psychology,N/A,0
+1433,2127683,Frederick Naftolin,3.3,7,Medicine,43,3.3
+1434,2127786,Nicholas Matlin,5.0,1,English,100,4
+1435,2128058,Charlie Schulman,0.0,0,Film Television,N/A,0
+1436,2128526,Olivia Scott,5.0,4,Marketing,100,2.3
+1437,2128595,Leonard Marcus,2.0,2,Psychology,0,4
+1438,2180126,Sholem Friedman,0.0,0,Real Estate,N/A,0
+1439,2180211,Scott Seyfarth,0.0,0,Linguistics,N/A,0
+1440,2180375,Martin Devine,0.0,0,Psychology,N/A,0
+1441,2181910,Sanam Nader-Esfahani,5.0,1,French,100,4
+1442,2182244,Kate Bolick,4.7,6,Journalism,84,3.5
+1443,2182734,Kimberly Edmunds,0.0,0,English,N/A,0
+1444,2184069,Diannely Antigua,5.0,1,Writing,100,3
+1445,2185500,Lourdes Castro,5.0,5,Nutrition Foods,100,3.2
+1446,2133025,Manjiree Jog,3.5,2,Finance,100,3
+1447,2133162,Weiji Ma,4.4,3,Psychology,100,3.7
+1448,2134125,Catherine Fallon,1.5,2,Photography,0,1.5
+1449,2215780,Kwami Coleman,4.0,2,Music,100,2.5
+1450,2215785,Michael Zanca,0.0,0,Business,N/A,0
+1451,2216050,Penka Marinova,5.0,3,Statistics,100,3
+1452,2217179,Kimberly Elliot,2.0,1,Dance,0,4
+1453,2217770,Gabrielle Vitollo,0.0,0,Art,N/A,0
+1454,2218065,Ferdinand Bubacz,5.0,2,German,100,3.5
+1455,2218244,Luke Geldermans,5.0,3,Economics,100,3.7
+1456,2219253,Rosemary Fitzgerald,1.0,1,Marketing,0,5
+1457,2193241,Jane Anderson,0.0,0,Anthropology,N/A,0
+1458,2193649,Gina Konstantopoulos,5.0,3,Humanities,100,2
+1459,2193761,Robert McDowall,4.0,2,Economics,100,3
+1460,2193772,Eldritch Priest,3.8,5,Music,80,2.6
+1461,2193930,Romeo Kumar,5.0,2,Computer Science,100,1
+1462,2194093,Joel Rozen,4.4,24,Liberal Studies,88,3.6
+1463,2194123,Milena Zhivotovskaya,0.0,0,Music,N/A,0
+1464,2194127,Abraham Rubenstein,0.0,0,Computer Science,N/A,0
+1465,2220491,Nizan Packin,0.0,0,Communication,N/A,0
+1466,2220588,Terry Fox,0.0,0,Writing,N/A,0
+1467,2220943,Jason Hollander,5.0,1,Communication,100,2
+1468,2221751,Seyi Adebanjo,2.0,1,Cultural Studies,0,5
+1469,2222402,Denise Frazier,3.0,2,Writing,50,3
+1470,2223499,Joshua Jahani,0.0,0,Business,N/A,0
+1471,2223607,Madeleine Stein,4.2,9,English,78,3.5
+1472,2225213,Chuck Schaeffer,0.0,0,Psychology,N/A,0
+1473,2142981,Sebastian Calderon,5.0,4,Latin American Studies,100,3.8
+1474,2147409,Antoine Cerfon,4.7,8,Mathematics,100,4
+1475,2148494,So-Young Park,0.0,0,Social Work,N/A,0
+1476,2149809,Alexander Worsnip,5.0,1,Philosophy,100,4
+1477,2149954,Brett Peterson,4.0,22,Computer Science,82,3.4
+1478,2150027,David Parsons,0.0,0,History,N/A,0
+1479,2230589,Peter Bather,0.0,0,Marketing,N/A,0
+1480,2230716,Amanda Lesar,0.0,0,Physics,N/A,0
+1481,2230841,Rebecca Goyette,0.0,0,Women's Studies,N/A,0
+1482,2233444,Brian Schmidt,0.0,0,Dental,N/A,0
+1483,2233641,Myisha Priest,5.0,2,Cultural Studies,100,3
+1484,2233681,Aileen Christensen,4.0,1,French,100,4
+1485,2233966,Alison Okuda,0.0,0,African Studies,N/A,0
+1486,2234070,Dave Hardy,5.0,1,Fine Arts,100,3
+1487,2161698,Bamidele Adedoyin,0.0,0,Film Television,N/A,0
+1488,2240319,Frank Pignatosi,5.0,3,Education,100,2.3
+1489,2240338,Christine Ghattas,0.0,0,Microbiology,N/A,0
+1490,2240403,Mary Corman,0.0,0,Art,N/A,0
+1491,2241470,William van Roden,5.0,1,Art Design,100,3
+1492,2241592,Anne Zissu,1.8,5,Economics,0,4.2
+1493,2241622,Gregory Kubitz,5.0,2,Economics,100,2
+1494,2242631,Colin Dekeersgieter,4.5,2,English,100,3
+1495,2242827,Christopher Goutman,4.9,10,Film Television,100,3.3
+1496,2168327,Hye Kim,4.0,2,Social Work,50,3.5
+1497,2171613,Hana Huntova,0.0,0,Marketing,N/A,0
+1498,2172421,Elon Gaffin-Cahn,0.0,0,Psychology,N/A,0
+1499,2248775,Annette Martin,0.0,0,Philosophy,N/A,0
+1500,2248859,Cheraine Scott,0.0,0,Communication,N/A,0
+1501,2249488,Perla Masi,5.0,1,Spanish,100,3
+1502,2250322,Justin Kruger,5.0,1,Psychology,100,4
+1503,2250670,Dan Sanes,2.5,2,Neurological Sciences,0,5
+1504,2250699,Robert Berger,0.0,0,Social Work,N/A,0
+1505,2250781,Philipp Teriete,5.0,1,Music Performance,100,1
+1506,2251169,Robert Dry,5.0,2,International Relations,100,3
+1507,2178265,Susan Cater,0.0,0,Sociology,N/A,0
+1508,2178395,Kilian Walsh,5.0,3,Physics,100,1
+1509,2179043,Dmitry Zakharov,3.3,10,Mathematics,50,4
+1510,2179251,Murat Altun,3.7,3,Anthropology,67,1.7
+1511,2179372,Shawn Amsler,4.7,9,Real Estate,100,2.6
+1512,2179653,Brandon Woolf,4.8,5,English,84,4
+1513,2179690,Devin Thomas,5.0,1,Literature,100,3
+1514,2179939,Joan Malczewski,3.0,5,Teaching Learning,20,4
+1515,2186302,James Peck,4.0,1,History,100,2
+1516,2186702,Robert Johnson,2.0,1,Sociology,0,4
+1517,2186755,Nicole Zeftel,5.0,1,Interdisciplinary Studies,100,3
+1518,2187412,Chanda Carey,0.0,0,Performing Arts,N/A,0
+1519,2187563,Yolanda Cuomo,0.0,0,Photography,N/A,0
+1520,2190010,Michael Salvati,0.0,0,Physics,N/A,0
+1521,2190253,Jasper Lauderdale,5.0,1,Cinema,100,2
+1522,2190624,Sonali McDermid,4.3,9,Environmental Science,78,3.8
+1523,2259824,Phillip Mahoney,0.0,0,Writing,N/A,0
+1524,2260125,Dylan McKenzie,1.0,1,Digital Arts,0,4
+1525,2260151,Proscovia Nabunya,2.0,1,Social Work,0,5
+1526,2260321,Jessica Modi,5.0,1,English,100,3
+1527,2262216,Linda Bederman,5.0,1,Social Work,100,3
+1528,2262396,Gloria Coruzzi,4.0,3,Biology,100,2
+1529,2263495,Thomas Brambor,1.8,4,Political Science,25,4.3
+1530,2263654,Evan Anthony,5.0,1,Film Television,100,2
+1531,2247929,Rachel Fish,1.0,1,Teaching Learning,0,5
+1532,2252185,Ryan Harper,0.0,0,Religious Studies,N/A,0
+1533,2252479,Milton Laufer,4.0,1,Spanish,100,2
+1534,2252607,Hillary Morin,5.0,1,Psychology,100,2
+1535,2252828,Juliana Freire,0.0,0,Engineering,N/A,0
+1536,2252832,Laura McTighe,0.0,0,Religious Studies,N/A,0
+1537,2252857,Meixia Ruderman,2.0,1,Economics,0,5
+1538,2252976,Rustem Altinay,3.0,1,Writing,0,4
+1539,2253325,June Hee Kwon,4.0,1,East Asian Studies,100,3
+1540,2253812,Lisa Hartung,3.7,3,Mathematics,34,3.7
+1541,2254351,Kathryn Franks,4.3,4,Environmental Science,75,2.5
+1542,2254411,Marie-Luise Goldmann,5.0,1,German,100,1
+1543,2254474,Amy Belfi,4.0,3,Psychology,67,2.3
+1544,2254537,Jiang Jin,1.0,3,History,0,2
+1545,2254881,Max Blechman,5.0,6,Philosophy,100,3.2
+1546,2255308,Eric Kohn,3.0,1,Film Television,0,2
+1547,2255904,Tyler Harper,5.0,5,Literature,100,2
+1548,2256000,Mazalit Haim,3.7,3,Hebrew,75,3.3
+1549,2257350,Charlotte Mccullagh,4.8,8,Social Work,100,2.8
+1550,2258466,Kimberly Hudson,5.0,2,Social Work,100,3
+1551,2258484,Dwight Ponozzo,0.0,0,Social Work,N/A,0
+1552,2259048,Michael Schumacher,2.3,3,Art Studio,34,4.3
+1553,2259163,Donna Walker-Kuhne,1.0,1,Music Performance,0,4
+1554,2259238,Ian VanderMeulen,2.0,2,Religious Studies,0,4.5
+1555,2214488,Kobi Wu,5.0,1,Business,100,3
+1556,2214918,Jing Wang,3.8,6,East Asian Studies,67,3.2
+1557,2215326,Celia Campbell,4.3,3,Classics,67,3.3
+1558,2216056,Michael Netta,5.0,2,Real Estate,100,3
+1559,2216399,Arthur Spirling,3.8,23,Political Science,70,3.9
+1560,2289094,Eric Osborne,0.0,0,Economics,N/A,0
+1561,2289638,Blevin Shelnutt,5.0,2,English,100,3.5
+1562,2289907,Ray Romani,0.0,0,Real Estate,N/A,0
+1563,2290309,Carina Bauman,4.0,1,Linguistics,100,1
+1564,2290486,Rosa Vento,5.0,1,Music Performance,100,3
+1565,2291522,Lee Sean Huang,4.5,8,Computer Science,88,2.2
+1566,2291708,Richard Perello,4.0,1,Film amp Television,100,1
+1567,2291712,Melissa Phruksachart,4.0,1,Cinema,100,4
+1568,2291713,William Simon,3.0,1,Cinema,100,2
+1569,2293226,Grid Rroji,1.5,2,International Relations,0,2.5
+1570,2295145,Eero Simoncelli,5.0,1,Psychology,100,4
+1571,2296256,Katie Whitehead,0.0,0,Physics,N/A,0
+1572,2296258,Stan Zochowski,0.0,0,Physics,N/A,0
+1573,2296259,Ayesha Ahmad,1.0,1,Environmental Public Health,0,4
+1574,2296262,Alan Powers,0.0,0,Cultural Studies,N/A,0
+1575,2296264,Deborah Cherry,3.0,1,Cultural Studies,0,5
+1576,2296836,Feng-Mei Heberer,4.2,5,Cinema,80,3.6
+1577,2298362,Linda Lombardi,0.0,0,Health Care Administration,N/A,0
+1578,2298997,Cristobal Lehyt,0.0,0,Art,N/A,0
+1579,2300405,Thomas Kennon,0.0,0,Marketing,N/A,0
+1580,2300574,Grazia Giannelli,5.0,2,Italian,100,2
+1581,2301446,Angelo Nikolopoulos,5.0,2,Writing,100,2.5
+1582,2301862,Ruojon Huang,1.4,5,Mathematics,0,4.6
+1583,2302622,Logan Chariker,3.5,7,Mathematics,58,3.6
+1584,2303160,Clairette Atri,4.7,3,Spanish,100,2.3
+1585,2303314,Jigarkumar Patel,5.0,4,Liberal Arts amp Sciences,100,2
+1586,2303694,Irina Belodedova,0.0,0,Russian Studies,N/A,0
+1587,2303998,Sophia Kleshchuk,0.0,0,Biochemistry,N/A,0
+1588,2305268,Ned Liddell,0.0,0,Marketing,N/A,0
+1589,2306167,Iddo Drori,3.0,28,Data Science,54,3.5
+1590,2306405,Susan Davies,2.0,1,Writing,50,3
+1591,2306641,Jeannine Fletcher,5.0,1,Occupational Therapy,100,2
+1592,2284290,Joan Bruna,2.3,3,Mathematics,0,4.7
+1593,2284435,Isabel Hofmeyr,5.0,5,English,100,1.6
+1594,2284749,Elsa Lee,5.0,3,Psychology,100,3.3
+1595,2286218,Jin-Han Xie,2.4,7,Mathematics,43,3.4
+1596,2286396,Jonathan Haas,1.0,1,Music Performance,0,4
+1597,2287244,Calloway Scott,5.0,1,Classics,100,4
+1598,2288029,Paul Wimmer,3.7,3,Foreign Languages,67,3.7
+1599,2288364,Isabella Portilla,5.0,3,Spanish,100,3
+1600,2310770,Jessie Munton,0.0,0,Philosophy,N/A,0
+1601,2315989,Cynthia McCallister,2.0,1,Teaching amp Learning,0,1
+1602,2317124,Max Wixom,1.5,2,Film & Television,0,4.5
+1603,2317406,Ryan Ouimet,5.0,2,Writing,100,1.5
+1604,2317421,David Samuels,5.0,1,Humanities,100,4
+1605,2317441,Kathleen Myrick,0.0,0,Performing Arts,N/A,0
+1606,2317608,Kimberley Johnson,5.0,1,Sociology,100,3
+1607,2317657,Allison Hershberger,5.0,1,Theater,100,5
+1608,2317726,Alisha Ali,5.0,2,Psychology,100,3
+1609,2318278,Emily Martin,0.0,0,Music,N/A,0
+1610,2319325,Barron Lerner,5.0,1,History,100,2
+1611,2319678,Lauren Fritz,0.0,0,Film amp Television,100,0
+1612,2320019,Claire Bubb,4.1,7,Classics,58,2.8
+1613,2320609,Robin Donath,0.0,0,Social Work,N/A,0
+1614,2321498,Priyanka Suresh,5.0,1,Computer Science,100,5
+1615,2321972,Corey Sullivan,5.0,20,Theater,100,3.8
+1616,2327782,Nguyen Thang,2.0,10,Mathematics,40,4.1
+1617,2327832,Farah Dih,5.0,2,Spanish,100,2.5
+1618,2327990,Luba Ashurov,0.0,0,Professional Programs,N/A,0
+1619,2328090,Gregory Murphy,3.0,1,Psychology,0,4
+1620,2328266,Benjamin Kamine,0.0,0,Art,N/A,0
+1621,2328270,Stephen DiMenna,0.0,0,Theater,N/A,0
+1622,2328374,Alex Reyes,1.0,1,Neurological Sciences,0,5
+1623,2328441,John Zhang,3.0,1,Computer Science,100,5
+1624,2246514,Dan Charnas,3.0,3,Music,34,4.3
+1625,2249316,Dongmin Kim,5.0,4,East Asian Studies,100,2
+1626,2310527,Sophia Wu,0.0,0,Arts amp Sciences,N/A,0
+1627,2310593,Sophia Wu,5.0,1,Psychology,100,3
+1628,2318696,Andrea Vazzana,3.7,3,Psychology,67,4
+1629,2322988,Jason Candler,5.0,1,Film amp Television,100,4
+1630,2323632,Antonio Monda,3.0,2,Film amp Television,100,1
+1631,2323803,Alec Marantz,1.0,1,Linguistics,0,2
+1632,2325387,Madhura Joglekar,4.6,5,Mathematics,100,2.8
+1633,2325515,Tony Haouam,5.0,5,French,100,3.8
+1634,2259711,Gleb Pogudin,2.6,15,Computer Science,40,4.5
+1635,2259763,Elaine Freedgood,3.0,1,Philosophy,0,3
+1636,2348520,Andrea Geurin,5.0,1,Management,100,3
+1637,2349138,Corey McCorkle,5.0,1,Art History,100,3
+1638,2349318,Ilker Aslantepe,0.0,0,Liberal Studies,N/A,0
+1639,2352727,Maria Robles-Gila,5.0,2,Spanish,100,3
+1640,2353119,Besa Bauta,0.0,0,Social Work,N/A,0
+1641,2353884,Nirupama Rao,0.0,0,Public Policy,N/A,0
+1642,2354601,Kavita Tahilani,0.0,0,Psychology,N/A,0
+1643,2355551,Kristoffer Diaz,5.0,1,Theater,100,2
+1644,2265566,John Martin,0.0,0,Film Television,N/A,0
+1645,2265782,Sherry Camhy,5.0,1,Film Television,100,1
+1646,2266748,Cherry Yao,3.3,4,Economics,75,3.2
+1647,2267081,Arden Koehler,5.0,2,Philosophy,100,3.5
+1648,2267700,Leonardo Trasande,0.0,0,Environmental Public Health,N/A,0
+1649,2268112,Luis Cueto,4.0,2,Spanish,50,3.5
+1650,2268810,Chad Davidson,2.7,3,Film Television,34,4.3
+1651,2269120,Cristian Fuenzalida,5.0,5,Economics,100,3.8
+1652,2269208,Mimi Zhou,0.0,0,French,N/A,0
+1653,2269209,Joseph Johnson,0.0,0,French,N/A,0
+1654,2269303,Lawrence Yang,0.0,0,Psychology,N/A,0
+1655,2271005,Steven Thrasher,1.0,1,Cultural Studies,0,5
+1656,2271342,Saumya Tripathi,3.7,14,Social Work,67,3.3
+1657,2271350,Michael Williams,5.0,1,International Relations,100,3
+1658,2273573,Christopher Wood,4.0,1,French,0,5
+1659,2274397,Kenneth Friedman,5.0,1,Film Television,100,2
+1660,2339373,Dominik Stuerzer,1.0,1,Mathematics,0,5
+1661,2339979,Ryan Servino,5.0,1,Real Estate,100,4
+1662,2341108,Mark Stambler,4.0,1,Physics,100,4
+1663,2342067,Martin Cooper,4.0,1,Psychology,100,4
+1664,2342112,Lauren Thomas,2.0,1,Nutrition amp Foods,0,2
+1665,2342113,Samira Jafour,4.0,1,French,100,2
+1666,2343463,Monica Lewin,4.9,19,Psychology,100,2.9
+1667,2343608,Karima Clayton,5.0,1,Psychology,100,4
+1668,2343884,Catherine Hartley,2.0,3,Psychology,0,4
+1669,2344750,Marco Muzio,5.0,1,Physics,100,3
+1670,2345382,Smruti Pushalkar,0.0,0,Microbiology,N/A,0
+1671,2345484,Leila Wallach,5.0,1,Psychology,100,3
+1672,2345837,Emily Cole,4.0,1,English,100,3
+1673,2346071,Dino Sossi,4.0,1,Data Science,100,2
+1674,2346321,Ellen Noonan,5.0,1,History,100,3
+1675,2346440,Dilip Abreu,4.0,2,Economics,50,4.5
+1676,2288752,Thomas Leble,1.9,9,Mathematics,23,4.1
+1677,2288909,Joshua Ruderman,4.8,5,Physics,100,3
+1678,2289076,Wendy Lee,4.0,4,English,80,3
+1679,2290271,Yoram Greener,1.0,1,Marketing,0,5
+1680,2377289,Leszek Wojcik,0.0,0,Music,N/A,0
+1681,2377526,Amy Catalinac,3.5,2,Political Science,67,4
+1682,2377633,Dario Diofebi,5.0,3,Writing,100,2.7
+1683,2377651,Amy DiBernardo,5.0,1,Psychology,100,4
+1684,2377764,Jerome Hairston,5.0,1,Writing,100,3
+1685,2378277,Zachary Wolff,3.9,8,Photography,63,3.8
+1686,2378507,Ethan Berlin,0.0,0,Film & Television,N/A,0
+1687,2378971,Cort Engelken,0.0,0,Social Work,N/A,0
+1688,2360787,Vechembre Gregoire,0.0,0,Mathematics,N/A,0
+1689,2362535,Simon Fortin,5.0,1,Theater,100,3
+1690,2362851,Thomas Crow,2.7,3,Art History,34,4
+1691,2363456,Juan Aguirre,3.7,7,Literature,72,3.4
+1692,2363519,Ada Petiwala,0.0,0,Middle Eastern Studies,N/A,0
+1693,2363573,Sarah Kay,0.0,0,French Studies,N/A,0
+1694,2363637,Chase Madar,4.0,1,Interdisciplinary Studies,100,3
+1695,2363675,Amanda Hickok,0.0,0,Writing,N/A,0
+1696,2364012,Nina Boyarchenko,2.0,1,Economics,0,4
+1697,2364105,Efraiacuten Rozas,0.0,0,Music,N/A,0
+1698,2364507,Lindner Thomas,0.0,0,Finance,N/A,0
+1699,2364580,Meryle Weinstein,0.0,0,Education,N/A,0
+1700,2364645,Eric Hundman,4.3,3,Social Science,67,3.3
+1701,2364758,Alfonso Gonzales,0.0,0,Foreign Languages,N/A,0
+1702,2365669,Robert Lowry,4.0,2,Film amp Television,100,2.5
+1703,2366290,Scott Bankert,4.0,2,Art,50,1.5
+1704,2307052,Ivo Slosarcik,5.0,1,Political Science,100,2
+1705,2307054,Anthony Ackerman,5.0,1,Music,100,3
+1706,2307056,Muriel Anton,3.0,2,Marketing,100,3
+1707,2307066,Richard Muller,4.0,1,Literature,100,3
+1708,2307539,Hadas Kotek,2.0,1,Linguistics,0,4
+1709,2310504,Nan Cao,1.0,1,Computer Science,0,4
+1710,2374917,Cathy Kaufman,0.0,0,Nutrition amp Foods,N/A,0
+1711,2376091,Dima Saab,3.0,2,Middle Eastern Studies,50,3.5
+1712,2376309,Calina Copos,1.8,10,Mathematics,10,4.3
+1713,2376466,Tom Carew,5.0,1,Neurological Sciences,100,4
+1714,2376984,Jennifer Bruno,0.0,0,Communication,N/A,0
+1715,2377217,Deborah Pellegrino,5.0,1,Italian,100,3
+1716,2326379,Kevin Coffey,3.0,1,Philosophy,0,3
+1717,2326642,Robert Young,5.0,1,Mathematics,100,2
+1718,2326953,Jihun Kim,1.5,2,Liberal Studies,0,3.5
+1719,2327384,Tom Collins,0.0,0,Philosophy,N/A,0
+1720,2419151,Alison Kaufman,0.0,0,Film amp Television,N/A,0
+1721,2419290,Rhoda Berenson,2.5,2,Liberal Arts amp Sciences,50,4
+1722,2419297,John Frank,4.5,2,Psychology,100,2.5
+1723,2419662,Daniel Pulick,3.5,2,Writing,50,4.5
+1724,2420374,Kevin Nelson,0.0,0,Computer Science,N/A,0
+1725,2420423,Lucia Carballo,0.0,0,International Relations,N/A,0
+1726,2420727,Caleb Salgado,0.0,0,French,N/A,0
+1727,2422304,Karen Holmberg,5.0,3,Anthropology,100,2
+1728,2329693,Kent Minturn,2.0,1,Art History,0,3
+1729,2330921,DeAngela Duff,5.0,1,Graphic Arts,100,4
+1730,2330973,Kimberly Adams,0.0,0,Communication,N/A,0
+1731,2331206,Lee Dannay,4.0,1,Music,100,3
+1732,2331574,Angel Ruiz,4.3,3,Spanish,100,3.7
+1733,2333676,Michael Gilraine,4.7,6,Economics,100,2.8
+1734,2334731,Shane Smith,0.0,0,Education,N/A,0
+1735,2335705,Al Golzari,5.0,2,Marketing,100,2.5
+1736,2399246,Stefanie Jones,0.0,0,African Studies,N/A,0
+1737,2401025,Robert Gordon,0.0,0,Finance,N/A,0
+1738,2401238,Melanie Langer,0.0,0,Psychology,N/A,0
+1739,2402134,Marisol Franco,0.0,0,Real Estate,N/A,0
+1740,2402347,Charles Collot,2.3,8,Mathematics,13,4
+1741,2402812,Kyle Catto,0.0,0,Political Science,N/A,0
+1742,2404516,Peter Newman,3.0,2,Film amp Television,50,1.5
+1743,2404721,Marc Somnolet,5.0,1,Marketing,100,4
+1744,2436446,Amir Shpilka,3.7,3,Computer Science,34,4
+1745,2437163,Andrea Brandon,3.0,1,Psychology,100,1
+1746,2437204,Rosalind Fredericks,4.0,1,Social Science,0,4
+1747,2437215,Alan Abrams,5.0,1,Foreign Languages,100,3
+1748,2437279,Christine Fewell,4.0,2,Social Work,100,3
+1749,2439834,Bruce Edelstein,0.0,0,Art History,100,0
+1750,2439999,Ido Davidesco,4.5,2,Neurological Sciences,100,1.5
+1751,2442163,Elena Aleksandrova,3.8,5,French,60,3.2
+1752,2346603,Edward Seidman,0.0,0,Psychology,N/A,0
+1753,2346924,Alvarez-Pousa Omar,0.0,0,Marketing,N/A,0
+1754,2346977,Matthew Polci,3.7,3,Real Estate,67,3.3
+1755,2348086,Carlos Carmona-Fontaine,4.3,11,Biology,84,2.8
+1756,2348308,Laura Murray,3.5,2,Anthropology,50,3.5
+1757,2423358,Claire Kilroy,4.0,1,Writing,100,1
+1758,2424369,Jane Galasso,2.0,4,Education,25,4.3
+1759,2356048,Aditi Mitra,2.5,2,Physics,50,3.5
+1760,2356188,Erica Anderson,0.0,0,Writing,N/A,0
+1761,2356283,Federico Favali,4.0,1,Music,100,1
+1762,2357086,Daniel Dipaolo,5.0,5,Music,100,1.8
+1763,2357493,Richard Hochhauser,1.0,1,Marketing,0,3
+1764,2357893,Nikhil Bhasin,5.0,4,Real Estate,100,3.3
+1765,2428346,Elena Ducci,5.0,1,Italian,100,2
+1766,2429459,Zane Koss,5.0,1,English,100,3
+1767,2430466,Earl Carr,5.0,2,International Affairs,100,4
+1768,2430932,Mike Amezcua,3.9,11,History,73,2.5
+1769,2431942,Kurt Nelson,3.0,1,Music,0,4
+1770,2433450,Erag Ramizi,3.2,5,Cultural Studies,60,3.2
+1771,2435154,Marianna Rubino,0.0,0,Speech & Hearing Sciences,N/A,0
+1772,2465799,Gabe Cuzillo,0.0,0,Interactive Telecommunications,N/A,0
+1773,2466211,Urmila Mohan,0.0,0,Liberal Studies,N/A,0
+1774,2467156,Alicia Gleason,5.0,1,Writing,100,3
+1775,2467975,Ivana Dolezalova,0.0,0,Film amp Television,N/A,0
+1776,2468966,Ted Conover,0.0,0,Journalism,N/A,0
+1777,2470387,Chelsia Marcius,5.0,5,Journalism,100,2.8
+1778,2470522,Kit Fine,2.0,1,Philosophy,0,5
+1779,2474731,Jenny Shaffer,0.0,0,Art History,N/A,0
+1780,2368009,Harold Jennings,0.0,0,Dental,N/A,0
+1781,2368662,Nancy Agabian,3.5,2,Writing,50,2.5
+1782,2368981,Cristina Silva,0.0,0,Journalism,N/A,0
+1783,2370944,Gregory Delaine,0.0,0,Real Estate,N/A,0
+1784,2371685,Jeffrey Spear,5.0,1,Anthropology,100,4
+1785,2372467,Ismail Alatas,5.0,2,Middle Eastern Studies,100,4
+1786,2372657,Naoko Sourial,5.0,1,East Asian Studies,100,2
+1787,2372707,Takako Kono,4.0,1,Social Work,100,3
+1788,2450926,Shiyu Chen,0.0,0,Chemistry,N/A,0
+1789,2451038,Katie Rejsek,5.0,1,English,100,2
+1790,2451914,Diane Wong,5.0,2,Interdisciplinary Studies,100,2.5
+1791,2452601,Irving Schenkler,0.0,0,Business,N/A,0
+1792,2454315,Johannes Morstein,0.0,0,Chemistry,N/A,0
+1793,2454453,Jennifer Brite,4.3,3,Statistics,67,2
+1794,2454583,Claudia Salazar,2.0,2,Spanish,0,3.5
+1795,2455304,Chris Dorr,4.0,1,Film & Television,100,3
+1796,2379408,Ludovic Righetti,4.0,1,Engineering,75,4
+1797,2379539,Munira Olia,4.8,5,Psychology,100,3.2
+1798,2380410,Bowen Yu,5.0,2,Computer Science,50,5
+1799,2380564,Sasha Disko,3.6,5,History,80,3.4
+1800,2381725,Steven Hahn,2.3,4,History,50,3
+1801,2381737,Denis Silantyev,3.7,6,Mathematics,67,3.5
+1802,2382562,Mary Brabeck,4.0,1,Psychology,100,3
+1803,2382669,Mary Longworth,0.0,0,Writing,N/A,0
+1804,2382786,Zolia Del-Villar,0.0,0,Social Work,N/A,0
+1805,2384247,Jose Figueroa-Carle,4.8,6,Spanish,100,1.8
+1806,2385200,Megan Gingrich,0.0,0,Nursing,N/A,0
+1807,2385891,Sarah Lebovitz,0.0,0,Information Science,N/A,0
+1808,2386630,Jordan Orosco,5.0,1,Biology,100,3
+1809,2386668,Stephen Soler,2.0,2,Real Estate,0,3.5
+1810,2387043,Nadim Kobeissi,0.0,0,Computer Science,N/A,0
+1811,2389120,Deirdre Greenidge,0.0,0,Biology,N/A,0
+1812,2389369,Rochelle Miller,4.5,2,Cinema,100,3
+1813,2389385,Terry Astuto,0.0,0,Education,N/A,0
+1814,2389599,Delaram Takyar,5.0,2,Sociology,100,3.5
+1815,2389607,Godfried Toussaint,0.0,0,Computer Science,N/A,0
+1816,2389665,Sheldon Wayman,1.0,3,Tourism Management,0,2.7
+1817,2390099,Gary Schocker,0.0,0,Music Performance,N/A,0
+1818,2391481,Kai-Wen Hsueh,0.0,0,Accounting,N/A,0
+1819,2392950,Gregory Roth,0.0,0,Occupational Therapy,N/A,0
+1820,2393254,Cameron Martin,3.7,3,Art,67,2.7
+1821,2393689,Hargungeet Singh,0.0,0,Economics,N/A,0
+1822,2394130,Adam Carter,1.0,1,Neurological Sciences,0,5
+1823,2498983,Nina dAlessandro,0.0,0,English,N/A,0
+1824,2499298,JOHN Rahaim,5.0,1,Marketing,100,2
+1825,2499917,Anika Sharma,5.0,1,Marketing,100,3
+1826,2500990,Rena Hagver,0.0,0,Chemistry,N/A,0
+1827,2501549,Jesse Seegers,0.0,0,Engineering,100,0
+1828,2502091,Yichen Zhang,5.0,1,Statistics,100,3
+1829,2502579,Louis Karchin,0.0,0,Music,N/A,0
+1830,2503589,Lai-Sang Young,0.0,0,Mathematics,N/A,0
+1831,2481163,Diego Reinero,0.0,0,Psychology,N/A,0
+1832,2481224,James Traub,1.0,2,International Relations,0,5
+1833,2481322,Keyanah Freeland Nurse,0.0,0,History,N/A,0
+1834,2481642,Victoria Grubbs,0.0,0,Communication,N/A,0
+1835,2481772,Eric Hodges,3.0,1,East Asian Studies,0,4
+1836,2482303,Melissa Lozada-Oliva,0.0,0,Writing,N/A,0
+1837,2482589,Andrew Ribner,5.0,1,Psychology,100,1
+1838,2483423,Patrick Sharkey,0.0,0,Sociology,N/A,0
+1839,2411956,Vivienne Badaan,5.0,1,Psychology,100,3
+1840,2412011,Xinyi Hu,0.0,0,Mathematics,N/A,0
+1841,2412023,Dan Mikesell,4.0,1,Digital Arts,100,4
+1842,2413460,Igor Chikunov,0.0,0,Dental,N/A,0
+1843,2413549,Kerry O'Grady,0.0,0,Communication,N/A,0
+1844,2414145,Pui Shan Fiona Hui,5.0,2,East Asian Studies,100,2
+1845,2414626,Ilavenil Meena Kandasamy,0.0,0,Women's Studies,N/A,0
+1846,2415278,Sumita Singh,0.0,0,Professional Programs,N/A,0
+1847,2486630,Pascal Lavergne,1.0,3,Economics,0,4.7
+1848,2486711,Stacen Keating,0.0,0,Nursing,N/A,0
+1849,2488114,Yvonne Zagzag,5.0,1,Physics,100,2
+1850,2489656,Jose Pagan,5.0,1,Public Policy,100,1
+1851,2489844,Derek Sylvan,0.0,0,Environmental Science,N/A,0
+1852,2490187,Hannah Freed-Thall,5.0,1,French,100,3
+1853,2491068,Dylon Robbins,3.0,2,Anthropology,0,2
+1854,2491760,John Maher,0.0,0,Writing,N/A,0
+1855,2518023,Lauren Duca,1.0,1,Journalism,0,1
+1856,2519432,Tine Paulsen,0.0,0,Political Science,N/A,0
+1857,2519433,Emma Maniere,0.0,0,Social Science,N/A,0
+1858,2519622,Tuomo Kuusi,0.0,0,Mathematics,N/A,0
+1859,2521083,Michael Seltenreich,0.0,0,Music,N/A,0
+1860,2522171,Craig Burton,0.0,0,Literature,N/A,0
+1861,2522220,Leanne Shapton,0.0,0,Writing,N/A,0
+1862,2522402,stephen small,0.0,0,Biology,N/A,0
+1863,2496174,Jean-Philippe Schmitt-Graff,0.0,0,French,N/A,0
+1864,2496476,Margaret Araneo,4.0,1,Theater,100,3
+1865,2497085,Ahmed Ferhadi,5.0,1,Middle Eastern Studies,100,3
+1866,2497761,Ian Bremmer,0.0,0,Political Science,N/A,0
+1867,2498099,Jan Roberts,2.0,2,Social Work,0,3.5
+1868,2498312,Jim Tolisano,4.0,1,Interdisciplinary Studies,100,3
+1869,2498682,Natasha Benjamin,5.0,2,Communication,100,4
+1870,2498694,Alexandria Istok,5.0,1,Classics,100,4
+1871,2442950,Zuo Tang,5.0,1,Mathematics,100,3
+1872,2443083,Dianne Ramdeholl,0.0,0,Writing,N/A,0
+1873,2443102,Zara DeLuca,4.0,1,Speech amp Hearing Sciences,100,3
+1874,2443200,Deion Gibson,0.0,0,Economics,N/A,0
+1875,2444296,Kurt Fulepp,5.0,2,Finance,100,4
+1876,2444439,Federico Buonerba,5.0,3,Career Development,100,3.3
+1877,2445367,Clara Fernández-Vara,1.0,1,Art amp Design,50,5
+1878,2547299,Lena Scheen,5.0,1,Humanities,100,3
+1879,2547845,Stergios-Orestis Kolokotronis,4.0,1,Environmental Science,100,4
+1880,2548639,Madeline Gilbert,1.0,1,Spanish,0,5
+1881,2549319,Christine Monaghan,5.0,1,International Studies,100,2
+1882,2550957,Valentina Contini,5.0,2,Italian,100,2
+1883,2551981,I-Hsin Chung,1.0,1,Computer Science,0,4
+1884,2551986,Seetharami Seelam,1.0,1,Computer Science,0,4
+1885,2552039,Anna Stielau,5.0,1,Communication,100,3
+1886,2450222,Dove Pedlosky,5.0,1,Communication,100,2
+1887,2450262,Raymond Scannell,0.0,0,Sociology,N/A,0
+1888,2450525,Yasmin Khan,1.4,8,Marketing,0,4.2
+1889,2450537,Abidali Mohamedali,1.5,2,Biochemistry,0,5
+1890,2451170,Jed Bernstein,5.0,1,Marketing,50,2
+1891,2454451,Olivia Mendivil Ramos,1.0,2,Mathematics,0,4
+1892,2455309,Ray Blackburn,4.5,2,Film & Television,100,1
+1893,2456930,Nathalie Handal,0.0,0,Arts & Sciences,N/A,0
+1894,2561936,Yiannis Tselekounis,5.0,1,Computer Science,100,2
+1895,2562685,Nicholas Geacintov,4.0,2,Chemistry,100,2
+1896,2562723,Siyao Guo,5.0,2,Computer Science,100,4
+1897,2562726,Zhibin Chen,5.0,1,Computer Science,100,3
+1898,2563665,Jennifer Trowbridge,3.0,1,Anthropology,100,2
+1899,2563938,Diane Barrett,0.0,0,Nutrition & Foods,N/A,0
+1900,2566558,Carl Skelton,5.0,1,Interdisciplinary Studies,100,1
+1901,2566911,Mara Rosenblatt,2.0,1,Psychology,0,1
+1902,2567226,Josh Panknin,0.0,0,Real Estate,N/A,0
+1903,2567269,Daniel Davison,1.0,1,Professional Programs,0,3
+1904,2567629,Anna Mazzucato,0.0,0,Mathematics,N/A,0
+1905,2569245,Michael Blanton,0.0,0,Arts & Sciences,N/A,0
+1906,2569737,Shrishti Ahuja,0.0,0,Biology,N/A,0
+1907,2569880,Maria Brea,5.0,1,Speech & Hearing Sciences,100,1
+1908,2570248,Ralph Whyte,5.0,1,Music,100,3
+1909,2570410,Erica Love,3.0,1,Art,0,3
+1910,2570567,Alexis Gambis,5.0,1,Film amp Television,100,1
+1911,2571252,Jessica Kalbfeld,2.0,1,Sociology,0,4
+1912,2571469,Susan Lee,0.0,0,Dance,N/A,0
+1913,2571908,Colette Perold,2.5,2,Communication,0,3
+1914,2572142,Jonathan Haidt,0.0,0,Psychology,N/A,0
+1915,2572993,Lauren Greenspan,0.0,0,Liberal Arts amp Sciences,N/A,0
+1916,2573861,Gabbrielle Johnson,5.0,2,Philosophy,100,3
+1917,2576925,Trellace Lawrimore,0.0,0,Political Science,N/A,0
+1918,2473139,Melanie Heydari,5.0,2,Literature,100,4
+1919,2474449,Susanah Romney,2.0,2,History,50,4.5
+1920,2583532,Judite Blanc,0.0,0,Psychology,N/A,0
+1921,2584800,Jeannie Chandler,0.0,0,Philosophy,N/A,0
+1922,2586539,Jessie Austrian,5.0,1,Independent Studies,100,3
+1923,2587622,Doug Steinberg,0.0,0,Marketing,N/A,0
+1924,2587628,John Polis,3.0,1,Marketing,0,4
+1925,2588464,Philip Woods,0.0,0,History,N/A,0
+1926,2588465,Julia Stowe,0.0,0,Health Science,N/A,0
+1927,2588466,Nick Andrews,0.0,0,Health Science,N/A,0
+1928,2557847,Marlene Reich,0.0,0,German,N/A,0
+1929,2557954,MC Hyland,0.0,0,English,100,0
+1930,2559025,Bryan Hayslett,5.0,1,Music,100,3
+1931,2559135,Arthur Chi'en,5.0,2,Journalism,100,2.5
+1932,2559886,Josh Meisel,5.0,1,Mathematics,100,3
+1933,2560041,Ferre Denis,0.0,0,History,N/A,0
+1934,2560082,Roberto Pierri,0.0,0,Psychology,N/A,0
+1935,2560352,Sabrina Dhawan,5.0,1,Writing,100,4
+1936,2591453,Robert Madramootoo,2.5,2,Biology,0,4
+1937,2591574,Kevin Derricotte,0.0,0,Business,N/A,0
+1938,2591800,Micaela Paredes Barraza,5.0,1,Spanish,100,1
+1939,2592622,Jerohm Villanueva,0.0,0,Dance,N/A,0
+1940,2592864,Joel Derfner,5.0,1,Theater,100,1
+1941,2592868,Matthew Spigelman,0.0,0,Anthropology,N/A,0
+1942,2593114,Angela Wong,0.0,0,Writing,N/A,0
+1943,2594502,Dina Siddiqi,4.0,1,Liberal Arts amp Sciences,50,3
+1944,2483468,Jordan MacKenzie,5.0,1,Philosophy,100,2
+1945,2483815,Dana Edell,0.0,0,Educational Theater,N/A,0
+1946,2483881,Nick Bazzano,0.0,0,Philosophy,N/A,0
+1947,2484173,Ryan Ruff,0.0,0,Statistics,N/A,0
+1948,2484722,Johanna Frymoyer,1.0,1,Music,0,5
+1949,2485054,Stacey Sotirhos,0.0,0,Education,N/A,0
+1950,2486229,Pamela Brown,0.0,0,Liberal Studies,N/A,0
+1951,2486530,Anthony Chiaravelotti,0.0,0,Administration,N/A,0
+1952,2600591,Jiani Lian,5.0,1,Foreign Languages,100,3
+1953,2601141,Christian Frock,3.0,1,Art & Visual Culture,0,5
+1954,2601152,Sharon Friedman,0.0,0,Writing,N/A,0
+1955,2601161,Lizzie Skurnick,0.0,0,Writing,N/A,0
+1956,2601285,Kristin Horton,5.0,1,Theater,100,2
+1957,2601321,Felix Danbold,5.0,1,Management,100,3
+1958,2601473,Isabel Cadenas Canon,2.0,1,Spanish,0,4
+1959,2601475,Sebastian Lavezzolo,2.0,1,Political Science,0,3
+1960,2495128,Lesha Shah,0.0,0,Medicine,N/A,0
+1961,2495569,Terrence Cullen,5.0,1,French,100,2
+1962,2495919,Claire de Obaldia,2.5,2,Liberal Studies,67,5
+1963,2608944,Lisa Milinazzo,0.0,0,Film & Television,N/A,0
+1964,2608995,Jacquline Jaffe,0.0,0,Literature,N/A,0
+1965,2610130,Mohammed Nadiri,0.0,0,Economics,N/A,0
+1966,2610394,Elizabeth Bejarano,5.0,1,English,100,4
+1967,2610545,Cecile Bishop,0.0,0,French,N/A,0
+1968,2610566,Nikolai Preuschoff,5.0,1,German,100,2
+1969,2610568,Guido Hesselmann,5.0,1,Psychology,100,1
+1970,2610569,Elke Bruens,3.5,2,German,100,1.5
+1971,2594532,Omar Montana,0.0,0,Sociology,N/A,0
+1972,2596372,Gwyneth Bravo,0.0,0,Music,N/A,0
+1973,2596596,Leo Miolane,0.0,0,Mathematics,N/A,0
+1974,2596616,Alejandra Rosenberg,0.0,0,Spanish,N/A,0
+1975,2597588,Sylvan Solloway,0.0,0,Journalism,N/A,0
+1976,2597661,Finbarr Flood,0.0,0,Art History,N/A,0
+1977,2597872,Tania Lupoli,0.0,0,Chemistry,100,0
+1978,2615892,Senada Ka,5.0,1,Computer Science,100,5
+1979,2616162,Neal Meyer,4.0,1,Sociology,100,3
+1980,2618338,Daniel Inouye,0.0,0,History,N/A,0
+1981,2618608,Emelyn Lih,5.0,1,French,100,2
+1982,2619381,Jonas Knatz,0.0,0,History,N/A,0
+1983,2619715,John Santoro,0.0,0,Communication,N/A,0
+1984,2620284,Bogna Konior,0.0,0,Arts & Sciences,100,0
+1985,2620451,Edward Kleinert,0.0,0,Information Systems,N/A,0
+1986,2620783,Jonathan Foer,0.0,0,English,N/A,0
+1987,2621240,Kyle Ferguson,0.0,0,Environmental Science,N/A,0
+1988,2622847,Jaz Sufi,0.0,0,Writing,N/A,0
+1989,2623304,Shouzhen Wang,0.0,0,History,N/A,0
+1990,2626248,Kellie Kennedy,0.0,0,Dental,N/A,0
+1991,2626324,Sam Marchiano,1.0,1,Management,0,3
+1992,2627651,Tomas Klvana,5.0,1,Business,100,3
+1993,2628729,Martin Ignatovski,0.0,0,Anthropology & Geo Sciences,N/A,0
+1994,2629254,Licia Fiol-Matta,1.0,1,Spanish,0,5
+1995,2629651,Shekaran Saniya,0.0,0,Psychology,N/A,0
+1996,2632348,Seth Rosen,0.0,0,Computer Science,N/A,0
+1997,2632354,Xiaojing Wang,0.0,0,Neurological Sciences,N/A,0
+1998,2635766,Christa Kimlicko Jones,0.0,0,Theater,N/A,0
+1999,2637024,Jenna Lawrence,0.0,0,Anthropology,N/A,0
+2000,2637035,Mateo Guerrero,5.0,1,Spanish,100,2
+2001,2637253,Jake Friedman,0.0,0,Film amp Television,N/A,0
+2002,2637938,Glennys Farrar,5.0,2,Physics,100,3
+2003,2638506,Jennifer Buonocore,2.0,1,Art History,0,3
+2004,2638729,Jason Shames,0.0,0,Hospitality,N/A,0
+2005,2639466,Raquel Rose,0.0,0,Psychology,N/A,0
+2006,2639990,Tracy Cai,0.0,0,Education,N/A,0
+2007,2641484,Natasha Penn,0.0,0,Nursing,N/A,0
+2008,2642044,Eric Tracy,0.0,0,Philosophy,N/A,0
+2009,2491582,Elizabeth Molkou,5.0,2,French,100,2.5
+2010,2608071,Maxwell Austensen,0.0,0,Public Policy,N/A,0
+2011,2608273,Timothy Valshtein,5.0,2,Psychology,100,2.5
+2012,2643088,Nicolas Baudouin,4.0,1,Art & Visual Culture,100,3
+2013,1771657,Jean-Phillippe Schmitt,4.7,18,French,100,1.8
+2014,2643119,Isabelle Coydon,0.0,0,French,N/A,0
+2015,2643120,Mariame Camara,0.0,0,French,N/A,0
+2016,2514699,Joseph Pfender,5.0,3,Music,100,2.3
+2017,2644336,Hannah Kingsley-Ma,5.0,1,Writing,100,2
+2018,2644345,Jialin Liu,0.0,0,Education,N/A,0
+2019,1116522,Michael Ward,2.5,18,Chemistry,60,3.4
+2020,2543168,Jonathan Prober,0.0,0,Finance,N/A,0
+2021,2544296,David Barnes,0.0,0,Environmental Public Health,N/A,0
+2022,2544534,Marni Vassallo,5.0,1,Teaching & Learning,100,1
+2023,2544628,Karen Goldferer,5.0,1,Public Administration,100,4
+2024,2545487,Roy Nathanson,3.0,1,Liberal Studies,0,1
+2025,2545543,Emanuela Bianchi,0.0,0,Literature,N/A,0
+2026,2546553,Abdellatif Bentahar,0.0,0,Engineering,N/A,0
+2027,943873,Arthur Matthews,4.8,7,Not Specified,100,2
+2028,2645928,Alexander Nagel,0.0,0,Art History,N/A,0
+2029,2279279,Emilio Zappa,4.8,5,Mathematics,100,3.2
+2030,2647089,Lekeisha Dawkins,0.0,0,Social Work,N/A,0
+2031,2647090,Jason Fox,0.0,0,Social Work,N/A,0
+2032,2555766,Martina Neuman,5.0,2,Mathematics,100,2.5
+2033,2571804,Joseph Giacomelli,5.0,2,Writing,100,2
+2034,2576329,James Ou,5.0,1,Marketing,100,3
+2035,2553665,Kavita Kulkarni,3.7,6,Communication,50,3.2
+2036,2554063,Jennifer Pineo-Dunn,1.0,1,Classics,0,4
+2037,2554323,Caroline Potter,0.0,0,Graphic Arts,N/A,0
+2038,2555181,Adam Yaghi,1.0,1,Writing,0,5
+2039,2556045,Joe Mcarthy,5.0,1,Social Work,100,2
+2040,2556984,Thomas Stolfi,4.7,3,Marketing,90,4
+2041,2557182,Ying Rong,3.0,1,Business,0,1
+2042,2557183,Jie Yuan,5.0,1,Asian Studies,100,3
+2043,2560607,Xinying Cai,4.5,2,Neurological Sciences,100,4
+2044,2561801,Matthew Santirocco,5.0,1,Classics,100,3
+2045,2566719,Melody Yousefian,5.0,1,Administration,50,3
+2046,2568259,Kastanis Demetrios,0.0,0,Finance,100,0
+2047,2571253,Lawrence Wu,4.5,4,Sociology,100,2.2
+2048,2578283,Aria Halavati,4.0,1,Mathematics,0,4
+2049,2579384,Touseef Mirza,0.0,0,Engineering,N/A,0
+2050,2579567,Jennifer Jacquet,3.3,3,Environmental Science,67,3.3
+2051,2647544,Michael O'Neil,0.0,0,Mathematics,N/A,0
+2052,1413497,Maria Gouskova,3.8,6,Linguistics,67,3
+2053,2590040,Gary Thoms,4.0,3,Linguistics,100,2
+2054,686184,Deena Engel,4.0,39,Computer Science,48,2.6
+2055,1990315,Francisco Seijo,2.1,4,Political Science,50,2.2
+2056,2106438,Christina Van Houten,3.3,6,Writing,50,3.2
+2057,2588666,Yen-chung Chen,0.0,0,Biology,N/A,0
+2058,2588959,Stephanie Papa,5.0,3,Writing,100,3
+2059,2589365,Ramesh Raghavan,3.0,1,Social Work,0,4
+2060,2590004,Leslie Huang,0.0,0,Data Science,N/A,0
+2061,2590158,Edward Yang,4.0,2,Computer Science,50,5
+2062,2590441,Dee La Duke,0.0,0,Writing,N/A,0
+2063,2590713,Richard Hull,1.5,2,Computer Science,0,5
+2064,2591306,Sienna Peck,4.5,2,Music,100,2.5
+2065,2593747,Laura Rojas,5.0,2,Spanish,100,2.5
+2066,2593832,Laine Nooney,5.0,4,Communication,78,3
+2067,2598432,Joseph Vinciguerra,0.0,0,Film & Television,N/A,0
+2068,2599454,Diane Hodson,5.0,1,Film & Television,100,4
+2069,2599689,Kara dean-assael,1.0,1,Social Work,0,1
+2070,2599690,Irvin Irbarguen,5.0,1,History,100,2
+2071,2599698,Elizabeth Ellis,5.0,1,History,100,2
+2072,2600115,Kimberly Thomas,2.0,1,Expository Writing,0,3
+2073,2600162,Sam Azulys,0.0,0,Film & Television,N/A,0
+2074,2600252,Andrea Gadberry,5.0,1,Humanities,100,3
+2075,2600364,Charles Puelz,0.0,0,Mathematics,N/A,0
+2076,2600437,Michelle Lee,0.0,0,Social Science,N/A,0
+2077,2600549,Mary Nittolo,5.0,1,Graphic Arts,100,3
+2078,2495120,Victoria Kiechel,2.0,5,Professional Programs,20,4.6
+2079,2652246,Marissa Davis,0.0,0,Writing,N/A,0
+2080,1852405,Adam Scher,4.3,12,Computer Science,88,1.8
+2081,2031603,Meredith broussard,4.0,2,Journalism,0,3
+2082,1364325,Mohamad Bazzi,4.2,12,Journalism,100,2.5
+2083,339328,Dennis Geronimus,4.2,38,Art History,50,3.8
+2084,2652874,Camila Rivera,0.0,0,Spanish,N/A,0
+2085,2372436,Juliet Stanton,4.2,9,Linguistics,89,3.2
+2086,2602953,George Thurston,0.0,0,Biology,N/A,0
+2087,2603656,Hassan Abdulhaqq,4.0,1,Hospitality,100,2
+2088,2604524,Sandra Barbosu,5.0,2,Management,100,3.5
+2089,2605161,Normajean Cefarelli,5.0,1,Psychology,100,4
+2090,2606095,Figen Geerts,4.0,1,History,0,3
+2091,2607799,Rebecca Weis,3.0,1,Psychology,0,4
+2092,2607864,Sabrina Dycus,5.0,1,Sociology,100,1
+2093,2608032,Ingrid Sierakowski,5.0,1,Adult Basic Education,100,3
+2094,2137828,Nicholas Rynearson,5.0,1,Classics,100,3
+2095,325466,Chris Rzonca,2.9,43,Asian Studies,75,3.1
+2096,2658815,Sara Franklin,1.0,1,Humanities,0,3
+2097,835985,Darrell Wilson,4.6,12,Film & Television,84,1.9
+2098,2467393,Faiyaz Jaffer,4.3,3,Religious Studies,67,1.7
+2099,2145822,Ali Alnaemi,4.3,4,Middle Eastern Studies,100,3
+2100,2320543,Simon Trujillo,2.5,4,English,50,3
+2101,2555605,Thomas Murphy,5.0,1,French,100,3
+2102,2655292,Jennifer Benetato,5.0,1,Social Work,100,3
+2103,2473906,Zoila Del-Villar,5.0,11,Social Work,100,2.1
+2104,2639074,Chris Bogia,5.0,1,Art Studio,100,2
+2105,2393256,Shadi Harouni,3.0,2,Art,50,2
+2106,2655585,Arturas Rozenas,2.0,1,Political Science,0,4
+2107,733444,John Shovlin,4.6,15,History,100,3.4
+2108,1388708,Donna McCabe,4.1,14,Nursing,67,3.5
+2109,2656070,Wensi Yang,0.0,0,Psychology,N/A,0
+2110,2614721,Dantae Elliott,0.0,0,Spanish,N/A,0
+2111,2615334,Zadie Smith,0.0,0,English,N/A,0
+2112,2616325,Daniel Shiffman,5.0,1,Interactive Telecommunications,100,3
+2113,2618079,Jean Medor,5.0,1,Chemistry,100,1
+2114,984944,Helga Tawil-Souri,4.7,19,Communication,100,3.3
+2115,991112,Marita. Sturken,4.1,8,Communication,67,3.4
+2116,2399818,Pamela Bartock,5.0,3,Nursing,100,3
+2117,1540827,Tom Kwok,3.8,19,Chemistry,67,3.1
+2118,2657280,Luis Rodriguez,4.0,1,Education,100,3
+2119,2657351,Carla Sampson,1.0,1,Health Care Administration,0,3
+2120,1781844,Andrea Bonezzi,4.4,21,Marketing,63,3
+2121,595327,Gregory Erickson,4.5,14,Writing,100,2.6
+2122,1354868,Jenn Carpenter,5.0,4,Finance,100,4.5
+2123,2148217,Elana Needle,2.5,2,Social Work,67,2.5
+2124,1566888,Louise Harpman,3.8,10,Interdisciplinary Studies,50,4.1
+2125,1820796,Yiwei Dou,3.8,15,Accounting,50,2.6
+2126,2402268,Shuyang Ling,2.8,21,Mathematics,43,4
+2127,2541494,Philip Kennedy,1.5,6,Middle Eastern Studies,17,3.5
+2128,1080049,Alexander Perez-Heredia,4.3,5,Spanish,100,2.6
+2129,2658050,Marisa Tramontano,5.0,1,Interdisciplinary Studies,100,3
+2130,1288723,Juliet Fleming,3.0,8,English,50,4.3
+2131,2012710,Josephine Hendin,3.5,2,English,50,2.5
+2132,23079,Jo Hendin,3.8,15,English,67,2.1
+2133,250318,Susan Murray,4.2,17,Communication,100,2.5
+2134,754430,Craig Burton,4.3,22,Communication,100,1.8
+2135,2626513,Jerrod Delaine,5.0,1,Real Estate,100,3
+2136,1832220,Valerie Deacon,4.3,8,History,50,2
+2137,2627502,Tara Slough,5.0,3,Political Science,100,1.3
+2138,448719,Roberto D'Alimonte,3.8,8,European Studies,100,4.5
+2139,2602672,Yang Feng,4.9,36,Statistics,100,3.1
+2140,719963,Katherine Hurbis-Cherrier,4.3,11,Film & Television,100,3.5
+2141,2662789,Michah Gottlieb,0.0,0,Hebrew,N/A,0
+2142,1621232,Michah Gottlieb,4.1,7,Religious Studies,84,3.1
+2143,2621559,Maria Abascal,3.0,1,Sociology,0,2
+2144,2662898,Carol Bergman,0.0,0,Writing,N/A,0
+2145,1570276,Alice Wang,3.3,2,Art,100,2
+2146,2190591,Romi Mukherjee,4.5,14,Religious Studies,86,2.8
+2147,2042942,Alrick Brown,5.0,4,Film Television,100,4
+2148,831020,Dan Kellum,3.5,33,Writing,72,3.5
+2149,1821233,Colleen Pearl,4.7,16,Writing,100,3.9
+2150,2663672,Mariagnes Cianni,0.0,0,Professional Programs,N/A,0
+2151,2663673,Michael Woodward,0.0,0,Professional Programs,N/A,0
+2152,2663862,Yuanzhe Pang,5.0,1,Computer Science,100,5
+2153,2663865,Sean Welleck,5.0,1,Computer Science,100,5
+2154,499442,Eric Nicholson,4.6,21,Not Specified,100,2.1
+2155,2643207,Anna Majeski,4.0,1,Art History,100,3
+2156,2445423,Clifford Siskin,3.0,3,Literature,67,1
+2157,1569685,Maria Montoya,3.5,10,History,17,3.3
+2158,2021796,Sara Nadal,5.0,2,Spanish,100,3
+2159,2065944,Jeannine Chandler,3.7,36,East Asian Studies,88,2.9
+2160,2176555,Paul Frucht,4.1,11,Music,84,3.3
+2161,2657903,IIaf Elard,0.0,0,Economics,N/A,0
+2162,1971559,James Fraser,4.5,12,Education,88,3.1
+2163,2540179,Catharine Stimpson,2.0,2,Education,0,3
+2164,2092772,Rossi Hassad,4.4,10,Mathematics,100,2.8
+2165,471965,Beth Weitzman,4.1,5,Social Science,100,3.2
+2166,2638478,Timo Vollbrecht,5.0,1,Music,100,3
+2167,2660216,Jonathan Waxman,3.0,1,Music,100,1
+2168,2423610,Michael Gillespie,3.0,6,Liberal Studies,50,3
+2169,2407198,Michael Overton,2.4,11,Mathematics,34,4.4
+2170,1115148,Michele Mitchell,4.6,18,History,86,2.5
+2171,2561811,Karis Jones,5.0,2,Teaching & Learning,100,2.5
+2172,2647408,Elie Aidekon,5.0,2,Mathematics,100,1.5
+2173,2480657,Teseo Schneider,3.1,10,Computer Science,40,2.6
+2174,2596565,Matthew Novack,5.0,8,Mathematics,100,3.3
+2175,2666638,Barry Mc Carron,5.0,1,History,100,4
+2176,2668288,Arthur Williford,0.0,0,Music,N/A,0
+2177,456300,Alexander Galloway,4.2,11,Communication,100,2.7
+2178,1025957,Zachary Lockman,3.9,27,Near Eastern Studies,44,3.7
+2179,2652112,Michel Nieva,4.0,1,Spanish,100,2
+2180,2589599,Gernot Wagner,5.0,3,Public Policy,100,3.3
+2181,2425623,Sara Constantino,3.7,6,Psychology,84,3.5
+2182,2340456,Joe Pichirallo,4.0,4,Film amp Television,60,2.7
+2183,2595156,Odette Boivin,1.7,3,Near Eastern Studies,0,4.7
+2184,615602,Andrew Schotter,3.2,5,Economics,0,2.6
+2185,2323581,Jonathan Cayer,4.2,4,French,100,3.3
+2186,832386,Jennifer Berg,4.7,16,Nutrition & Foods,100,2.9
+2187,2652790,Paul Stephens,5.0,2,Writing,100,2
+2188,2605765,Francoise Guillo,5.0,2,Social Science,100,2.5
+2189,2649007,Tony Nardi,1.0,1,Fine Arts,0,4
+2190,1637341,Jeff Day,4.4,4,Photography,100,1.8
+2191,2649032,Jeffery Henson-Scales,5.0,1,Photography,100,3
+2192,2649036,Jacob Kramer-Duffield,5.0,1,Engineering,100,2
+2193,1263073,Laszlo Santha,3.8,15,Film & Television,84,1.8
+2194,2609558,Ezra Claverie,0.0,0,East Asian Studies,N/A,0
+2195,579249,Fred Myers,2.8,25,Anthropology,62,2.7
+2196,2344575,KyungHyun Cho,4.3,4,Data Science,100,4.3
+2197,2490576,Maureen McLane,5.0,2,English,100,3.5
+2198,2568725,Ritwick Ghosh,0.0,0,Environmental Science,N/A,0
+2199,2588373,Ori Hirschberg,1.0,2,Mathematics,0,3
+2200,2359081,Gary Faber,4.0,4,Marketing,80,4.2
+2201,2664991,Gregory Carideo,0.0,0,Art & Design,N/A,0
+2202,2665097,Roger Kuperways,0.0,0,Philosophy,N/A,0
+2203,2640000,Lauren Whitehead,5.0,2,Theater,100,2
+2204,1640603,Arang Keshavarzian,4.7,10,Near Eastern Studies,100,3.4
+2205,2557274,Sybille Fischer,2.3,4,Spanish,34,2.8
+2206,2650016,Gregory Petronzi,0.0,0,Psychology,N/A,0
+2207,2339984,Robert Schoetz,5.0,4,Real Estate,100,3.5
+2208,2651056,Stephen Ryan,0.0,0,Accounting,100,0
+2209,2583089,David Maguire,2.3,4,Journalism,25,3.8
+2210,973237,Sinclair Thomson,3.3,8,History,100,2.6
+2211,2672427,Yongfan Yong,0.0,0,Chemistry,N/A,0
+2212,2672431,John Canemaker,0.0,0,Animation,N/A,0
+2213,2672629,Ranjana Choudhry,0.0,0,Communication,N/A,0
+2214,320073,Mollie Fermaglich,4.2,21,Film & Television,N/A,3.1
+2215,2672767,Rafael Cesar,0.0,0,Spanish,N/A,0
+2216,2242092,Bohdan Hoshovsky,0.0,0,Management,N/A,0
+2217,2672915,David Gottesman,0.0,0,Professional Programs,N/A,0
+2218,1674603,Kent Kirshenbaum,2.8,20,Chemistry,40,3.8
+2219,2004696,Kathrina Laporta,4.0,10,French,70,2.3
+2220,2673406,Paul-Andre Mellies,5.0,1,Computer Science,100,3
+2221,2673609,Cedric Dunlop,0.0,0,Business,N/A,0
+2222,1943923,Wei Wu,2.8,11,Mathematics,34,3.1
+2223,1172104,Cris Beam,4.2,5,Writing,50,2.4
+2224,2195061,Cille Longshaw,3.5,2,Education,50,3
+2225,1509012,Judith Miller,4.2,5,French,100,2.8
+2226,8377,Zlatko Bacic,2.3,11,Chemistry,0,3.9
+2227,2668578,Keisha Lindsay,0.0,0,Gender Studies,N/A,0
+2228,2668584,Robin Klar,1.0,1,Nursing,0,1
+2229,616999,David Cregar,3.9,30,Writing,63,3.1
+2230,1098355,Patrick Egan,4.2,46,Political Science,75,3
+2231,762158,YU Chen,2.5,45,Mathematics,30,2.8
+2232,2664767,Adwoa Akhu,1.0,3,Psychology,0,5
+2233,2584413,Waleed Bhatti,5.0,1,Writing,100,1
+2234,2608016,Amber Chenevert,3.0,2,Marketing,50,2
+2235,2249649,Paula Chakravartty,4.5,2,Communication,100,4.5
+2236,2134550,Michell Cardona,2.6,26,Computer Science,40,3.5
+2237,489657,Jeanne Calderon,3.1,10,Law,34,4
+2238,2600590,Gang Fang,3.0,4,Biology,58,4.8
+2239,2677014,Amelia Echeverria,0.0,0,Spanish,N/A,0
+2240,953548,Dawn Werner,2.3,17,Communication,17,3.7
+2241,735929,Kenneth Carr,4.2,8,Psychology,75,3.4
+2242,1444814,Ignatius Tan,3.0,11,Biology,34,4.2
+2243,599214,Gisella McSweeny,2.8,9,Languages,0,3.1
+2244,2501433,Alejandro Ganimian,3.3,4,Psychology,25,4
+2245,1642482,Beth Strugatz-Seplow,3.0,2,Communication,50,2
+2246,2444958,Doris Zahner,5.0,3,Public Policy,100,3
+2247,2134009,Jorge Carballo,3.0,2,Mathematics,50,3.5
+2248,1259507,Sam Abrams,4.3,2,Political Science,N/A,1.5
+2249,505873,Robin Goldfin,3.7,33,Writing,58,2.2
+2250,335748,Laura Bresciani,4.3,20,Italian,100,2.2
+2251,2314559,Dianne Devitt,2.0,2,Hospitality,0,1.5
+2252,1772732,David Grier,4.9,9,Physics,100,3.5
+2253,2654375,Qi Huang,1.5,2,Business,0,4
+2254,2654325,Brianne Baker,5.0,2,Writing,100,3
+2255,2654411,Susan Kirch,0.0,0,Microbiology,N/A,0
+2256,457460,Cynthia Allen,3.3,5,Graphic Arts,100,1.6
+2257,2638652,Daniel Gilmore,5.0,1,Communication,100,2
+2258,1393586,Thuy Linh TU,3.9,8,Asian Studies,100,3.6
+2259,1908127,Richard Cole,4.3,7,Computer Science,84,3
+2260,1811455,Cristina Beltran,4.2,17,Latin American Studies,73,2.5
+2261,2671649,Jack Lee,0.0,0,Marketing,N/A,0
+2262,2412685,Kathleen Ngangoue,2.1,7,Economics,29,4.6
+2263,2541693,Dale Jamieson,3.0,3,Environmental Science,34,2.7
+2264,2619656,Yunzi Ding,5.0,2,Mathematics,100,2.5
+2265,1805627,Jaroslav Borovicka,4.2,25,Economics,64,3.7
+2266,920089,Jennifer Gordon,4.8,26,French,100,2
+2267,2569442,Kristen Martin,4.5,2,Liberal Studies,100,3
+2268,696375,Beth Seplow,3.8,13,Communication,100,2.3
+2269,2296252,Valerie Wells,2.0,1,Biology,0,2
+2270,1062839,Jeff Togman,4.4,34,Political Science,91,2.8
+2271,2675255,Elaine Gan,2.0,1,Humanities,0,4
+2272,2376550,Shiv Kotecha,5.0,1,Writing,100,3
+2273,2657994,Jing Chen,5.0,1,Business,100,4
+2274,2675508,Christy Dure,0.0,0,Public Policy,100,0
+2275,2176933,Hala Halim,3.7,3,Middle Eastern Studies,67,3.3
+2276,778451,Thomas Looser,4.3,20,East Asian Studies,100,2
+2277,203775,John Barna,3.1,106,Cultural Studies,60,1.9
+2278,2583654,Whitney Waugh,5.0,1,Psychology,100,3
+2279,2564962,Teodora Tomova Shakur,1.0,1,Management,0,4
+2280,2626831,Jeffrey Erlich,5.0,1,Neurological Sciences,100,1
+2281,2265199,Kesia Constantine,5.0,2,Psychology,100,2.5
+2282,2298791,Diego Perez,2.0,1,Economics,67,3
+2283,1743821,Mohamed Zahran,4.1,34,Computer Science,87,3.2
+2284,2156515,Hanyu Xiao,4.7,10,East Asian Studies,90,3.6
+2285,2657451,Alejandra Rivarola,2.3,7,Anthropology,13,4.6
+2286,1815990,Ali Bujnowski,4.5,21,Writing,89,3.3
+2287,2189618,Selena Gilles,2.0,4,Nursing,25,4
+2288,2405874,Vlad Vicol,5.0,1,Mathematics,100,4
+2289,2554190,Sean ONeil,4.8,4,Interdisciplinary Studies,100,3.8
+2290,2657966,Thomas Gold,5.0,1,Education,100,1
+2291,2657967,Shilpa Sahay,5.0,1,Education,100,1
+2292,2648577,Soren Stark,5.0,1,Asian Studies,100,3
+2293,2374921,Tatiana Linkhoeva,4.8,4,History,100,3.2
+2294,2658659,David Montgomery,5.0,1,Educational Theater,100,3
+2295,2574694,Jonathan Hay,4.0,1,Fine Arts,100,4
+2296,2222802,Tao Goffe,3.0,5,Cultural Studies,40,3.8
+2297,2479330,Eyal Lubetzky,3.5,4,Mathematics,25,4.3
+2298,2680408,Simon Turner,5.0,1,Tourism Management & Hospitality Studies,100,3
+2299,689823,Gerald Pryor,2.5,5,Art Studio,67,2.6
+2300,1563483,Matthew Rockman,3.4,24,Biology,60,3.7
+2301,2689057,Paul Hanau,0.0,0,Real Estate,N/A,0
+2302,2425834,Paul Fotsch,5.0,1,Education,100,1
+2303,2295154,David Gochfeld,3.6,10,Computer Science,60,4.1
+2304,1053988,Yuri Tschinkel,2.8,7,Mathematics,25,4
+2305,2697425,Seunghee Back,0.0,0,East Asian Studies,N/A,0
+2306,2473832,Seunghee Baek,5.0,2,East Asian Studies,100,2
+2307,2697517,John Burkhardt,2.0,1,Film & Television,0,2
+2308,349146,Peter Unger,3.0,18,Philosophy,50,3.3
+2309,2449351,Kathleen Rizy,4.8,5,French,100,2.4
+2310,2218365,Khalid Latif,4.4,5,Religious Studies,80,2
+2311,2691098,Hannah Sassoon,0.0,0,Writing,N/A,0
+2312,1123722,Esther Truzman,3.6,18,Spanish,38,3
+2313,1727891,Muserref Yetim,3.3,13,Political Science,100,3.1
+2314,2691649,Leah Roh,5.0,1,Art amp Design,100,3
+2315,2691664,Kalika Sharma,5.0,1,Animation,100,3
+2316,2691684,Todd Porterfield,1.0,1,Art History,0,4
+2317,2691755,Carol Ou,5.0,1,Music Performance,100,4
+2318,2691838,Donna Bilak,5.0,1,Interdisciplinary Studies,100,2
+2319,1840714,Claudia Green,3.0,3,Nutrition & Foods,100,2
+2320,1587610,Peter Rahanis,4.0,4,Speech & Hearing Sciences,100,2
+2321,2691539,Michael Levy,0.0,0,Psychology,N/A,0
+2322,2692042,Ilana Ben-Ezra,0.0,0,History,N/A,0
+2323,1794110,Peter Lucas,2.3,5,Humanities,34,1.6
+2324,1737595,David Kaplan,3.5,11,Journalism,60,3.7
+2325,1633074,Claudie Bernard,5.0,3,French,100,2.3
+2326,2695426,Charles Schreger,0.0,0,Marketing,N/A,0
+2327,1962217,Jonathan Winawer,4.5,14,Psychology,84,3.4
+2328,2534015,Matthew Stanley,5.0,1,Interdisciplinary Studies,100,3
+2329,2619331,Robert Williams,1.0,1,Management,0,5
+2330,1459992,Stanley Zin,2.8,12,Statistics,100,2.8
+2331,1807963,Christine Malvasi,5.0,12,Writing,91,3.1
+2332,2339413,Marzetta Thomas,3.0,2,Engineering,50,4.5
+2333,2411830,Fredric Schwarzbach,2.9,8,Liberal Arts & Sciences,25,3.4
+2334,1296945,Shannon McHugh,4.6,8,Italian,100,3.6
+2335,1065175,Amy Becker,4.7,10,Writing,100,4
+2336,2418486,Mira Dewji,2.5,7,Business Law,43,2.7
+2337,8375,Burt Goldberg,3.4,90,Biology,64,2.6
+2338,2491550,Daniel Viehoff,4.7,3,Philosophy,100,2.7
+2339,2317412,Dean Saranillio,4.5,6,East Asian Studies,100,2.7
+2340,2662209,Gabriel Sod,3.0,1,Sociology,0,4
+2341,1771479,Jess Shatkin,4.1,44,Psychology,73,3
+2342,2186874,Jessica Moss,4.8,12,Philosophy,84,2.7
+2343,1619654,Katherine Carlson,4.0,23,Writing,88,3.6
+2344,2182788,Natasha Schüll,1.0,2,Communication,0,3
+2345,2209440,Annmaria Shimabuku,3.1,14,East Asian Studies,43,4
+2346,2115383,Hardy Justice,5.0,8,Film Television,88,1.8
+2347,2395468,Eric Juhola,5.0,1,Film amp Television,100,2
+2348,2700403,Daniel Waldinger,0.0,0,Economics,N/A,0
+2349,2352147,Joseph Bonneau,3.8,8,Computer Science,75,4.4
+2350,2694853,Fadia Nordtveit,5.0,2,Liberal Arts & Sciences,100,2
+2351,2679403,David Mclaughlin,5.0,1,Mathematics,100,2
+2352,2648934,Lihua Xu,2.5,7,Computer Science,50,3.7
+2353,1648677,Eloise Cathcart,3.0,2,Nursing,0,3
+2354,2169608,Olivier Marin,3.8,5,Computer Science,84,3.6
+2355,1442312,Robin Nagle,3.5,21,Anthropology,50,3.4
+2356,2335402,Jeremy Tinker,3.4,11,Physics,55,3.4
+2357,608971,Anna Harvey,2.6,36,Political Science,67,3.4
+2358,1968251,James Cantres,1.7,4,History,0,3.5
+2359,2478157,Lawrence Schiffman,5.0,1,Hebrew,100,2
+2360,2664875,Vicky Mesrie,1.0,1,Psychology,75,5
+2361,2124194,Andrew Romig,4.9,13,Medieval Studies,100,2.5
+2362,2668982,Andrei Cimipian,4.0,1,Psychology,100,3
+2363,2660129,Christian Busch,5.0,3,Economics,100,3
+2364,2319713,Jason Aston,4.8,6,Computer Science,100,2.3
+2365,2581798,Silvia Espinosa,4.7,7,Mathematics,86,2.6
+2366,2669399,Diane Hughes,0.0,0,Psychology,100,0
+2367,235035,Karmen Seidman,4.7,6,Theater,N/A,2.7
+2368,2676841,Oghene Oyiborhoro,5.0,2,Communication,100,4
+2369,2167604,Lena Mullings,2.3,6,Leadership,34,4
+2370,1956498,Catherine Milne,3.9,9,Human Development,67,1.8
+2371,2395697,Adrienne Nguyen,0.0,0,Education,N/A,0
+2372,2689606,Aleksei Grinenko,4.0,1,Theater,100,3
+2373,251963,David Handschuh,4.4,10,Journalism,100,2.9
+2374,1190108,Rae Wright,4.3,3,Film & Television,100,1.3
+2375,419998,Chee Yap,2.6,28,Computer Science,75,4.3
+2376,1980338,Paul Bourgade,4.0,4,Mathematics,75,4.3
+2377,1045890,Betty Ming Liu,4.7,50,Journalism,100,3.7
+2378,2518732,Shana Warren,3.0,6,Political Science,50,3.5
+2379,2654034,Samantha Wolfe,3.7,9,Communication,56,2.5
+2380,2420647,Alex Wein,5.0,5,Mathematics,100,3
+2381,595458,Sunder Narayanan,3.7,23,Marketing,73,2.5
+2382,2642050,Aleksandar Stojanovic,4.3,4,Economics,75,3.3
+2383,2364646,Lu Teng,5.0,2,Philosophy,100,4
+2384,1922643,Eric Brenner,4.2,18,Biology,80,2.8
+2385,2338561,Alice Teyssier,5.0,2,Music,100,2
+2386,100189,Carley Moore,4.5,57,Writing,100,3.4
+2387,2670613,Aaron Reliford,3.5,2,Medicine,50,3
+2388,2363259,Beverly Watkins,3.9,7,Environmental Public Health,72,3.6
+2389,182020,Robert Fitterman,3.6,67,Writing,93,2.4
+2390,2652070,Lucas Perello,4.2,4,Latin American Studies,86,2.5
+2391,2682311,Zhijie Chen,1.0,1,Computer Science,0,3
+2392,288294,Heidi White,3.5,68,Philosophy,58,3.2
+2393,2699838,Anita Cal,5.0,1,Film & Television,100,3
+2394,2669131,Dan Streible,0.0,0,Cinema,N/A,0
+2395,952137,Adina Schick,3.9,44,Psychology,68,3.5
+2396,1215002,Keith Miller,3.0,5,Art & Visual Culture,0,3.6
+2397,1670649,Chen Gao,4.6,12,East Asian Studies,100,3
+2398,1270463,Deirdre Royster,2.3,49,Sociology,37,4.6
+2399,1995230,Erica Robles-Anderson,2.3,22,Communication,20,4.2
+2400,2669221,Peter Pennoyer,0.0,0,Art History,N/A,0
+2401,1070921,Heather Masri,3.6,32,Cultural Studies,59,2.6
+2402,2657043,Michele Geraci,2.0,1,Business,0,4
+2403,2669913,Gian Carniglia,0.0,0,Economics,N/A,0
+2404,1077249,Shiqi Liao,4.0,16,East Asian Studies,59,3.1
+2405,2670270,Karen Krahulik,0.0,0,Communication,N/A,0
+2406,2639368,Allison Aitken,4.5,4,Philosophy,75,3
+2407,2555989,Shantae Edwards,3.0,2,Public Policy,50,1
+2408,1823039,Scott Williams,4.8,16,Anthropology,100,2.7
+2409,2329444,Anna Kuchler,3.1,7,Finance,43,3.7
+2410,2160882,Kaia Shivers,2.5,21,Writing,40,4.2
+2411,2670553,Nellie Terlemezian,0.0,0,Foreign Languages,N/A,0
+2412,2647396,Matt Kaczmarek,4.5,2,Public Policy,100,2.5
+2413,787049,Karl Appuhn,4.2,20,History,67,3.6
+2414,132389,Michael Westerman,3.0,23,Psychology,40,2.8
+2415,2328830,Adam Brown,4.4,7,Psychology,86,2.7
+2416,1943457,Shelley Rice,2.5,4,Art History,60,4.3
+2417,871172,Mary Quigley,2.6,33,Journalism,40,4.3
+2418,2105994,Adam Meyers,3.4,21,Computer Science,70,3
+2419,2202767,Tim Maudlin,3.8,6,Philosophy,58,2.7
+2420,2609422,Tristan Leger,5.0,1,Mathematics,100,4
+2421,2672139,Irwin Ibarguen,0.0,0,History,N/A,0
+2422,508106,Shanker Satyanath,2.9,70,Political Science,48,2.7
+2423,2702280,Christiana Coyle,0.0,0,Health Science,N/A,0
+2424,2403079,Chris Dickey,4.0,1,Environmental Public Health,100,3
+2425,2111525,Jeehyun Kim,5.0,7,East Asian Studies,100,2.4
+2426,2702285,Hai Shu,0.0,0,Health Science,N/A,0
+2427,2577862,Aleksander Aleszczyk,5.0,4,Accounting,100,3.3
+2428,2355005,Helena Hansen,4.5,4,Anthropology,100,2.5
+2429,2691058,Laith Shakir,5.0,1,Middle Eastern Studies,100,3
+2430,2643468,Azeta Kola,3.0,6,Humanities,34,2.5
+2431,2670870,Fedor Bogomolov,4.0,1,Mathematics,50,2
+2432,2679808,Pablo Ripollés,5.0,1,Psychology,100,2
+2433,813034,Ada Ferrer,4.5,9,History,100,2.8
+2434,2701518,Selma Asotic,5.0,1,Liberal Studies,100,3
+2435,2416203,Yunan Yang,1.4,20,Mathematics,10,4.4
+2436,2701529,Duncan Yoon,0.0,0,East Asian Studies,N/A,0
+2437,2544544,Orit Zaslavsky,4.5,2,Teaching & Learning,50,3.5
+2438,2701547,Ryan Ratliff,0.0,0,Speech & Hearing Sciences,N/A,0
+2439,2674135,Xiaoya Gu,5.0,1,East Asian Studies,100,5
+2440,984328,Joshua Tucker,4.4,64,Political Science,65,4.1
+2441,831197,Joan Connelly,4.1,36,Art History,43,3.3
+2442,2582318,Aleksandar Donev,2.8,4,Mathematics,50,3.8
+2443,95362,Sana Reynolds,3.8,4,Business,50,2.2
+2444,456069,Winifred Chin,3.9,22,Ethnic Studies,100,2.5
+2445,2069032,Adedamola Osinulu,3.3,20,Liberal Studies,56,2.9
+2446,1134872,Victor Shoup,3.5,99,Computer Science,68,4.2
+2447,1711010,Ara Merjian,3.7,13,Italian,80,2.8
+2448,1727435,Robert Benevides,4.6,7,Film & Television,100,2.6
+2449,2702681,David Storrs-Fox,0.0,0,Philosophy,N/A,0
+2450,464077,Josh MacKie,3.7,8,Writing,100,3.2
+2451,2702074,Margaret Minsky,0.0,0,Arts & Sciences,N/A,0
+2452,2383820,Ardeshir Shahmaei,4.2,6,Statistics,86,3
+2453,188921,Radha Hegde,3.2,13,Communication,75,2.8
+2454,2651427,Matthew Kaczmarek,4.0,2,Public Policy,100,2
+2455,284319,Richard Kleeman,3.7,23,Mathematics,90,3.4
+2456,2182638,Danis Banks,4.1,19,Writing,82,3.1
+2457,2492034,Malgorzata Mandziuk,2.5,8,Chemistry,38,4.6
+2458,1653895,David Forgacs,4.6,10,Italian,100,2.5
+2459,1037150,Susie Linfield,4.0,10,Journalism,72,3
+2460,2201437,Geoff Shullenberger,2.7,15,English,40,4
+2461,2588829,Vincent Bloch,4.1,10,Liberal Studies,78,2.8
+2462,2533203,Joshua Kruchten,3.7,3,French,67,3
+2463,2102822,Lawrence Ferrara,5.0,10,Music,100,1.4
+2464,2192558,Alisa Zhulina,4.3,3,Theater,100,3.3
+2465,2104647,Cong Zhou,4.9,8,East Asian Studies,100,2.7
+2466,2680945,Spencer Shafter,0.0,0,Music,N/A,0
+2467,2681472,Juliet Jacobson,5.0,1,Art,100,4
+2468,2236984,Alexandra Zidovska,4.0,2,Physics,100,3.5
+2469,2498088,Joseph Colonna,4.6,5,Writing,84,2.2
+2470,1948145,Alhelí Alvarado-Diaz,4.3,17,Philosophy,70,2.4
+2471,2092424,Elisa Corona Aguilar,5.0,3,Spanish,100,1
+2472,1782824,Katie Schneider,4.2,10,Biology,88,3.6
+2473,2679104,Fadia Nordtveit,5.0,2,Business,100,2.5
+2474,2064977,Jennifer Cayer,3.8,6,Writing,67,3.7
+2475,197721,Eugene Secunda,4.2,28,Communication,78,1.9
+2476,2706063,Yasir Zaki,3.0,1,Computer Science,0,4
+2477,2291493,Liming Pang,4.8,28,Mathematics,97,3.3
+2478,2375474,Anita Dhir,1.0,2,Professional Programs,0,2.5
+2479,2620768,Anamaria Alexandrescu,4.5,6,Neurological Sciences,88,3.2
+2480,982269,Rebecca Wisor,3.8,2,English,N/A,4
+2481,433987,Raquel Fernandez,2.5,12,Economics,0,4.5
+2482,2673049,Andrew Moylan,0.0,0,Music,N/A,0
+2483,41261,Peter Rajsingh,4.6,107,Independent Studies,86,3.8
+2484,2639182,Rocio Prieto,5.0,2,Spanish,100,2.5
+2485,2374572,Blake Phillips,3.3,36,Human Development,62,3.5
+2486,2694629,Ryan Felder,5.0,1,Biomedical,100,3
+2487,2705972,Liora Selinger,4.7,6,Writing,100,3
+2488,2602808,Vladimir Kovtun,5.0,5,Statistics,100,3
+2489,2648411,Carlos Lopez,5.0,4,Spanish,100,3.5
+2490,2627056,Aruna Chung A Hing,5.0,3,Chemistry,100,3.7
+2491,2365116,Lina Leung,5.0,1,Arts amp Sciences,100,3
+2492,2587055,Corina Boar,4.0,3,Economics,75,4.3
+2493,2590044,Laure Zanna,4.5,2,Mathematics,100,4.5
+2494,1692495,Nelson Noreen,3.6,23,Nursing,79,2.6
+2495,2365461,Glenn Saxe,1.9,10,Information Systems,20,2.5
+2496,2027122,Jasmina Selimotic,2.6,5,Psychology,50,2.2
+2497,2690869,Cyrus Mohebbi,0.0,0,Statistics,N/A,0
+2498,2534796,Francisco Castellanos,4.0,1,Psychology,100,3
+2499,1915307,Regina Rini,5.0,1,Philosophy,100,2
+2500,2325776,Antonio De Rosa,4.3,10,Mathematics,80,3.4
+2501,2515009,Michel Pain,4.8,12,Mathematics,100,2.8
+2502,987035,Andrea Dortmann,3.6,10,Foreign Languages,43,3.7
+2503,1783680,Abigail Joseph,3.5,14,Writing,63,3.6
+2504,2702983,Kwame Anthony Appiah,0.0,0,Arts & Sciences,N/A,0
+2505,2646679,Elena Vogman,3.2,5,History,50,3.6
+2506,2657995,Enric Fortuny,5.0,3,Information Science,100,3.3
+2507,2702541,Constantine Christakos,5.0,2,Computer Science,100,3
+2508,2616745,Samantha Bassler,3.7,6,Music Performance,63,3.2
+2509,1122711,Sinan Antoon,3.9,12,Interdisciplinary Studies,80,3.2
+2510,2515934,Andrei Gruzinov,5.0,1,Physics,100,3
+2511,1436483,Salvador Mascarenhas,0.0,0,Linguistics,N/A,0
+2512,1850202,David Palmer,3.5,28,Liberal Studies,50,3.3
+2513,2710392,Qilong Shen,5.0,1,Chemistry,100,1
+2514,1704388,Luis Ramos,4.0,22,Liberal Studies,94,2.7
+2515,2700920,Marco Battaglia,5.0,3,Italian,100,3
+2516,2633001,Sheri-Ann Cowie,1.0,4,Psychology,0,5
+2517,2711356,George Sikharulidze,5.0,1,Film amp Television,100,3
+2518,2084415,Alexandra Falek,4.9,11,English,93,3.1
+2519,2524333,Aurojit Panda,2.4,5,Computer Science,40,4
+2520,2343065,William Hanlon,4.5,12,Economics,100,3.5
+2521,822341,Jiawei Zhang,4.0,7,Business,100,3.3
+2522,232599,Kathy Bishop,4.8,80,Humanities,87,1.9
+2523,2662031,Ruth de Llobet,5.0,6,History,100,4.2
+2524,2695545,Catherine Journeaux,1.0,1,English As A Second Language,50,1
+2525,387722,Jukka Laitamaki,2.3,21,Hospitality,67,3.8
+2526,2713045,Ralph Maldari,3.0,1,Hospitality,100,2
+2527,1095169,Diane Yu,3.3,10,Leadership,100,3.1
+2528,2426234,Howard Strongin,4.0,2,Hospitality,50,3
+2529,2703693,Rohita Land,0.0,0,Finance,N/A,0
+2530,2295034,Salma Shamel,2.4,5,Digital Arts,20,4.4
+2531,2444956,Jenna Brayton,4.9,14,Public Policy,100,2.5
+2532,2713600,Krystin Christy,0.0,0,French,N/A,0
+2533,2713631,Brian d'Alessandro,0.0,0,Data Science,N/A,0
+2534,2344863,Paola Cerrito,3.7,15,Anthropology,67,3.9
+2535,2130350,David Kanter,3.7,9,Environmental Science,38,3.3
+2536,2714041,Sophia Piccolino,0.0,0,Social Work,N/A,0
+2537,2701286,Xiaogang Wu,3.5,2,Social Science,50,3.5
+2538,2599268,Alfredo Canziani,2.7,8,Data Science,45,4.2
+2539,266477,Nicole Cuddeback,3.2,18,Writing,50,3.1
+2540,2714804,Sabrina Caldwell,1.0,1,Education,0,4
+2541,1378011,Claude Desplan,3.1,19,Biology,57,3.9
+2542,2707643,Hannah Eareckson,5.0,1,Psychology,100,3
+2543,2707682,Katharine Addis,0.0,0,English,N/A,0
+2544,2647397,Priyanjali Sen,4.5,4,Film & Television,100,2.8
+2545,2403774,Larry Dvoskin,0.0,0,Music,N/A,0
+2546,1514057,Regina Gramer,4.0,18,Social Science,80,2.5
+2547,2708232,Varise Cooper,0.0,0,Professional Programs,N/A,0
+2548,2650532,Lauren Lefty,4.3,4,History,100,3
+2549,2684396,Shahmir Ali,5.0,2,Health Science,100,2.5
+2550,2454620,Sam Bowman,5.0,3,Data Science,100,3
+2551,2676315,Jon Gordon,5.0,2,Sociology,100,3.5
+2552,2697206,Jenny Martinez,1.0,1,Chemistry,0,4
+2553,824040,Anthony Difiore,4.0,13,Anthropology,N/A,3.6
+2554,2708179,Lorenzo Monte,0.0,0,Classics,N/A,0
+2555,2152650,Tianning Diao,2.7,17,Chemistry,36,4.1
+2556,2709304,Daniela Bucella,5.0,1,Chemistry,100,3
+2557,2450821,Scott Armstrong,4.1,7,Mathematics,72,4.3
+2558,2709394,Shari Bloomberg,0.0,0,Social Work,N/A,0
+2559,2593861,Guido De Philippis,5.0,4,Mathematics,100,3
+2560,2056638,Jim Brown,2.3,10,Film Television,60,3.1
+2561,2709735,John Linstrom,0.0,0,English,N/A,0
+2562,298068,James Polchin,3.6,48,Writing,75,3.5
+2563,2605885,Kristin Black,5.0,1,Education,100,3
+2564,2146901,Lorena Hernandez,5.0,10,Spanish,100,2.9
+2565,391195,Jun Zhang,4.6,34,Mathematics,100,2.3
+2566,1709861,Catherine Hafer,3.1,4,Political Science,100,3
+2567,2299155,Maureen Mahon,4.5,2,Music,100,3.5
+2568,2697592,Andrea Deierlein,4.0,2,Nutrition & Foods,50,2
+2569,1042305,Nancy Woodruff,4.0,29,Writing,80,2.4
+2570,956168,Yvonne Latty,3.2,18,Journalism,75,2.9
+2571,2711583,Danyan Zha,0.0,0,American Studies,N/A,0
+2572,2082128,Shatima Jones,4.3,3,Sociology,67,3
+2573,299148,David Elliott,4.8,29,Music,100,3.1
+2574,2712138,Zachary Fasman,0.0,0,Law,N/A,0
+2575,2697596,Rohini Qamra,5.0,3,Biochemistry,100,3.3
+2576,2448647,Dirk Trauner,4.0,2,Chemistry,100,3
+2577,2698323,Hillman Lam,5.0,1,Real Estate,100,2
+2578,1895033,Mark Braley,3.4,23,Writing,50,4.1
+2579,2698433,Amir Hampel,0.0,0,Social Science,100,0
+2580,1771871,Sidik Fofana,5.0,2,Writing,100,3
+2581,2698208,Judah Rubin,2.5,2,Writing,80,4
+2582,330425,Minu Tharoor,3.4,51,Cultural Studies,44,2.7
+2583,1438775,Colm O'Shea,4.4,41,Writing,89,3.5
+2584,741233,Florence Barrau-Adams,4.7,22,Film & Television,100,3.6
+2585,67843,Gigliana Melzi,3.6,54,Psychology,24,4.2
+2586,2594391,Jennifer McCabe,0.0,0,Film & Television,N/A,0
+2587,814507,Bruce Grant,4.0,50,Anthropology,84,3.2
+2588,2243141,Jon Freeman,4.2,18,Psychology,85,3.5
+2589,2588598,Ariane Fennetaux,2.5,2,Writing,0,3
+2590,153330,Jane Stone,4.7,7,Journalism,100,3.6
+2591,2043833,Nathaniel Traaseth,3.5,3,Chemistry,0,4.7
+2592,2574804,Jennifer Astuto,2.0,1,Psychology,0,4
+2593,222303,Shinasi A. Rama,4.4,35,Political Science,56,2.5
+2594,2594175,Erika Tullberg,2.0,4,Psychology,25,3
+2595,2383037,Alisson Wood,2.0,2,Writing,0,1.5
+2596,2636947,Margaret Wright,3.0,1,Computer Science,0,3
+2597,1108212,Miranda Holmes-Cerfon,2.0,23,Mathematics,34,4
+2598,2725327,Nick Boffi,0.0,0,Mathematics,N/A,0
+2599,2725354,Nydia Prishker,0.0,0,Education,N/A,0
+2600,2725600,Manuel Viveros,0.0,0,Spanish,100,0
+2601,88373,Yunus Tuncel,3.3,54,Social Science,50,2.7
+2602,2715706,Hanee Kim,0.0,0,Chemistry,N/A,0
+2603,2322479,Gerard Ben Arous,4.0,8,Mathematics,80,3.3
+2604,371192,Karl Bardosh,3.9,15,Film,25,1.8
+2605,147771,Richard Aronin,4.8,49,Business,100,3.4
+2606,2714598,Paul Acquaro,5.0,2,Information Systems,100,3
+2607,800900,Zach Udko,4.0,82,Writing,91,3.7
+2608,2716849,Amanda Dettmann,5.0,1,English,100,2
+2609,2511212,Katherine Lau,3.3,3,Psychology,67,3.3
+2610,2473783,David Lamoureux,4.7,12,Economics,100,2.4
+2611,989702,Ed Guerrero,3.2,16,Cinema,20,2.5
+2612,2718230,Vanessa Smith,0.0,0,Social Work,N/A,0
+2613,2470382,Maria Rusche,5.0,1,Film amp Television,100,3
+2614,2360451,Adam Pincus,3.3,3,Film amp Television,67,4
+2615,1595805,Julie Sloane,2.4,3,Film & Television,0,1.7
+2616,763099,Martha Hodes,4.9,12,History,100,2.9
+2617,749475,Lourdes Davila,4.7,24,Spanish,89,3.1
+2618,719962,MO Ogrodnik,3.5,10,Film & Television,50,2.6
+2619,159373,Ronald Callahan,4.0,55,Chemistry,79,2.7
+2620,2317715,Michelle McSwiggan Kelly,4.5,13,Writing,94,2.6
+2621,1521736,Eduardo Segura,4.2,24,Spanish,91,3
+2622,2671832,Suzanne Cope,4.7,3,English,100,2.7
+2623,2560682,Ulrich Finkler,1.0,1,Computer Science,0,4
+2624,804655,Esteban Tabak,3.1,6,Mathematics,0,3.2
+2625,2700260,Kevin Chen,0.0,0,Computer Science,N/A,0
+2626,1617236,Leeore Schnairsohn,3.5,29,Writing,55,3.9
+2627,2293934,Yoon Jeong Oh,4.7,7,East Asian Studies,38,3.4
+2628,592601,Roberto Scarcella-Perino,4.6,27,Italian,100,1.8
+2629,1928967,Andrew Lee,3.1,8,History,50,3.4
+2630,2719962,Nadine Elhanafi,0.0,0,Liberal Studies,N/A,0
+2631,2720490,Sonali Thakkar,0.0,0,English,N/A,0
+2632,2720529,Christopher Connolly,0.0,0,Professional Programs,N/A,0
+2633,2698333,Gustavo Aguilar,2.5,2,Art,67,2
+2634,2720593,Alan Di Sciullo,0.0,0,Real Estate,N/A,0
+2635,2720738,Audra Barrow,1.0,1,Real Estate,0,4
+2636,2443602,Yury Ustinovskiy,4.6,9,Mathematics,89,3.2
+2637,1516092,Julia Robinson,3.5,28,Art History,39,4
+2638,2872,Nina D'Alessandro,4.2,64,Music,83,2.1
+2639,2066286,Eric Knowles,3.9,12,Psychology,71,2.5
+2640,2540784,Christina Squitieri,4.5,6,Literature,84,3
+2641,1096044,Enrique del Risco,3.8,10,Spanish,75,2.3
+2642,221924,Vera Michaels,3.3,13,Social Science,38,1.6
+2643,2365525,Lauren Knickerbocker,4.4,7,Psychology,86,2.3
+2644,2138840,Ken Dancyger,2.5,8,Film Television,34,2.9
+2645,1904007,Rezarta Bilali,4.2,6,Psychology,100,3
+2646,2679864,Carrie Wright,4.0,2,Anthropology amp Geo Sciences,100,2.5
+2647,1981759,Massimiliano Bonacchi,4.4,8,Accounting,100,3.4
+2648,2603425,Liane Feldman,5.0,2,Hebrew,100,3
+2649,345012,Sanford Gordon,3.5,48,Political Science,40,3.4
+2650,462900,Jos Lagerweij,3.5,62,Philosophy,58,2.5
+2651,2218248,Wenteng Shao,3.7,12,East Asian Studies,80,2.6
+2652,20322,Jalal Shatah,4.6,8,Mathematics,100,3.7
+2653,2700898,Maria Zilla,5.0,1,Italian,100,3
+2654,1820703,Lucas Champollion,4.3,14,Linguistics,100,2
+2655,272737,Evan Korth,3.4,49,Computer Science,57,3.4
+2656,2233643,Tyson-Lord Gray,2.8,6,Education,34,2.7
+2657,2253199,Bijan Pesaran,5.0,1,Neurological Sciences,100,4
+2658,2737050,Mario Khreiche,0.0,0,Communication,100,0
+2659,1768308,Xiaochen Fan,3.6,20,Economics,72,3.2
+2660,976486,Concetta Sebastiani,4.6,42,Italian,96,2.5
+2661,2599806,Dja-maa Shepp,1.3,3,Nutrition & Foods,0,4.7
+2662,1846316,Ian James,3.8,5,Writing,50,2.4
+2663,540816,Bruce Bromley,4.4,82,Writing,90,3
+2664,2212785,Wendel Thomas,3.2,10,English,50,4
+2665,2304262,Thomas Wendell,3.3,7,Writing,63,3.7
+2666,2625870,Annie Huang,1.0,1,Music,0,5
+2667,1393515,Patrick Eichenberger,4.1,17,Biology,70,2.5
+2668,2726547,Alexandra Vazquez,5.0,1,Performing Arts,100,2
+2669,2726551,Blanca Ulloa,0.0,0,Performing Arts,N/A,0
+2670,1944835,Akram Esanov,3.0,2,Political Science,100,3.5
+2671,2265138,Maria Hodermarska,5.0,2,Interdisciplinary Studies,100,3
+2672,2246513,Philip Galdston,1.2,4,Music,0,3.3
+2673,1363832,Jen Rodewald,4.3,17,Film & Television,89,2
+2674,214242,John Mayher,4.8,12,English,100,2.4
+2675,2737971,Zhuo-Cheng Xiao,2.0,1,Mathematics,0,4
+2676,2450987,Jonathan Weare,3.8,4,Mathematics,80,4
+2677,2738022,Melisa Annis,0.0,0,Writing,N/A,0
+2678,2738062,Saumil Singhal,5.0,1,Human Development,100,2
+2679,2738073,Eric Endo,0.0,0,Mathematics,N/A,0
+2680,928661,Elizabeth Augspach,4.7,26,Spanish,100,3.2
+2681,778914,David Dent,3.1,18,Journalism,45,2.4
+2682,2556353,Benjamin Peherstorfer,3.0,8,Computer Science,63,4.2
+2683,1440053,Mark Sanders,3.4,9,Humanities,50,2.5
+2684,258473,Arun Sundararajan,4.2,19,Business,100,2.4
+2685,2589367,Sherya Mandel,1.0,2,Social Work,0,1
+2686,2710802,Vanessa Manko,5.0,1,Liberal Studies,100,2
+2687,2595020,Steven Kelts,4.5,12,Political Science,75,4.2
+2688,2695803,Courtney Chatellier,5.0,1,English,100,3
+2689,190543,Joseph Salemi,4.4,86,Humanities,96,1.4
+2690,2702238,Eugenia (Genia) Naro Maciel,4.7,3,Liberal Studies,100,3.3
+2691,1980472,Marc Gershow,3.2,6,Physics,25,3.8
+2692,2538702,Jerome Whitington,2.3,3,Anthropology,29,3
+2693,2409876,Gwyneth Hartman-McClendon,4.6,16,Political Science,100,2.5
+2694,887858,Ernest Davis,2.9,17,Computer Science,62,3.1
+2695,1439440,Russell Frank Ferri,2.8,31,Political Science,31,4.2
+2696,1889211,Maria Patterson,4.7,13,Business,92,3.2
+2697,2701519,Megan Herrold,5.0,3,Liberal Studies,100,2.3
+2698,1890399,Jacqueline Reitzes,4.5,21,Writing,96,3.4
+2699,784037,Jeff Rubenstein,3.8,35,Hebrew,70,2.9
+2700,967654,Eric Klinenberg,4.1,5,Sociology,100,3.2
+2701,2693548,Whitney Pow,5.0,1,Gender Studies,100,3
+2702,2735693,Avigail Gordon,0.0,0,Psychology,N/A,0
+2703,758992,Yanni Kotsonis,4.5,32,History,88,2.6
+2704,2735753,Georg Stadler,0.0,0,Mathematics,N/A,0
+2705,1818782,Erin Heiser,3.5,20,Writing,58,1.9
+2706,1299145,Liina Pylkkanen,2.8,5,Linguistics,50,3.4
+2707,1891895,Lori Evans,4.9,8,Psychology,89,2.8
+2708,791854,Neal Weiner,4.8,41,Physics,100,2.4
+2709,2525903,Gus Xia,4.3,3,Computer Science,67,4.3
+2710,1054663,David Fitch,3.7,43,Biology,69,3.5
+2711,2736221,Sophia Kalantzakos,0.0,0,Public Policy,N/A,0
+2712,2691534,Chloe Greenbaum,0.0,0,Psychology,N/A,0
+2713,2685238,Claire Hapke,3.5,2,Psychology,100,2
+2714,724968,Tom Beyer,2.1,17,Music,23,2.9
+2715,2464987,Dicky Yangzom,2.6,17,Sociology,68,4.7
+2716,1832926,Joseph Guadagni,4.8,21,Mathematics,N/A,2.5
+2717,2428360,Chris Miles,4.3,21,Mathematics,81,2.8
+2718,2682913,David Gresham,5.0,2,Biology,100,3
+2719,856777,Nils Froment,4.8,24,French,100,2
+2720,2701771,Nilita Vachani,3.5,2,Cinema,100,4
+2721,2647402,Amrita Pal,4.5,2,Chemistry,100,1.5
+2722,1853102,Elizabeth Stepp,4.3,36,Mathematics,87,2.4
+2723,2679400,Hanan Salam,5.0,2,Computer Science,100,2
+2724,2701799,Bette Talvacchia,0.0,0,Art History,N/A,0
+2725,2382323,Alessandro Barchiesi,3.0,1,Classics,100,2
+2726,1272524,D.B. Gilles,3.2,6,Film & Television,50,2.8
+2727,2701793,Camilla Boisen,5.0,1,Writing,100,5
+2728,2699821,Ricardo Max,5.0,1,Psychology,100,1
+2729,1260687,David Foley,3.3,24,Writing,85,3.8
+2730,2690496,Federico Pachetti,4.0,1,Arts & Sciences,100,4
+2731,1211824,Drew Krause,4.1,34,Music,67,2.6
+2732,2302597,Natasha Zaretsky,4.5,20,Writing,90,3.3
+2733,555840,Brian Culver,3.9,63,Arts & Sciences,67,2.2
+2734,2227993,Tim Kirkpatrick,2.5,4,Film Television,25,1.5
+2735,2045415,Karl Smith,1.0,2,Mathematics,0,4
+2736,2737820,Carole Symer,0.0,0,Education,N/A,0
+2737,1633368,Liora Brosh,3.8,54,Liberal Studies,66,3
+2738,2702054,David Brooks,0.0,0,Art,100,0
+2739,2601807,Urmila Mohan,5.0,16,Anthropology,100,3.6
+2740,1200496,Jennifer Zoble,3.7,18,Writing,73,3.5
+2741,2698395,Ronnie Kay,1.0,1,Film & Television,78,5
+2742,2522580,Ashish Kohli,3.9,7,Accounting,78,3.3
+2743,1622891,James Franco,4.2,20,Film & Television,100,1.6
+2744,2092992,Ezequiel Zaidenwerg,4.8,7,Spanish,100,3.2
+2745,2144291,Thomas Sugrue,4.2,7,History,67,3.4
+2746,1432078,David Oshinsky,1.8,9,History,13,2.8
+2747,2496664,Kimberly Thomas,3.8,6,Writing,86,2.2
+2748,2738291,Jonathan Everett Banner,0.0,0,Marketing,N/A,0
+2749,1705737,Kazue Kurokawa,4.1,15,East Asian Studies,75,2.7
+2750,2717132,Linnéa Hussein,5.0,1,Liberal Studies,100,3
+2751,2328349,Susan Dodes,2.5,12,Music,42,4.5
+2752,2703104,Tony Cho,2.0,1,Accounting,0,3
+2753,2426651,Anne Hewitt,5.0,3,Liberal Studies,100,2.7
+2754,897689,Stephen Zagor,5.0,11,Nutrition & Foods,100,1.8
+2755,1648492,Helen Shaw,4.5,18,Theater,100,3
+2756,549114,Eric Ozawa,3.9,41,English,86,3.3
+2757,2739284,Erica Mukherjee,0.0,0,Humanities,N/A,0
+2758,229689,Robert Bohn,4.3,10,Marketing,0,2.2
+2759,1849401,Grant Ginder,4.8,32,Writing,100,3.3
+2760,190122,Ulrich Baer,4.7,14,Not Specified,100,2.7
+2761,2739209,Hannah Husby,5.0,1,Nutrition & Foods,100,3
+2762,2390731,Michael Krimper,4.8,7,French,100,3.7
+2763,2231074,Hande Mutlu-Eren,4.0,3,Political Science,100,2
+2764,2748093,Joshua Borja,0.0,0,Physics,N/A,0
+2765,645366,Julian Cornell,4.5,13,Cinema,100,2.8
+2766,2748226,Victor Sierra-Matute,5.0,1,Spanish,100,3
+2767,2748314,Marie-Helene Bertino,5.0,1,Writing,100,2
+2768,250324,Aurora Wallace,3.4,39,Communication,34,3.1
+2769,1808953,Joshua Clayton,4.9,36,Computer Science,100,2.4
+2770,2744516,Milo McBride,5.0,1,Engineering,100,3
+2771,1095184,Thomas Augst,4.1,13,English,67,2.7
+2772,2702457,Katherine Biers,5.0,1,English,50,4
+2773,2657020,Gabriella Lindsay,5.0,3,French,100,3.3
+2774,2749618,Prita Meier,0.0,0,Art History,N/A,0
+2775,2702215,Jiajun Jiao,5.0,3,Mathematics,100,1
+2776,1622155,Robert Huddleston,2.4,30,Writing,32,4.1
+2777,1999556,Lynn Minnaert,4.6,9,Tourism Management,100,2.6
+2778,2542705,Jing Yang,3.0,2,Hospitality,100,3
+2779,615600,William Easterly,3.8,5,Economics,67,3.2
+2780,2702386,Andrea Paldy,5.0,1,Writing,100,3
+2781,2358120,Todd Foley,4.4,5,East Asian Studies,80,2.6
+2782,582242,Alfred Bishai,4.4,32,Music,93,2.6
+2783,2646897,Aniqa Islam-Nawabi,5.0,2,Social Work,100,2.5
+2784,553741,Arthur Tannenbaum,4.4,26,History,100,2.2
+2785,499992,Brett Gary,4.5,16,Communication,100,3.3
+2786,1360108,Joseph Weiler,4.4,11,Law,90,3.5
+2787,319414,Mitchell Stephens,3.7,31,Journalism,42,3.5
+2788,1891201,Zhihua An,4.0,25,Chemistry,72,3.1
+2789,816596,Tessa West,4.3,26,Psychology,75,1.8
+2790,394510,Chiara Marchelli,4.8,19,Italian,84,2.4
+2791,2741820,Kiara Saxena,5.0,1,Writing,100,2
+2792,2741168,Mingcherng Deng,5.0,2,Accounting,100,3
+2793,1755896,Amira Pierce,3.4,22,Writing,86,4
+2794,2699100,Keith Kloor,4.8,5,Journalism,100,2.4
+2795,788151,Robert Kohn,3.8,18,Mathematics,89,3.8
+2796,1854699,Melanie Hackney,3.9,11,French,70,2.8
+2797,1029446,Laura Amelio,4.4,16,Spanish,100,3.6
+2798,2742728,Gianluca Sgueo,0.0,0,Social Science,N/A,0
+2799,746724,Jane Tylus,4.0,10,English,0,2.6
+2800,2727159,Islam Hoxha,2.0,1,Engineering,0,4
+2801,1278168,Brendan Hogan,4.2,26,Philosophy,88,2.8
+2802,396568,Stephen Duncombe,4.5,32,Not Specified,82,3.5
+2803,2363634,Duncan Yoon,4.7,3,Interdisciplinary Studies,100,3.7
+2804,2743524,Gal Katz,0.0,0,History,100,0
+2805,922023,Mitchell Jackson,3.3,31,Writing,60,3.1
+2806,141405,Michael Nina,4.9,10,Education,100,3
+2807,2607016,Erez Lenchner,2.0,6,Statistics,17,4
+2808,2727580,Renyu Zhang,5.0,2,Business,100,4
+2809,2744278,Tracy Jo Ingram,0.0,0,Public Policy,N/A,0
+2810,563408,Domingo Pinero,3.3,25,Nutrition & Foods,28,4.2
+2811,1403825,Eugene Vydrin,4.3,20,Writing,100,2.7
+2812,2106055,Valerie Forman,2.7,3,Humanities,34,2.7
+2813,1922793,Rebecca Goetz,3.0,10,History,45,3.3
+2814,2368080,Joseph Osmundson,3.0,8,Biology,55,4.4
+2815,2647407,Li Guo,2.5,7,Data Science,43,4.2
+2816,2477384,William Weitzel,4.1,10,Writing,87,3.1
+2817,959478,Amal Shehata,4.6,38,Accounting,91,3.3
+2818,1114891,Andrew Getzfeld,5.0,19,Psychology,100,2.4
+2819,2220326,Elizabeth Przybylinski,5.0,3,Psychology,100,3.3
+2820,2753176,Pamela D'Andrea Martinez,5.0,1,Teaching & Learning,100,3
+2821,2600744,Naila Atrash,5.0,3,Middle Eastern Studies,75,3
+2822,1341548,Amy Wilkinson,4.6,27,Writing,100,2.5
+2823,2731450,Jake Feldman,1.0,1,Marketing,0,5
+2824,2054180,Edgardo Perez Morales,3.5,1,Latin American Studies,N/A,3
+2825,2746319,Adam Wolfsdorf,0.0,0,Education,100,0
+2826,2746589,Theodore Waters,5.0,1,Psychology,100,2
+2827,1143828,Louise Rice,3.3,20,Art History,58,3.8
+2828,2695593,Charles Seife,4.0,1,Journalism,0,3
+2829,2069674,Elayne Oliphant,4.4,15,Religious Studies,85,2.9
+2830,2750564,Martin Fahrer,0.0,0,Film & Television,N/A,0
+2831,1722560,Christopher Dawes,2.6,19,Political Science,46,2.9
+2832,2541612,Coral Lumbley,4.8,10,Liberal Studies,100,2.4
+2833,2727080,Xiaobo Shui,0.0,0,East Asian Studies,100,0
+2834,2745176,Beril Melemetci,4.0,1,Marketing,100,3
+2835,2701770,David Britton,5.0,5,Film & Television,100,2.2
+2836,384165,Joe Gilford,4.3,14,Film,84,1.5
+2837,1536872,Robert Morton,4.2,32,Film & Television,84,2.7
+2838,2751157,Naftali Cohen,0.0,0,Engineering,N/A,0
+2839,2747502,Shawn Pierre,5.0,1,Game Center,100,3
+2840,2486723,Francesco Ferrari,4.0,2,Psychology,34,4
+2841,2538046,Avia Tadmor,4.6,7,Writing,78,3.4
+2842,2623088,Sarah Louden,5.0,2,Music,100,3.5
+2843,2615609,Isaac Bjorke,4.0,6,Economics,100,3.7
+2844,2650725,Rajni Bhargava,5.0,1,Middle Eastern Studies,100,2
+2845,2287880,Ghada Badawi,4.9,55,Middle Eastern Studies,100,3.1
+2846,1984468,Jonathan Goodman,1.9,8,Mathematics,34,4.3
+2847,2751929,Cindy Chiu,5.0,1,Business,100,2
+2848,2654379,ivan Rasmussen,3.2,9,Political Science,55,4.1
+2849,1726761,John Warren,4.2,21,Film & Television,74,1.8
+2850,2077218,Olga Kopenkina,1.8,4,American Studies,0,3.8
+2851,2070263,Glenn Kenny,4.5,6,Film Television,100,2
+2852,1172132,Adrian Mihai,5.0,6,Journalism,100,2.8
+2853,2232265,David Ratzan,3.5,8,Classics,63,3.6
+2854,1496038,Bruce Meyerson,3.2,20,Writing,38,3.8
+2855,298137,Bryan Waterman,4.8,15,English,100,3.2
+2856,2718672,Milan Bradonjic,1.0,3,Data Science,0,3.7
+2857,2734472,Michael Cohen,1.0,3,Art History,0,1.7
+2858,2699600,Sara Partridge,5.0,1,English,100,3
+2859,2194565,Raymond Ricketts,2.8,13,English,34,3.9
+2860,846736,Shara Bailey,3.1,52,Anthropology,22,4
+2861,602007,Evelyn McVeigh,4.9,14,Film,100,2.3
+2862,1778042,Noelle Mole,4.1,17,Writing,56,3.8
+2863,2655286,Kristobal Sanchez,1.8,4,Social Work,50,4.5
+2864,732000,Emily Bauman,3.4,44,English,50,3.5
+2865,1786837,Laura Samponaro,4.3,48,Liberal Studies,97,2.9
+2866,457435,Martin Reichert,4.5,78,Cultural Studies,100,2.1
+2867,2539253,Karen Ralph,3.7,4,Art History,80,3.5
+2868,2755352,Ted Hayduk,0.0,0,Statistics,N/A,0
+2869,2755559,Abel Navarro,0.0,0,Chemistry,N/A,0
+2870,2173496,Cheikhna Diagana,3.4,14,Mathematics,58,3.6
+2871,2753186,Paloma Veinstein,5.0,1,Film & Television,100,3
+2872,1976229,Jameson Fitzpatrick,4.0,22,Writing,53,3.7
+2873,920402,Joe Vallese,3.7,31,Writing,63,3.6
+2874,1709089,Erin Mee,1.9,20,Theater,0,3.3
+2875,85025,Fred Ulfers,4.0,50,Languages,67,2.2
+2876,2753979,Michael Hout,0.0,0,Sociology,N/A,0
+2877,2754111,Michael Laskawy,5.0,1,Public Policy,100,3
+2878,560988,Jorge Castaneda,4.8,12,Political Science,100,2.6
+2879,2754126,Janet Gilbert,0.0,0,Game Center,N/A,0
+2880,1862441,Leah Souffrant,3.8,17,Writing,64,3.8
+2881,2220754,Frank Reynolds,4.8,4,Film Television,100,2.3
+2882,182025,Roberta Newman,3.8,42,Arts & Sciences,70,3.3
+2883,2469803,Sumie Okazaki,4.3,6,Psychology,50,2.7
+2884,2671099,Barbara Perez Curiel,5.0,1,Spanish,100,3
+2885,2525905,Offer Shapir,4.9,10,Finance,92,4.1
+2886,803856,Beth MacHlan,3.5,48,Writing,73,3.5
+2887,1776202,Cory Plock,4.0,17,Computer Science,78,3.3
+2888,1180515,Matthew Leingang,3.8,62,Mathematics,70,3.6
+2889,2327918,Alexander Landfair,4.0,9,Writing,89,3.7
+2890,2480961,Max Ruben,5.0,1,Theater,100,3
+2891,2708479,Heather Dewey-Hagborg,5.0,1,Art & Design,100,1
+2892,2705480,Usman Liaquat,4.7,3,Psychology,100,2.3
+2893,865081,Jan Plass,3.2,5,Education,N/A,3.2
+2894,340951,Peter Meineck,3.8,30,Classics,60,3.4
+2895,1546485,Guy Ortolano,4.5,19,History,86,2.9
+2896,1104681,Juan Pinon,3.4,15,Communication,78,2.6
+2897,2708319,Kathleen Chao,5.0,1,Information Systems,100,4
+2898,2754759,Cai Rodrigues-Sherley,0.0,0,Literature,N/A,0
+2899,2250797,Joseph Yearous-Algozin,5.0,20,Writing,100,2.5
+2900,2749926,Azure Lee,0.0,0,Writing,N/A,0
+2901,2754839,Laura Slatkin,0.0,0,Classics,N/A,0
+2902,1091273,Carmen King,2.0,23,Linguistics,20,4
+2903,2568613,Saadia Lgarch,2.6,8,Computer Science,56,2.9
+2904,2661324,Ilaf Elard,2.5,7,Economics,25,4.6
+2905,2672698,Alexander Braunegg,5.0,2,German,100,3.5
+2906,164710,Lawrence Mead,2.9,25,Political Science,45,3.8
+2907,799546,Ethan Youngerman,4.2,30,Writing,90,3.7
+2908,2265453,Nikolay Kukushkin,4.3,32,Liberal Studies,84,2.8
+2909,2584961,Rishi Krishnamoorthy,5.0,5,Environmental Science,100,1.6
+2910,2758544,Lakshika Malwana,0.0,0,Chemistry,N/A,0
+2911,2637303,Matthew Hayek,3.2,6,Environmental Science,63,4.2
+2912,2334075,J. Huston Mcculloch,2.4,8,Economics,25,3.1
+2913,783733,Gary Filadelfo,4.0,8,Music,72,2.1
+2914,2699503,Sukbin Lim,3.0,2,Neurological Sciences,50,3
+2915,2756527,Mark Kleback,5.0,1,Engineering,100,4
+2916,2262820,Joel Rust,2.7,3,Music,34,3
+2917,1191313,Enid Zentelis,3.7,10,Film & Television,67,2.9
+2918,2756603,Stephanie Beardman,0.0,0,Philosophy,100,0
+2919,1901912,Andre Fenton,2.9,31,Neurological Sciences,42,4.2
+2920,1712070,Sylvia Sichel,4.6,26,Film & Television,100,2.6
+2921,2595153,Charles Glasser,5.0,3,Writing,100,3
+2922,1138743,John Archer,3.9,14,English,100,3.4
+2923,2339574,Erin Schiller,5.0,1,Art,100,3
+2924,2151984,Petra Tosovska,4.7,6,Chemistry,100,3.8
+2925,1544984,Marcus Weck,2.7,31,Arts & Sciences,59,4
+2926,2187737,Patrick Guédon,3.3,6,French,50,3
+2927,2475128,Sarah Sala,4.8,10,Writing,100,3.1
+2928,597674,Ifeona Fulani,3.0,26,History,50,2.9
+2929,980543,Adriana Bonfield,4.3,16,Italian,84,2.7
+2930,2301253,Robert Tuschman,4.8,4,Business,100,3.2
+2931,2659581,Raymond Ro,2.0,3,Business,50,2.3
+2932,2713048,John Moser,4.4,5,Hospitality,84,3.6
+2933,1836770,Lakshmi Soundararajan,1.7,9,Hospitality,25,4.1
+2934,2461760,Michael Danilin,5.0,1,Russian Studies,100,3
+2935,2542706,Christopher Gaffney,1.8,4,Hospitality,20,3.2
+2936,2365930,Ning Su,4.9,17,Information Systems,97,2.3
+2937,2354002,Yunior Terry,4.6,7,Music,72,2.3
+2938,2754113,Andrew Ragni,5.0,2,Literature,100,2.5
+2939,1934835,Jonathan Hall,4.0,10,Music,89,2.5
+2940,1546486,Miriam Nyhan,4.5,15,Ethnic Studies,100,2.3
+2941,615613,Guillaume Frechette,3.6,9,Economics,50,3.6
+2942,388321,Brane Zivkovic,2.8,21,Film,25,2.3
+2943,2738323,Kelley Akiya,4.0,1,Health Science,100,3
+2944,2759991,Hector Celis,5.0,1,Spanish,100,3
+2945,2190976,Marybec Griffin,4.9,32,Health Care Administration,98,2.1
+2946,2753146,Karen D'Angelo,1.0,1,Psychology,0,4
+2947,2759998,Macayla Donegan,1.0,1,Psychology,0,5
+2948,771080,Amy Hosig,4.3,44,Writing,95,3
+2949,2652002,David Rosfeld,5.0,5,Film & Television,100,2.8
+2950,2157965,Scott Barton,3.3,4,Cultural Studies,60,2.3
+2951,2628154,Darshan Thapa,5.0,1,Neurological Sciences,100,2
+2952,2703925,Eric Spurlino,1.0,1,Economics,84,1
+2953,2717483,Richard Litvin,0.0,0,Film & Television,N/A,0
+2954,2587891,Barbara Akum,1.9,11,Biology,48,3.9
+2955,2261911,Margaret Mandziuk,3.6,9,Chemistry,55,3.8
+2956,2717806,Uta Habbig,0.0,0,German,N/A,0
+2957,1797127,Gerard O'Donoghue,4.3,21,English,78,3.5
+2958,2007181,Dan Lerner,4.5,16,Psychology,86,2.3
+2959,1418695,Christine Rushlow,4.6,9,Biology,88,2.8
+2960,2375832,Johannes Lagerweij,3.7,23,Liberal Studies,63,2.9
+2961,2354000,Martin Rotemberg,3.9,8,Economics,75,4.2
+2962,2234495,Xin Li,3.3,11,East Asian Studies,37,4.1
+2963,2254804,Ian Alexander,1.8,23,Communication,18,2.5
+2964,2194410,Amber Frost,4.0,3,Writing,67,2.3
+2965,1236367,Virgiliu Midrigan,3.0,18,Economics,17,3.1
+2966,559895,Avi Giloni,4.8,13,Business,100,2.3
+2967,2145533,Anthony Donoghue,3.8,19,Economics,74,3
+2968,2757533,Courtney McKnight,4.5,2,Health Care Administration,100,2.5
+2969,608953,Clayton Curtis,3.4,38,Psychology,43,3.9
+2970,2431886,Julia Payson,5.0,15,Political Science,100,2.4
+2971,2425614,Mary Hallenborg,4.7,6,Real Estate,100,2
+2972,2718049,Elisabeth Strowick,2.2,5,German,40,3.2
+2973,2760666,Bret Gladstone,5.0,1,Writing,100,4
+2974,278799,Michael Shenefelt,4.0,78,Philosophy,75,2.6
+2975,2653252,Nancy Reale,3.8,4,Liberal Studies,67,4
+2976,2278703,Matthew Longabucco,4.0,1,Writing,100,4
+2977,1955926,Luke Trusso,4.5,24,Liberal Studies,100,1.7
+2978,331856,Steven Brams,2.2,20,Political Science,30,3.9
+2979,2372818,Marie Buck,4.8,6,Liberal Studies,100,2.8
+2980,1693493,Roxana Julia,3.9,22,Economics,62,2.1
+2981,84847,Phil Washburn,3.9,62,Social Science,80,2.8
+2982,2630030,Norman Cao,4.5,10,Mathematics,100,3
+2983,2409666,Jared Simard,4.5,17,Cultural Studies,95,2.4
+2984,2724347,Donna Borak,5.0,4,Journalism,100,2
+2985,2759840,David Heeger,5.0,1,Psychology,100,4
+2986,2748608,Odi Gonzales,5.0,2,Foreign Languages,100,3
+2987,2719605,Danielle Mebert,0.0,0,Film & Television,N/A,0
+2988,2719608,Allison Collins,0.0,0,Art & Visual Culture,N/A,0
+2989,2326983,Anna-Caroline Prost,4.8,4,French,80,2.5
+2990,421913,David Engel,4.7,34,History,82,2.8
+2991,2585579,Justin Pargeter,5.0,7,Anthropology,100,1.9
+2992,2284195,Radu Iovita,2.9,11,Anthropology,37,3.5
+2993,2656385,John Warren Steen,5.0,6,Liberal Studies,100,2.5
+2994,482084,Tom Beidelman,2.7,44,Anthropology,N/A,3.1
+2995,2648876,Raphael Bemporad,4.0,1,Marketing,0,5
+2996,2758502,Hans Taparia,4.0,3,Business,75,3.7
+2997,2649181,Nicole Simonelli,2.7,40,International Relations,54,3.2
+2998,2532213,Dakota Hernandez,4.8,11,Computer Science,92,2.6
+2999,2564553,George Castle,1.0,4,Speech & Hearing Sciences,0,4
+3000,780988,Judith Sloan,5.0,14,Interdisciplinary Studies,100,2.7
+3001,2722061,Jennifer Shin,3.0,1,Statistics,0,5
+3002,1536592,Brian McElree,1.9,10,Psychology,15,3.5
+3003,2482292,Leah Vosko,2.0,1,Political Science,0,4
+3004,2722187,Stephen Blackburne,0.0,0,Hospitality,N/A,0
+3005,2447036,Jonathan Williams,3.0,1,Professional Programs,0,5
+3006,2722314,David Yermack,0.0,0,Economics,N/A,0
+3007,2722337,Mehrin Tariq,1.5,2,Chemistry,0,3
+3008,2603199,Camron Terwilliger,4.6,5,Liberal Studies,80,2.8
+3009,1073358,Youngmi Ha,2.9,30,Music,53,2.7
+3010,2057507,Cammie Kim Lin,4.9,34,Liberal Studies,100,3.4
+3011,2569726,Amaya Rivera,3.0,6,Writing,34,4
+3012,2663047,Gavin Ramoutar,2.7,3,Film & Television,64,3.3
+3013,1538066,Aminata Maraesa,3.1,18,Anthropology,30,3
+3014,2761954,Brittany Edmoundson,0.0,0,History,N/A,0
+3015,2722813,Cindy Mejia,0.0,0,Communication,N/A,0
+3016,2723201,Warren Zanes,0.0,0,Music,100,0
+3017,2345485,Lawrence Reed,5.0,24,Psychology,100,2
+3018,2506948,Manuel Arriaga,5.0,15,Business,100,2.5
+3019,2027239,Marie-Helen Maras,5.0,1,International Affairs,100,4
+3020,2599870,Moira Dillon,3.0,2,Psychology,100,5
+3021,2094843,Mehmet Dede,4.5,3,Music,100,3
+3022,974148,Zvi Kedem,2.4,28,Computer Science,31,3.2
+3023,2537606,Eugene Kolker,1.0,2,Business,50,3.5
+3024,2724061,Colette Mazzucelli,1.0,1,Social Science,0,4
+3025,798139,Beth Kurkjian,4.1,29,Writing,100,3.1
+3026,483347,Chris Stahl,2.9,40,Writing,59,4
+3027,1074297,Mark Jenkinson,4.2,9,Fine Arts,100,2.6
+3028,2724211,Marie Cruz Soto,0.0,0,Interdisciplinary Studies,N/A,0
+3029,2472245,Annette Reed,2.1,7,Religious Studies,38,2.7
+3030,2760832,Julie Park,3.0,1,English,0,4
+3031,2638387,Yu Cao,2.1,14,Mathematics,29,4.3
+3032,2588026,Stefan Aune,3.8,8,History,70,2.4
+3033,436995,Michael Gomez,3.2,34,History,64,3.3
+3034,623212,Ennio Stacchetti,2.6,22,Economics,28,4.2
+3035,2696406,Chi-Kwong Fok,1.7,3,Mathematics,0,4
+3036,630617,Al Lieberman,4.1,17,Business,78,1.7
+3037,2349000,Juan Losada,2.7,6,Music,63,2
+3038,787834,Tom Doczi,3.2,10,Music,34,3.1
+3039,305637,John Waters,3.5,27,English,85,3.4
+3040,2726660,Amy Cordileone,0.0,0,Theater,0,0
+3041,599073,Thomas MacFarlane,3.7,27,Music,100,2.3
+3042,2498696,Sophie Cote,2.5,2,Philosophy,100,3.5
+3043,2726995,Joan Barcelo,2.0,1,Political Science,0,3
+3044,2712969,Laetitia Placido,4.7,3,Economics,100,3
+3045,2701706,Irasema Alonso,0.0,0,Economics,N/A,0
+3046,1528605,Jean-Claude Franchitti,3.0,39,Computer Science,67,3.4
+3047,598501,Patricio Navia,4.4,38,Latin American Studies,100,1.7
+3048,342802,Christine Harrington,2.8,62,Political Science,23,4.4
+3049,1845118,Marianne Chai,4.2,9,Health Science,100,2.7
+3050,605412,Mick Moloney,4.3,17,Music,100,2
+3051,1805608,Jeff Sebo,4.8,5,Environmental Science,100,2.8
+3052,2242174,Nicolas Estournel,5.0,3,French,100,3
+3053,2730084,Joseph Dorman,0.0,0,Film & Television,N/A,0
+3054,2730139,Anna McCarthy,0.0,0,Cinema,N/A,0
+3055,2730224,Seyed Mojarrad,0.0,0,Computer Science,N/A,0
+3056,2730316,Barbara Edelstein,1.0,1,Art,0,4
+3057,2730456,Linda Thompson,5.0,1,Psychology,100,3
+3058,111262,Jill Dearman,4.4,10,Journalism,100,2
+3059,2730667,Peder Anker,0.0,0,Environmental Science,N/A,0
+3060,2630014,Aner Barzilay,2.2,25,Philosophy,28,4.3
+3061,2307714,Helen Redmond,2.0,1,Social Work,0,1
+3062,847867,Dana Polan,4.1,25,Cinema,75,2.1
+3063,2731043,Ayse Baltacioglu,4.0,1,History,100,2
+3064,2760777,Nicole Wang,1.0,1,Economics,50,3
+3065,2092578,Linell Ajello,3.8,16,Writing,70,3.4
+3066,2762242,Rachel Laryea,3.0,1,Business,0,4
+3067,495741,Jonathan Nagler,2.3,47,Political Science,28,3.3
+3068,433991,Christopher Flinn,3.1,17,Economics,25,3.7
+3069,2753492,Elizabeth Carlisle,4.0,4,Anthropology,75,3.5
+3070,2731531,Matthew Zeidenberg,3.0,2,Computer Science,75,3.5
+3071,292296,Anthony Reynolds,3.6,98,Cultural Studies,67,3.9
+3072,2697516,Tess Rankin,4.0,4,Spanish,75,3.8
+3073,484825,Christopher Packard,3.0,46,English,85,3.1
+3074,2329940,Anirudh Sivaraman,4.2,9,Computer Science,88,3
+3075,1477036,Aaditya Rangan,4.2,33,Not Specified,75,2
+3076,1941844,Alan Siegel,3.3,42,Computer Science,50,4.1
+3077,2243300,Gianna Albaum,5.0,7,Italian,91,2.5
+3078,1852308,Joanna Klukowska,4.1,81,Computer Science,67,3.6
+3079,1852041,Laurent Mathevet,3.7,33,Economics,77,4.5
+3080,2018495,Isra Ali,2.8,49,Communication,36,3.9
+3081,2766268,Michael Paris,4.0,1,Political Science,100,3
+3082,2325072,Glenn Kurtz,4.8,5,English,100,3.2
+3083,2496183,Oliver Buhler,3.0,4,Mathematics,78,4
+3084,2686192,Clifford Frasier,4.0,1,Political Science,100,2
+3085,1893366,Kenneth Paulsen,4.7,6,Journalism,100,3.3
+3086,1946617,Vindya Bhat,3.3,51,Mathematics,50,3.6
+3087,1704066,Henry Ma,3.1,30,Economics,42,3.7
+3088,2045609,David Markus,4.6,33,English,93,3.2
+3089,686173,Sana Odeh,3.4,43,Computer Science,35,2.7
+3090,730726,Steven Drukman,4.4,26,Theater,67,3.8
+3091,2734817,Christopher Bush,1.0,1,Performing Arts,50,3
+3092,1547966,Hallie Franks,4.9,9,Medieval Studies,100,2.3
+3093,2720191,Michael Palmieri,2.0,1,Nutrition & Foods,0,5
+3094,2702764,Joachim Lebovits,3.0,4,Mathematics,75,4
+3095,2605539,Xi Lin,4.0,2,Humanities,50,3
+3096,1188823,Barbara Weinstein,3.3,17,Latin American Studies,56,4.1
+3097,1648293,Eric Gioia,4.5,3,Political Science,100,1
+3098,2767274,Edan Raviv,1.0,1,Political Science,0,3
+3099,232605,Jessamyn Hatcher,3.8,53,Humanities,80,2.6
+3100,474497,Andrew Beran,4.7,23,Mathematics,100,1
+3101,2339369,Mark Alter,4.0,8,Teaching amp Learning,75,2.2
+3102,2624207,Mercy Agyepong,5.0,3,Education,100,2.3
+3103,2767505,Stephanie Keer,0.0,0,Psychology,N/A,0
+3104,348372,Ascension Mejorado,4.7,39,Economics,93,2
+3105,2030277,Anna Wilking,4.6,8,Anthropology,88,2.4
+3106,2579794,Karen Miner-Romanoff,4.2,5,Sociology,88,2.4
+3107,2460827,Masaki Kinjo,2.2,9,East Asian Studies,10,4.2
+3108,747898,Bridgette Bedos-Rezak,3.4,9,History,25,3.1
+3109,1686978,Robert Ausch,3.8,9,Psychology,50,2.3
+3110,2695591,Dominic Brewer,4.8,5,Education,100,2
+3111,2427283,Norman Underwood,4.3,6,History,84,2.2
+3112,2702087,Ron Christie,5.0,1,Political Science,100,3
+3113,1515920,Juan De Dios Vasquez Alvarez,2.9,4,Spanish,0,2.8
+3114,1178311,Tamuira Reid,4.5,31,Writing,100,3.6
+3115,2213164,Emily Stone,3.2,10,Writing,60,3.9
+3116,2588653,He He,3.5,4,Computer Science,50,3
+3117,2760312,Raman Kannan,1.3,3,Computer Science,58,2
+3118,419338,Daniel Fleming,3.2,33,Hebrew,38,3.4
+3119,66739,Adam Becker,3.7,24,Theology,34,3.2
+3120,2406975,Shu (Violet) Xu,3.0,4,Health Science,25,2.8
+3121,1489220,Daniel Menely,4.4,36,Writing,95,3.3
+3122,2736812,Barton Bishop,5.0,1,Writing,100,2
+3123,2695507,Elizabeth Miller,1.5,13,Liberal Studies,8,4.3
+3124,2700456,George Morrison,5.0,5,Mathematics,100,1.8
+3125,2329305,Stacey Rimikis,4.7,3,Linguistics,100,2.7
+3126,2736926,Diane Lane,0.0,0,Psychology,N/A,0
+3127,1647432,David Larsen,4.2,45,Liberal Studies,72,2.8
+3128,2672460,Delio Vasquez,5.0,1,Sociology,100,3
+3129,2736986,Padmapriya Govindarajan,0.0,0,Communication,N/A,0
+3130,2043734,Duncan Smith,3.4,38,Biology,62,3.5
+3131,1626159,Mark Siegal,4.3,33,Biology,87,3.5
+3132,2725632,Philip Kay,1.0,2,Communication,0,4
+3133,1578345,Yingkai Zhang,1.0,1,Chemistry,50,5
+3134,1658432,Bjorn Hanson,4.3,16,Hospitality,77,2.8
+3135,2600736,Vanja Bogicevic,4.5,2,Hospitality,100,3
+3136,2697869,Raveesh Mayya,4.3,6,Business,86,3
+3137,1630475,Bethsabe Huaman-Andia,4.3,2,Spanish,100,2.5
+3138,2134181,Trinanjana Mandal,4.7,7,Chemistry,100,2.9
+3139,2768937,Brian Spitzer,5.0,1,Psychology,100,2
+3140,1967710,Frances Hurley,3.9,3,Hospitality,0,2
+3141,456066,Robert Squillace,4.2,13,History,100,2.6
+3142,1025213,Pamela Brown,3.2,77,Philosophy,30,3.8
+3143,112641,Vincent Renzi,2.9,157,Foundations of Am. Culture/Classics,46,4.3
+3144,1579749,Craig Kapp,4.9,108,Computer Science,93,2.5
+3145,1544168,Joshua Weber,3.6,28,Writing,48,3.8
+3146,2705171,William Shih,5.0,2,Chemistry,100,3
+3147,736827,Andrew Ross,3.8,17,American Studies,75,3.2
+3148,435839,Vivek Chibber,4.6,26,Social Science,91,2.9
+3149,555599,Nicole Eustace,4.1,23,History,48,3.3
+3150,2738176,Brett Krutzsch,5.0,1,Religious Studies,100,4
+3151,1568195,Robert Davis,4.8,14,Theater,100,2.4
+3152,1068737,Eunju NA,5.0,13,East Asian Studies,100,2
+3153,1063918,Ivan Makar,3.9,33,Communication,83,2.6
+3154,615409,Allan Gottlieb,2.5,35,Computer Science,36,3
+3155,2430298,Raluca Albu,4.6,8,Writing,100,3.1
+3156,2769255,Micheal Datcher,0.0,0,Liberal Studies,N/A,0
+3157,2769256,Michael Datcher,0.0,0,Liberal Studies,100,0
+3158,2769262,Alessandro Chiaramonte,4.0,1,Political Science,100,4
+3159,1677158,Bart Kahr,2.0,35,Chemistry,20,4.3
+3160,2744952,Vivian Hong,5.0,3,Foreign Languages,100,3
+3161,2658956,Natalia Andrievskikh,4.2,6,Literature,89,3.7
+3162,2629490,Ralph Chikhany,4.0,59,Mathematics,75,3.8
+3163,2252936,Elisabeth Fay,4.6,11,Writing,100,3.4
+3164,2016443,Michael Walfish,3.3,21,Computer Science,56,4.8
+3165,2013634,Larry Miller,4.3,6,Music,80,2.2
+3166,2769402,Mangalika de Silva,2.0,1,History,50,4
+3167,2769406,Weligama Silva,0.0,0,Communication,N/A,0
+3168,2750133,Anne O'Donnell,0.0,0,History,N/A,0
+3169,2374503,Nikolas Sparks,4.7,13,Liberal Studies,100,2.4
+3170,2453622,Erin Morrison,4.7,7,Liberal Studies,78,2.7
+3171,2639311,David Chalmers,5.0,2,Philosophy,100,3.5
+3172,2591702,Zainab Mahmood,4.2,10,Social Science,90,1.5
+3173,499437,Debora Spini,4.4,37,Humanities,83,2.6
+3174,2343514,Rosemary Quinn,3.0,1,Theater,0,1
+3175,1941835,Mark Johnson,5.0,2,Art,100,3
+3176,2513266,Seth Langley,5.0,4,Psychology,100,1.8
+3177,433971,Debraj Ray,4.8,5,Economics,80,4.6
+3178,2312568,Amanda Capelli,3.4,23,Writing,67,4.2
+3179,2371067,Taylor Phillips,3.7,11,Management,73,3.5
+3180,405905,Philip Mitsis,4.1,48,Classics,100,3.7
+3181,1639924,Sarah Pearce,2.2,10,Liberal Arts & Sciences,13,2.5
+3182,884439,Doug Dibbern,4.0,23,Cinema,100,3.5
+3183,2058380,Anna Abelson,3.0,22,Tourism Management & Hospitality Studies,48,3
+3184,2508790,Julie Tay,3.0,2,Writing,50,3
+3185,2217729,Jacob Remes,4.2,13,Social Science,77,3.5
+3186,1777368,Kate Brideau,4.6,20,Communication,95,2.9
+3187,2642932,Sarah Rothberg,5.0,2,Art amp Design,100,2
+3188,1819916,Stephen Butler,4.2,13,English,73,3.5
+3189,2739852,Chat Gunter,0.0,0,Film & Television,100,0
+3190,2739864,Young-Jun Choi,5.0,1,East Asian Studies,100,2
+3191,592594,Mike Robert Rampino,3.1,25,Science,36,2.7
+3192,2128590,Daniela Montalto,4.5,10,Psychology,82,2.9
+3193,2739963,Joshua Williams,0.0,0,Classics,100,0
+3194,2408320,Davide Lombardo,4.6,13,Liberal Studies,100,1.9
+3195,226660,Pepe Karmel,4.1,27,Fine Arts,100,3
+3196,2012415,Thomas Wies,4.5,11,Computer Science,89,3.6
+3197,1642454,Lily Chumley,4.0,12,Anthropology,88,2.8
+3198,592219,Elizabeth Bauer,4.4,110,Psychology,91,2.8
+3199,2229771,Nahoko Kameo,4.7,9,Sociology,100,2
+3200,2358659,Naresh Malhotra,5.0,4,Business,100,4.3
+3201,1268398,Joshua Jordan,3.5,10,French,0,3.4
+3202,2656225,Zhiyuan Zhang,2.3,4,Mathematics,25,3.8
+3203,2037946,Eddy Friedfeld,4.9,19,Film Television,100,2.6
+3204,1903874,Leif Ristroph,4.7,20,Mathematics,94,3.1
+3205,2740320,Erik Alonso,0.0,0,Spanish,100,0
+3206,2650575,Sahar Parsa,1.9,15,Economics,40,4.6
+3207,2740364,Laudy burgos,5.0,1,Social Work,100,2
+3208,2769260,Andrew Burrell,1.0,1,Anthropology,N/A,4
+3209,2769318,Maria Almenara,0.0,0,Communication,N/A,0
+3210,2231448,Jess Benhabib,2.8,5,Economics,40,3.8
+3211,560987,Michael Gilligan,2.5,21,Political Science,50,3.1
+3212,2771030,Linmin Zhang,5.0,1,Neurological Sciences,100,1
+3213,2766655,Congyi Zhou,0.0,0,Political Science,100,0
+3214,1637609,Elena Glasberg,2.8,21,English,37,4
+3215,1947082,Mutiara Sondjaja,3.9,40,Mathematics,92,3.1
+3216,2291871,Sharon Traiberman,3.5,8,Economics,63,3.8
+3217,619041,Jon Ritter,4.0,23,Fine Arts,80,3.5
+3218,2432745,Anthony Pullen,3.5,4,Physics,50,2.3
+3219,2260813,Fanny Shum,3.8,70,Mathematics,69,3.8
+3220,2300234,Michael Shum,4.5,17,Writing,90,3.3
+3221,2285057,Timothy Roeper,3.4,65,Economics,57,3.1
+3222,2726266,Aref Hashemi Amrei,5.0,2,Mathematics,58,1
+3223,2586076,Raoul Normand,2.6,34,Statistics,49,3.6
+3224,2363631,Timothy Naftali,4.6,15,History,90,2.8
+3225,2459392,Philip Washburn,2.1,10,Liberal Studies,34,4.4
+3226,589945,Dimitri Landa,3.0,41,Political Science,36,3.2
+3227,1232824,Chris Barker,4.4,16,Linguistics,84,2.8
+3228,1382255,Stephanie Harves,4.6,12,Linguistics,100,3.5
+3229,837268,Ekaterina Korsounskaia,4.6,15,Russian Studies,89,2.5
+3230,1266784,Robert Wosnitzer,3.7,37,Communication,68,3.7
+3231,2752754,Benjamin Bernard,4.0,3,Liberal Studies,0,3.7
+3232,2769597,Cos Tollerson,0.0,0,History,N/A,0
+3233,2548558,Yijun Wang,4.3,3,History,100,3.3
+3234,2721296,Gaurav Garg,5.0,1,History,100,3
+3235,809730,Manu Goswami,3.8,15,History,34,3.3
+3236,2128078,Aya Tanaka,3.1,18,Business,64,3.9
+3237,2748601,Ruslan Flek,3.3,7,Mathematics,75,3.7
+3238,957582,Jennifer Morgan,2.2,28,History,24,4.2
+3239,278911,John Ross,4.5,76,Philosophy,91,1.5
+3240,1674587,George Baroud,4.8,26,Classics,100,4
+3241,1299102,Joseph Foudy,3.8,59,Economics,67,3.6
+3242,2491065,Robert Cohen,3.8,4,History,67,3.5
+3243,1084838,Stephanie Geggier,3.4,20,Chemistry,42,3
+3244,2654385,Ari Hoffman,4.3,7,English,86,2.6
+3245,922164,Tirso Cleves,3.4,38,Spanish,48,3.4
+3246,396665,Ted Ziter,3.6,28,Theater,84,2.4
+3247,2742712,Julius Damarackas,0.0,0,Mathematics,100,0
+3248,180177,John Halpin,4.4,201,Chemistry,82,3.2
+3249,1577505,Matthew Nicholas,3.9,20,Writing,73,3.8
+3250,2721237,John Chiarelli,1.0,7,Mathematics,0,4.8
+3251,2734453,Rena Deitz,4.0,3,Education,84,3.3
+3252,1821540,Maryam Modjaz,4.3,13,Physics,89,2.6
+3253,2537849,Hilbert Locklear,3.0,21,Computer Science,63,4
+3254,520328,Noel Sikorski,4.2,51,English,89,3.7
+3255,1142025,Anna Szabolcsi,2.7,12,Linguistics,100,4
+3256,1727897,Giuseppe Ammendola,5.0,24,Political Science,100,3.3
+3257,1941851,Hubertus Franke,3.7,46,Computer Science,78,3.6
+3258,2770527,Nicole Baerg,4.0,1,Business,100,1
+3259,2770530,Trino Manuel-Niguez,0.0,0,Economics,N/A,0
+3260,2025897,Oded Regev,4.0,7,Computer Science,73,4.6
+3261,2313373,Sevinc Ercan,4.1,13,Biology,70,3.8
+3262,2768064,Chao Li,5.0,3,Mathematics,100,1.3
+3263,2773532,Judith Weissman,0.0,0,Public Policy,N/A,0
+3264,2548741,Mercedes Gonzales-Bazan,5.0,1,Communication,100,4
+3265,2589580,Baki Guney Isikara,4.9,10,Liberal Studies,100,2.8
+3266,226665,Carol Krinsky,3.3,77,Fine Arts,56,4.4
+3267,2491650,Richard Stein,5.0,12,Biology,100,2.8
+3268,1887040,James Higham,3.4,9,Anthropology,42,3.1
+3269,1889463,Joe Versoza,3.9,51,Computer Science,60,3.2
+3270,2725793,Quirin Vogel,5.0,6,Mathematics,89,3.5
+3271,2576734,Yacine Ali-Haimoud,2.2,5,Physics,43,4.8
+3272,919979,Irina Langer,4.0,28,Writing,77,2.8
+3273,1460379,Jamie Berthe,4.2,11,Communication,70,3.3
+3274,2695327,Mariya Feklistova,4.0,1,Mathematics,100,4
+3275,1500640,Peter Valenti,4.5,48,Liberal Studies,79,3.4
+3276,430290,Rick Litvin,3.7,46,Film,83,2.8
+3277,104829,Mark Crispin Miller,3.4,22,Communication,34,3
+3278,2775306,Michael Barron,1.0,1,English,0,2
+3279,2586408,Abhinav Tamaskar,2.5,2,Computer Science,50,1.5
+3280,2775455,Gabrielle Corradino,0.0,0,Environmental Science,N/A,0
+3281,2284196,Naima Hammoud,4.1,40,Mathematics,79,3.1
+3282,2339171,Peter Chapin,3.4,14,Liberal Studies,72,2.7
+3283,2167558,Jessamine Irwin,4.5,14,French,86,2.7
+3284,2520412,Hye Young You,3.0,27,Political Science,50,4.3
+3285,622287,Miriam Eisenstein Ebsworth,3.4,6,Languages,80,3.3
+3286,2754460,CB Owens,5.0,1,Nutrition & Foods,100,2
+3287,2063211,Marie Milofsky,3.9,14,Liberal Studies,50,3.8
+3288,2731620,Cheryl Family,1.0,3,Marketing,25,5
+3289,2747833,Anna Kendrick,3.0,2,Literature,67,4.5
+3290,2771500,Janusz Salamon,0.0,0,Political Science,N/A,0
+3291,2491434,William Tsai,5.0,3,Psychology,67,2.7
+3292,2589399,Laura Schneebaum,1.6,7,Psychology,17,4.4
+3293,2491483,Benjamin Fleming,1.5,2,Religious Studies,0,4.5
+3294,2777940,Jonathan Berger,0.0,0,Art Studio,N/A,0
+3295,2778029,Staccone Matteo,5.0,1,Mathematics,100,2
+3296,2778176,Matthias Birk,0.0,0,Public Administration,N/A,0
+3297,216065,Ben Goldberg,4.9,47,Computer Science,100,3
+3298,603422,Rene Arcilla,3.8,16,Education,50,2.7
+3299,2450415,Jaime Oliver,4.5,2,Music,100,3.5
+3300,2658012,Megan Murtha,2.4,20,Writing,74,4.2
+3301,2811801,Roman Scoccimarro,0.0,0,Physics,N/A,0
+3302,2683282,Sukwon Lee,3.0,13,Political Science,100,3.7
+3303,2812021,Emily Tsiang,0.0,0,Business,N/A,0
+3304,2812115,Cheongeun Oh,0.0,0,Statistics,N/A,0
+3305,2468676,Gitanjali DasBender,4.7,6,Writing,100,3.2
+3306,2812729,Julie Horne,0.0,0,English,N/A,0
+3307,2491608,Sandeep Mertia,0.0,0,Communication,N/A,0
+3308,18709,Marc Lieberman,4.7,179,Economics,88,3.1
+3309,2663113,S Farokh Atashzar,5.0,1,Engineering,100,4
+3310,2772309,Gilles Francfort,0.0,0,Mathematics,N/A,0
+3311,2228255,Hesam Oveys,4.8,80,Mathematics,99,3.1
+3312,2768308,Michael Luzzi,0.0,0,Film amp Television,N/A,0
+3313,1933588,Esteban Mazzoni,4.7,24,Biology,100,2.3
+3314,615615,Seyhan Arkonac,3.7,9,Economics,0,3.4
+3315,1456771,Jordana Mendelson,4.0,17,Spanish,82,3.1
+3316,1479730,April Strickland,4.4,4,Anthropology,N/A,2.5
+3317,1486219,Vince Passaro,5.0,1,Not Specified,N/A,1
+3318,2604489,Karri Whipple,4.7,10,Liberal Studies,90,2.7
+3319,2816175,Eana Kim,0.0,0,Art History,100,0
+3320,2815640,John Rofrano,0.0,0,Computer Science,N/A,0
+3321,2816555,Amara Lakhous,0.0,0,Italian,N/A,0
+3322,723609,Peggy Gormley,2.8,37,Film,28,2.2
+3323,2816759,Angelika Winner,0.0,0,Environmental Science,N/A,0
+3324,2732198,Gian Luca Clementi,1.4,17,Economics,8,4.7
+3325,2816910,Andrew Goldsmith,0.0,0,Tourism Management,N/A,0
+3326,2747953,Sherry Mason,3.0,1,English,0,4
+3327,2817608,Richard Cotty,0.0,0,Biology,N/A,0
+3328,2817724,Nancy Rubino,0.0,0,French Studies,N/A,0
+3329,2818039,Ifrah Magan,0.0,0,Social Work,N/A,0
+3330,2783970,David Alpert,1.0,1,Music Performance,N/A,5
+3331,2103586,Massimo Avuri,4.3,7,Italian,100,2.4
+3332,2816570,Luke Peilen,0.0,0,Mathematics,100,0
+3333,2818661,David Aarons,0.0,0,Real Estate,N/A,0
+3334,2780889,Nicholas Olson,0.0,0,English,N/A,0
+3335,2780891,Jung Ahh Park,0.0,0,Music Performance,N/A,0
+3336,2781175,Ines Crespo,0.0,0,Philosophy,N/A,0
+3337,2781740,Dongmyung Ahn,0.0,0,Music,N/A,0
+3338,2781764,Keoshia Worthy,0.0,0,Psychology,N/A,0
+3339,2781857,Neville Sanjana,0.0,0,Biology,N/A,0
+3340,2780538,Saarthak Singh,0.0,0,Art & Visual Culture,N/A,0
+3341,2782743,David Rosner,5.0,1,Liberal Studies,100,1
+3342,2783244,Zachary Star,5.0,1,Mathematics,100,1
+3343,2783458,Marcos Martinez,0.0,0,English,100,0
+3344,2781023,Oliver Wang,4.0,1,Finance,100,3
+3345,2781026,Mallory McMahon,5.0,1,Writing,100,4
+3346,2229189,Alena Pirutka,4.3,3,Mathematics,100,3
+3347,2783938,Azadeh Aalai,0.0,0,Psychology,N/A,0
+3348,2783791,Grace Haaf,0.0,0,Business Economics,N/A,0
+3349,2784140,David Prager,0.0,0,Computer Science,100,0
+3350,2785321,Timothy Cogley,0.0,0,Economics,N/A,0
+3351,2785359,Maria Cabrera Arus,0.0,0,Sociology,N/A,0
+3352,2823447,Tracy Olenick,0.0,0,Hospitality,N/A,0
+3353,2822203,Ben Milam,0.0,0,Teaching & Learning,N/A,0
+3354,2822665,Rachael Stark,0.0,0,Liberal Arts & Sciences,N/A,0
+3355,2424789,Charmaine Sia,2.3,40,Statistics,42,4.1
+3356,2633736,Parijat Dube,3.3,22,Computer Science,62,3.6
+3357,2538403,Na'im Tyson,1.5,12,Computer Science,0,3.8
+3358,2824988,Yoav Halperin,0.0,0,Communication,N/A,0
+3359,2654335,JAMES NOLT,3.0,4,International Relations,50,3.3
+3360,615619,Edward Steinberg,2.1,88,Economics,22,3.6
+3361,1382340,Sinan Gunturk,3.6,11,Mathematics,58,3.8
+3362,2825917,Rongning Wu,0.0,0,Statistics,N/A,0
+3363,2826381,Nina Ferraz,0.0,0,Writing,N/A,0
+3364,1772779,Beau Shaw,4.6,28,Liberal Studies,91,2.1
+3365,2826458,Kyle Bergman,0.0,0,Business,N/A,0
+3366,2425269,Noelle Liston,2.5,4,Anthropology,100,4
+3367,1747654,Yoel Ohayon,4.9,408,Chemistry,98,2.1
+3368,1770045,Thomas Truxes,2.5,8,History,0,2.8
+3369,87008,Avital Ronell,4.0,18,Humanities,88,3.6
+3370,2826703,Jicarhea Ashard,0.0,0,Chemistry,N/A,0
+3371,546445,Lisa Suzuki,3.0,11,Psychology,50,3.2
+3372,950225,Allen Feldman,2.6,7,Communication,100,3.6
+3373,2525487,Eric Set,2.5,30,Economics,55,4.3
+3374,1032165,Andrew Paizis,3.8,192,Economics,63,2.9
+3375,2826890,Ana Mims,1.0,1,Marketing,N/A,5
+3376,2625413,Michael Lindsey,3.0,4,Mathematics,25,5
+3377,2592136,Elena Manresa,2.3,4,Economics,25,3.5
+3378,2783430,Duskin Drum,0.0,0,Liberal Studies,N/A,0
+3379,2790832,Alexandra Lee,0.0,0,Liberal Studies,100,0
+3380,2791027,Stacie Berman,0.0,0,Education,N/A,0
+3381,2791028,Michael Mance,0.0,0,Psychology,N/A,0
+3382,2791255,Marshall Ball,0.0,0,Computer Science,N/A,0
+3383,2828001,Hanna Tinti,0.0,0,Writing,N/A,0
+3384,2827177,Jiajie Chen,0.0,0,Mathematics,N/A,0
+3385,2094203,Anasse Bari,4.4,165,Computer Science,85,3.6
+3386,2778249,Yu Zhang,1.1,15,Liberal Studies,N/A,4.4
+3387,1325620,Susan Zizza,3.7,17,Film & Television,100,2.8
+3388,2422701,Nader Nassar,1.8,27,Computer Science,16,3.9
+3389,2829366,Judith Abecassis,1.0,1,Data Science,N/A,5
+3390,1052652,Maitland Jones Jr.,2.9,187,Chemistry,54,4.3
+3391,2829680,Dylan Yeats,0.0,0,Asian Studies,N/A,0
+3392,1388150,Stefanos Geroulanos,3.9,30,History,65,3.9
+3393,2649675,George Benaroya,5.0,47,Marketing,98,2.8
+3394,2118628,Thomas Reynolds,1.3,6,Liberal Studies,0,4.5
+3395,2595628,Joseph Califf,3.8,8,Writing,63,4
+3396,2830233,Alfonso Morgan-Terrero,0.0,0,Film & Television,N/A,0
